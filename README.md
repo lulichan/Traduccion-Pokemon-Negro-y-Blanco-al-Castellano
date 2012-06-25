@@ -1,8 +1,4 @@
-Traducción-Pokémon-Negro-y-Blanco-al-Castellano
+Traducci-n-Pok-mon-Negro-y-Blanco-al-Espa-ol
 ============================================
 
 Traducción al español by jaluma
-
-Para meter un nuevo archivo me envias un mensaje.
-
-E-mail: xavi_computer@hotmail.com
