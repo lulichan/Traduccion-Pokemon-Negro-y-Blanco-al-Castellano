@@ -196,37 +196,37 @@ Clasif. Al Azar\xfffeDoble
 Clasif. Al Azar\xfffeTriple
 Clasif. Al Azar\xfffeRotacional
 Clasif. Al Azar\xfffeLanzador
-たいかい　シングル\xfffeシューターなし
-たいかい　シングル\xfffeシューターあり
-たいかい　ダブル\xfffeシューターなし
-たいかい　ダブル\xfffeシューターあり
-たいかい　トリプル\xfffeシューターなし
-たいかい　トリプル\xfffeシューターあり
-たいかい　ローテーション\xfffeシューターなし
-たいかい　ローテーション\xfffeシューターあり
-０１：コロシアム　シングル\xfffe　　　シューターなし
-０２：コロシアム　シングル\xfffe　　　シューターあり
-０３：コロシアム　ダブル\xfffe　　　シューターなし 
-０４：コロシアム　ダブル\xfffe　　　シューターあり
-０５：コロシアム　トリプル\xfffe　　　シューターなし
-０６：コロシアム　トリプル\xfffe　　　シューターあり
-０７：コロシアム　ローテーション\xfffe　　　シューターなし
-０８：コロシアム　ローテーション\xfffe　　　シューターあり
-０９：コロシアム　マルチ\xfffe　　　シューターなし
-１０：コロシアム　マルチ\xfffe　　　シューターあり
-１１：バトルサブウェイ\xfffe　　　シングル
-１２：バトルサブウェイ\xfffe　　　ダブル
-１３：バトルサブウェイ\xfffe　　　マルチ
-１４：ランダムマッチ\xfffe　　　シングル
-１５：ランダムマッチ\xfffe　　　ダブル
-１６：ランダムマッチ\xfffe　　　トリプル
-１７：ランダムマッチ\xfffe　　　ローテーション
-１８：ランダムマッチ\xfffe　　　シューターバトル
-１９：バトルたいかい\xfffe
-２０：バトルキャッスル\xfffe　　　マルチ
-２１：バトルルーレット\xfffe　　　シングル
-２２：バトルルーレット\xfffe　　　ダブル
-２３：バトルルーレット\xfffe　　　マルチ
+Competition, Single\xfffeLauncher Off
+Competition, Single\xfffeLauncher On
+Competition, Double\xfffeLauncher Off
+Competition, Double\xfffeLauncher On
+Competition, Triple\xfffeLauncher Off
+Competition, Triple\xfffeLauncher On
+Competition, Rotation\xfffeLauncher Off
+Competition, Rotation\xfffeLauncher On
+01: Colosseum, Single\xfffeLauncher Off
+02: Colosseum, Single\xfffeLauncher On
+03: Colosseum, Double\xfffeLauncher Off
+04: Colosseum, Double\xfffeLauncher On
+05: Colosseum, Triple\xfffeLauncher Off
+06: Colosseum, Triple\xfffeLauncher On
+07: Colosseum, Rotation\xfffeLauncher Off
+08: Colosseum, Rotation\xfffeLauncher On
+09: Colosseum, Multi\xfffeLauncher Off
+10: Colosseum, Multi\xfffeLauncher On
+11: Battle Subway\xfffeSingle
+12: Battle Subway\xfffeDouble
+13: Battle Subway\xfffeMulti
+14: Random Matchup\xfffeSingle
+15: Random Matchup\xfffeDouble
+16: Random Matchup\xfffeTriple
+17: Random Matchup\xfffeRotation
+18: Random Matchup\xfffeLauncher Battle
+19: Battle Competition
+20: Battle Castle\xfffeMulti
+21: Battle Arcade\xfffeSingle
+22: Battle Arcade\xfffeDouble
+23: Battle Arcade\xfffeMulti
 \xf000봂\x0000¡TOCA LA PANTALLA!
 ¿Quieres desconectarte de\xfffela Conexión Wi-Fi de Nintendo?
 　
