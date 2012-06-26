@@ -1,0 +1,7 @@
+Por favor, introduce la clave de amigo.
+Introduce el número de tren (01-\xf000ȁ\x0001\x0000).
+Introduce el rango (01-\xf000ȁ\x0001\x0000).
+BORRAR
+VALE
+No existe ningún tren con ese número.\xfffeIntroduce una cifra del 01 al \xf000ȁ\x0001\x0000.
+No existe ese rango.\xfffeIntroduce una cifra del 01 al \xf000ȁ\x0001\x0000.

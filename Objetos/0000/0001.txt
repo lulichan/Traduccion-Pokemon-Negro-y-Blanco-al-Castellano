@@ -1,0 +1,53 @@
+RESTAURAR
+PS/PP
+CURACIÓN
+ESTADOS
+PS/PP
+ESTADOS
+OBJ. COMBATE
+POKÉ BALLS
+ÚLTIMO OBJETO USADO
+\xf000ĉ\x0001\x0000
+×\xf000Ȃ\x0001\x0000
+\xf000ĉ\x0001\x0000
+×\xf000Ȃ\x0001\x0000
+\xf000ĉ\x0001\x0000
+×\xf000Ȃ\x0001\x0000
+\xf000ĉ\x0001\x0000
+×\xf000Ȃ\x0001\x0000
+\xf000ĉ\x0001\x0000
+×\xf000Ȃ\x0001\x0000
+\xf000ĉ\x0001\x0000
+×\xf000Ȃ\x0001\x0000
+SIGUIENTE
+RESTAURAR
+PS/PP
+CURACIÓN
+ESTADOS
+POKÉ BALLS
+OBJ. COMBATE
+/
+\xf000Ȁ\x0001\x0000
+\xf000Ȁ\x0001\x0000
+USAR
+\xf000ĉ\x0001\x0000
+×\xf000Ȃ\x0001\x0000
+つかっても　こうかが　ないよ
+しろいきりに　つつまれた！\xfffe
+\xf000Ă\x0001\x0000は\xfffeはりきっている
+\xf000Ă\x0001\x0000の\xfffeこうげきが　あがった！
+\xf000Ă\x0001\x0000の\xfffeとくこうが　あがった！
+\xf000Ă\x0001\x0000の\xfffeすばやさが　あがった！
+\xf000Ă\x0001\x0000の\xfffeとくぼうが　あがった！
+\xf000Ă\x0001\x0000の\xfffeぼうぎょが　あがった！
+\xf000Ă\x0001\x0000の\xfffeめいちゅうりつが　あがった！
+\xf000ĉ\x0001\x0000を\xfffeつかった！
+だめだ！　２ひきいて\xfffeねらいが　さだまらない……！
+¡No queda sitio en el PC!
+\xf000ć\x0001\x0001の　こうかで\xfffe\xf000Ă\x0001\x0000には　つかえません！
+¡No tiene efecto! ¡No se puede apuntar\xfffecuando hay dos Pokémon!
+¡No tiene efecto! ¡No se puede apuntar\xfffecuando hay dos Pokémon!
+No tienes suficiente energía.
+アララギの　ことば……\xfffeこういう　ものには\xf000븀\x0000\xfffeつかいどきが　あるのよ
+Las palabras de la Prof.ª Encina te vienen\xfffea la memoria: “¡Cada cosa en su momento!".
+¡Hay que estar concentrado para poder\xfffeapuntar bien!

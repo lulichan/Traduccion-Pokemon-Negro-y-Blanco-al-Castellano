@@ -1,0 +1,4 @@
+SÍ
+NO
+ACEPTAR
+CERRAR

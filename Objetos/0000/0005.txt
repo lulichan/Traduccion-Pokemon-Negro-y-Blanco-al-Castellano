@@ -1,0 +1,3 @@
+No se han podido leer los datos.\xfffe\xfffePor favor, apaga la consola y vuelve\xfffea insertar la tarjeta de juego.
+No se han podido escribir los datos.\xfffe\xfffePor favor, apaga la consola y vuelve\xfffea insertar la tarjeta de juego.
+Error al guardar.\xfffe\xfffeLa memoria de seguridad está\xfffedañada, pero se puede jugar.\xfffeSin embargo, no se podrá guardar.\xfffe\xfffePor favor, apaga la consola.

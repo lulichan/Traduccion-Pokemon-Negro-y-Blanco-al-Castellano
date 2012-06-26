@@ -1,0 +1,28 @@
+ことばを　えらんでね！
+たいせんまえの　ことばを　かんがえよう
+かったときの　きめゼリフを　かんがえよう
+まけたときの　いいわけを　かんがえよう
+はやっている　ものは？
+ユニオンあいさつを　かんがえよう
+これで　いいですか？
+なにか　ことばを　いれてください！
+なにも　しないで　やめますか？
+はい
+いいえ
+グループ\xfffeモード
+あいうえお\xfffeモード
+USAR
+VALE
+SALIR
+EDITAR
+AÑADIR NUEVO MENSAJE
+ELEGIR
+BORRAR
+SALIR
+Lista de mensajes:\xfffeSelecciona el mensaje\xfffeque quieras usar.
+Selecciona el tipo de mensaje y\xfffelas palabras que quieras introducir.
+Selecciona el texto que quieras\xfffeintroducir.
+Modo Categorías:\xfffeSelecciona una palabra o frase\xfffede esta categoría.
+Modo ABC:\xfffeIntroduce caracteres\xfffepara filtrar las palabras.
+Modo ABC:\xfffeSelecciona una palabra\xfffede la lista filtrada.
+Modo Categorías:\xfffeSelecciona una categoría de palabras\xfffepara introducir en el lugar elegido.

@@ -1,0 +1,4 @@
+¡\xf000ă\x0001\x0000se ha desabilitado!\xf000븁\x0000\xf000Ā\x0001\x0001 is\xfffeout of usable Pokémon!\xf000븁\x0000Lost against\xfffe\xf000Ď\x0001\x0002 \xf000Ā\x0001\x0003\xfffe...\xf000븁\x0000\xf000Ā\x0001\x0001 paid out\xfffe$\xf000ȅ\x0001\x0004 to the winner.\xf000븁\x0000... ... ...\xfffe... ... ...\xf000븁\x0000\xf000Ā\x0001\x0001\xfffewhited out!
+¡\xf000ă\x0001\x0000se ha debilitado!\xf000븁\x0000\xf000Ā\x0001\x0001 is\xfffeout of usable Pokémon!\xf000븁\x0000\xfffe\xf000Ā\x0001\x0001\xfffedropped $\xf000ȅ\x0001\x0003 in panic...\xf000븁\x0000... ... ...\xfffe... ... ...\xf000븁\x0000\xf000Ā\x0001\x0001\xfffewhited out!
+\xf000Ā\x0001\x0001 ha salido corriendo\xfffehacia un Centro Pokémon para que\xfffesu cansado y debilitado equipo\xfffePokémon no sufra más daños.
+\xf000Ā\x0001\x0001 se ha ido corriendo\xfffea casa para que su cansado y\xfffedebilitado equipo Pokémon\xfffeno sufra más daños.

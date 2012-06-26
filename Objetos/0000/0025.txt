@@ -1,0 +1,7 @@
+¿Quieres encender el C-Gear y activar las\xfffefunciones de comunicación?
+Aviso: Tu consola Nintendo DS no se pondrá\xfffeen modo de espera aunque la cierres.\xfffe¡Ten cuidado con la batería!
+¿Quieres apagar el C-Gear y desactivar\xfffelas funciones de comunicación?
+\xf000\xff00\x0001\x0001¡ATENCIÓN!\xf000\xff00\x0001\x0000\xfffeApaga el C-Gear y desactiva las funciones\xfffede comunicación en lugares donde esté\xfffeprohibido usarlas, como en aviones\xfffey hospitales.
+No puede encenderse el C-Gear porque la\xfffecomunicación inalámbrica está desactivada.\xfffeActiva la comunicación inalámbrica en la\xfffeconfiguración de la consola.\xfffeError: 50699
+SÍ
+NO

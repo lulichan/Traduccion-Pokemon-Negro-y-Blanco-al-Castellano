@@ -1,0 +1,590 @@
+¡Estás en la zona del regalo misterioso!
+RECIBIR REGALO
+VER ÁLBUM DE TARJETAS
+SALIR
+Es necesario activar la comunicación\xfffepara recibir este regalo misterioso.\xf000븀\x0000\xfffe¿Quieres activarla?
+SÍ
+NO
+Por favor, elige cómo quieres\xffferecibir tu regalo.
+RECIBIR POR COM. INALÁMB.
+RECIBIR POR CWF DE NINTENDO
+RECIBIR POR INFRARROJOS
+ATRÁS
+Por favor, elige cómo quieres\xffferecibir tu regalo.
+Selecciona una tarjeta\xfffeque no necesites y tírala.\xf000븁\x0000
+Si no tiras una de las tarjetas,\xfffeno podrás recibir el regalo.\xf000븀\x0000\xfffe¿Estás de acuerdo?
+SÍ
+NO
+La comunicación inalámbrica de\xfffeNintendo DS se iniciará. ¿Seguir?
+SÍ
+NO
+¿Conectarse a la CWF de Nintendo?
+SÍ
+NO
+Se iniciará la comunicación\xfffepor infrarrojos.\xf000븁\x0000\xfffeColoca tu tarjeta de juego frente a la\xfffedel otro jugador y selecciona SÍ.\xf000븁\x0000
+SÍ
+NO
+Buscando regalo...\xfffePor favor, espera.
+Elige el regalo que quieres recibir.
+¿Quieres cancelar la recepción del regalo?
+SÍ
+NO
+¿Quieres recibir este regalo?
+SÍ
+NO
+Recibiendo el regalo...\xfffeNo apagues la consola.
+¡Se ha recibido el regalo!\xf000븁\x0000\xfffeVe a ver al repartidor en cualquier\xfffeCentro Pokémon para recogerlo.\xf000븁\x0000
+Guardando el Álbum...\xfffeNo apagues la consola.
+¿Qué quieres hacer con la Tarjeta\xfffemisteriosa?
+MOVER
+TIRAR
+ATRÁS
+No puedes tirar el regalo porque todavía\xfffeno lo has recibido.\xf000븁\x0000\xfffeVe a ver al repartidor en cualquier\xfffeCentro Pokémon para recogerlo.\xf000븁\x0000
+Has tirado la tarjeta.\xf000븁\x0000
+Elige la tarjeta que quieras remplazar.
+¿Seguro que quieres tirar esta tarjeta?
+SÍ
+NO
+¿Sobre qué quieres información?
+SOBRE LOS REGALOS MISTERIOSOS
+SOBRE EL ÁLBUM DE TARJETAS
+CUANDO EL ÁLBUM ESTÁ LLENO
+ATRÁS
+INFORMACIÓN
+Los regalos misteriosos te permiten\xfffeobtener obsequios extraordinarios\xf000븀\x0000\xfffemediante la conexión de tu consola.\xf000븁\x0000\xfffeUna vez que hayas aceptado un regalo\xfffemisterioso, ve a ver al repartidor\xf000븀\x0000\xfffeen cualquier Centro Pokémon\xf000븀\x0000\xfffepara recogerlo.\xf000븁\x0000
+Cada vez que recibes un regalo misterioso,\xfffeuna Tarjeta misteriosa se añade\xf000븀\x0000\xfffea tu Álbum de tarjetas.\xf000븁\x0000\xfffePuedes examinar una tarjeta para\xfffecomprobar si el repartidor ya te\xf000븀\x0000\xfffeha entregado o no ese regalo.\xf000븁\x0000\xfffeEl número de tarjetas que pueden\xfffeguardarse en el Álbum es limitado, así que\xf000븀\x0000\xfffeasegúrate de recoger los regalos que te\xf000븀\x0000\xfffequeden por recibir.\xf000븁\x0000\xfffeUna vez que hayas comenzado una partida\xfffey puedas guardar tu progreso,\xf000븀\x0000\xfffepodrás guardar hasta 12 tarjetas.\xf000븁\x0000\xfffeSi todavía no has comenzado una partida\xfffey no puedes guardar tu progreso,\xf000븀\x0000\xfffepodrás guardar solo 3 tarjetas.\xf000븁\x0000\xfffeCuando el Álbum esté lleno,\xfffedeberás hacer sitio para poder\xf000븀\x0000\xffferecibir más regalos.\xf000븁\x0000
+Cuando el Álbum esté lleno,\xfffeno podrás recibir más regalos.\xf000븁\x0000\xfffeSi quieres recibir nuevos regalos,\xfffeelige una de las Tarjetas misteriosas\xf000븀\x0000\xfffey pulsa el Botón A para tirarla.\xf000븁\x0000\xfffeSi todavía no has recibido todos los\xffferegalos de las tarjetas que tienes\xf000븀\x0000\xfffeen el Álbum, ve a ver al repartidor\xf000븀\x0000\xfffeen cualquier Centro Pokémon.\xf000븁\x0000
+Cada vez que recibes un regalo misterioso,\xfffeuna Tarjeta misteriosa se añade\xf000븀\x0000\xfffea tu Álbum de tarjetas.\xf000븁\x0000\xfffePuedes examinar una tarjeta para\xfffecomprobar si el repartidor ya te\xf000븀\x0000\xfffeha entregado o no ese regalo.\xf000븁\x0000\xfffeEl número de tarjetas que pueden\xfffeguardarse en el Álbum es limitado, así que\xf000븀\x0000\xfffeasegúrate de recoger los regalos que te\xf000븀\x0000\xfffequeden por recibir.\xf000븁\x0000\xfffeUna vez que hayas comenzado una partida\xfffey puedas guardar tu progreso,\xf000븀\x0000\xfffepodrás guardar hasta 12 tarjetas.\xf000븁\x0000\xfffeSi todavía no has comenzado una partida\xfffey no puedes guardar tu progreso,\xf000븀\x0000\xfffepodrás guardar solo 3 tarjetas.\xf000븁\x0000\xfffeCuando el Álbum esté lleno,\xfffedeberás hacer sitio para poder\xf000븀\x0000\xffferecibir más regalos.\xf000븁\x0000
+Conectando...\xfffeEspera unos instantes.
+¡El repartidor tiene un montón de regalos!\xf000븁\x0000\xfffeVe a ver al repartidor en cualquier\xfffeCentro Pokémon para recogerlos.\xf000븁\x0000
+Ya has recibido este regalo.\xfffeNo puedes recibirlo otra vez.\xf000븁\x0000
+No se encontraron regalos.\xf000븁\x0000
+もうしこみ　が　きょひ　されました\xf000븁\x0000
+¡Tu Álbum de tarjetas está lleno!\xf000븁\x0000\xfffeNo puedes recibir más regalos.\xfffe¿Quieres tirar alguna Tarjeta misteriosa?
+SÍ
+NO
+No se ha podido recibir el regalo.\xf000븁\x0000
+おくりものを　みつけましたが\xfffeこの　バージョンでは\xf000븀\x0000\xfffeうけとることが　できません\xf000븁\x0000
+No se pueden recibir más tarjetas\xfffeporque no hay una partida guardada.\xf000븀\x0000\xfffeComienza una partida.\xf000븁\x0000
+Álbum de tarjetas
+A: ORDENAR
+SALIR
+\xf000ȁ\x0001\x0000/\xf000ȁ\x0001\x0001
+\xf000봃\x0001\x0000\xf000ȁ\x0001\x0002-\xf000ȁ\x0001\x0001-\xf000ȃ\x0001\x0000
+Tarjeta misteriosa
+Fecha recepción
+\xf000ȁ\x0001\x0002-\xf000ȁ\x0001\x0001-\xf000ȃ\x0001\x0000
+A: TERMINAR
+　
+¡Gracias por venir a ver\xfffeesta Película Pokémon!\xfffeVe a ver al repartidor en cualquier\xfffeCentro Pokémon para recoger tu regalo.
+¡Gracias por venir a ver\xfffela Película Pokémon 2010!\xfffeVe a ver al repartidor en cualquier\xfffeCentro Pokémon para recoger tu regalo.
+¡Gracias por venir a ver\xfffela Película Pokémon 2011!\xfffeVe a ver al repartidor en cualquier\xfffeCentro Pokémon para recoger tu regalo.
+¡Gracias por venir a ver\xfffela Película Pokémon 2012!\xfffeVe a ver al repartidor en cualquier\xfffeCentro Pokémon para recoger tu regalo.
+¡Gracias por venir a ver\xfffela Película Pokémon 2013!\xfffeVe a ver al repartidor en cualquier\xfffeCentro Pokémon para recoger tu regalo.
+¡Gracias por venir a ver\xfffela Película Pokémon 2014!\xfffeVe a ver al repartidor en cualquier\xfffeCentro Pokémon para recoger tu regalo.
+¡Gracias por venir a ver\xfffela Película Pokémon 2015!\xfffeVe a ver al repartidor en cualquier\xfffeCentro Pokémon para recoger tu regalo.
+¡Gracias por venir a ver\xfffela Película Pokémon 2016!\xfffeVe a ver al repartidor en cualquier\xfffeCentro Pokémon para recoger tu regalo.
+¡Gracias por venir a ver\xfffela Película Pokémon 2017!\xfffeVe a ver al repartidor en cualquier\xfffeCentro Pokémon para recoger tu regalo.
+¡Gracias por venir a ver\xfffela Película Pokémon 2018!\xfffeVe a ver al repartidor en cualquier\xfffeCentro Pokémon para recoger tu regalo.
+¡Gracias por venir a ver\xfffela Película Pokémon 2019!\xfffeVe a ver al repartidor en cualquier\xfffeCentro Pokémon para recoger tu regalo.
+¡Gracias por venir a ver\xfffela Película Pokémon 2020!\xfffeVe a ver al repartidor en cualquier\xfffeCentro Pokémon para recoger tu regalo.
+¡Gracias por venir a\xfffeeste Centro Pokémon!\xfffeNo te olvides de recoger\xfffetu regalo en el juego.
+¡Gracias por venir al\xfffeCentro Pokémon Tokio!\xfffeNo te olvides de recoger\xfffetu regalo en el juego.
+¡Gracias por venir al\xfffeCentro Pokémon Osaka!\xfffeNo te olvides de recoger\xfffetu regalo en el juego.
+¡Gracias por venir al\xfffeCentro Pokémon Fukuoka!\xfffeNo te olvides de recoger\xfffetu regalo en el juego.
+¡Gracias por venir al\xfffeCentro Pokémon Nagoya!\xfffeNo te olvides de recoger\xfffetu regalo en el juego.
+¡Gracias por venir al\xfffeCentro Pokémon Sapporo!\xfffeNo te olvides de recoger\xfffetu regalo en el juego.
+¡Gracias por venir al\xfffeCentro Pokémon Yokohama!\xfffeNo te olvides de recoger\xfffetu regalo en el juego.
+¡Gracias por participar en el Campeonato\xfffeMundial de Videojuegos Pokémon!\xfffeVe a ver al repartidor en cualquier\xfffeCentro Pokémon para recoger tu regalo.
+¡Gracias por participar en el Campeonato\xfffeMundial de Videojuegos Pokémon 2010!\xfffeVe a ver al repartidor en cualquier\xfffeCentro Pokémon para recoger tu regalo.
+¡Gracias por participar en el Campeonato\xfffeMundial de Videojuegos Pokémon 2011!\xfffeVe a ver al repartidor en cualquier\xfffeCentro Pokémon para recoger tu regalo.
+¡Gracias por participar en el Campeonato\xfffeMundial de Videojuegos Pokémon 2012!\xfffeVe a ver al repartidor en cualquier\xfffeCentro Pokémon para recoger tu regalo.
+¡Gracias por participar en el Campeonato\xfffeMundial de Videojuegos Pokémon 2013!\xfffeVe a ver al repartidor en cualquier\xfffeCentro Pokémon para recoger tu regalo.
+¡Gracias por participar en el Campeonato\xfffeMundial de Videojuegos Pokémon 2014!\xfffeVe a ver al repartidor en cualquier\xfffeCentro Pokémon para recoger tu regalo.
+¡Gracias por participar en el Campeonato\xfffeMundial de Videojuegos Pokémon 2015!\xfffeVe a ver al repartidor en cualquier\xfffeCentro Pokémon para recoger tu regalo.
+¡Gracias por participar en el Campeonato\xfffeMundial de Videojuegos Pokémon 2016!\xfffeVe a ver al repartidor en cualquier\xfffeCentro Pokémon para recoger tu regalo.
+¡Gracias por participar en el Campeonato\xfffeMundial de Videojuegos Pokémon 2017!\xfffeVe a ver al repartidor en cualquier\xfffeCentro Pokémon para recoger tu regalo.
+¡Gracias por participar en el Campeonato\xfffeMundial de Videojuegos Pokémon 2018!\xfffeVe a ver al repartidor en cualquier\xfffeCentro Pokémon para recoger tu regalo.
+¡Gracias por participar en el Campeonato\xfffeMundial de Videojuegos Pokémon 2019!\xfffeVe a ver al repartidor en cualquier\xfffeCentro Pokémon para recoger tu regalo.
+¡Gracias por participar en el Campeonato\xfffeMundial de Videojuegos Pokémon 2020!\xfffeVe a ver al repartidor en cualquier\xfffeCentro Pokémon para recoger tu regalo.
+¡Gracias por venir al Campeonato!\xfffeVe a ver al repartidor en cualquier\xfffeCentro Pokémon para recoger tu regalo.
+¡Gracias por venir al Campeonato 2010!\xfffeVe a ver al repartidor en cualquier\xfffeCentro Pokémon para recoger tu regalo.
+¡Gracias por venir al Campeonato 2011!\xfffeVe a ver al repartidor en cualquier\xfffeCentro Pokémon para recoger tu regalo.
+¡Gracias por venir al Campeonato 2012!\xfffeVe a ver al repartidor en cualquier\xfffeCentro Pokémon para recoger tu regalo.
+¡Gracias por venir al Campeonato 2013!\xfffeVe a ver al repartidor en cualquier\xfffeCentro Pokémon para recoger tu regalo.
+¡Gracias por venir al Campeonato 2014!\xfffeVe a ver al repartidor en cualquier\xfffeCentro Pokémon para recoger tu regalo.
+¡Gracias por venir al Campeonato 2015!\xfffeVe a ver al repartidor en cualquier\xfffeCentro Pokémon para recoger tu regalo.
+¡Gracias por venir al Campeonato 2016!\xfffeVe a ver al repartidor en cualquier\xfffeCentro Pokémon para recoger tu regalo.
+¡Gracias por venir al Campeonato 2017!\xfffeVe a ver al repartidor en cualquier\xfffeCentro Pokémon para recoger tu regalo.
+¡Gracias por venir al Campeonato 2018!\xfffeVe a ver al repartidor en cualquier\xfffeCentro Pokémon para recoger tu regalo.
+¡Gracias por venir al Campeonato 2019!\xfffeVe a ver al repartidor en cualquier\xfffeCentro Pokémon para recoger tu regalo.
+¡Gracias por venir al Campeonato 2020!\xfffeVe a ver al repartidor en cualquier\xfffeCentro Pokémon para recoger tu regalo.
+¡Gracias por asistir a este Evento\xfffede Videojuegos!\xfffeVe a ver al repartidor en cualquier\xfffeCentro Pokémon para recoger tu regalo.
+¡Gracias por asistir al Evento\xfffede Videojuegos 2010!\xfffeVe a ver al repartidor en cualquier\xfffeCentro Pokémon para recoger tu regalo.
+¡Gracias por asistir al Evento\xfffede Videojuegos 2011!\xfffeVe a ver al repartidor en cualquier\xfffeCentro Pokémon para recoger tu regalo.
+¡Gracias por asistir al Evento\xfffede Videojuegos 2012!\xfffeVe a ver al repartidor en cualquier\xfffeCentro Pokémon para recoger tu regalo.
+¡Gracias por asistir al Evento\xfffede Videojuegos 2013!\xfffeVe a ver al repartidor en cualquier\xfffeCentro Pokémon para recoger tu regalo.
+¡Gracias por asistir al Evento\xfffede Videojuegos 2014!\xfffeVe a ver al repartidor en cualquier\xfffeCentro Pokémon para recoger tu regalo.
+¡Gracias por asistir al Evento\xfffede Videojuegos 2015!\xfffeVe a ver al repartidor en cualquier\xfffeCentro Pokémon para recoger tu regalo.
+¡Gracias por asistir al Evento\xfffede Videojuegos 2016!\xfffeVe a ver al repartidor en cualquier\xfffeCentro Pokémon para recoger tu regalo.
+¡Gracias por asistir al Evento\xfffede Videojuegos 2017!\xfffeVe a ver al repartidor en cualquier\xfffeCentro Pokémon para recoger tu regalo.
+¡Gracias por asistir al Evento\xfffede Videojuegos 2018!\xfffeVe a ver al repartidor en cualquier\xfffeCentro Pokémon para recoger tu regalo.
+¡Gracias por asistir al Evento\xfffede Videojuegos 2019!\xfffeVe a ver al repartidor en cualquier\xfffeCentro Pokémon para recoger tu regalo.
+¡Gracias por asistir al Evento\xfffede Videojuegos 2020!\xfffeVe a ver al repartidor en cualquier\xfffeCentro Pokémon para recoger tu regalo.
+¡Gracias por participar en el Campeonato\xfffede Videojuegos Pokémon 2010!\xfffeVe a ver al repartidor en cualquier\xfffeCentro Pokémon para recoger tu regalo.
+¡Gracias por participar en el Campeonato\xfffede Videojuegos Pokémon 2011!\xfffeVe a ver al repartidor en cualquier\xfffeCentro Pokémon para recoger tu regalo.
+¡Gracias por participar en el Campeonato\xfffede Videojuegos Pokémon 2012!\xfffeVe a ver al repartidor en cualquier\xfffeCentro Pokémon para recoger tu regalo.
+¡Gracias por participar en el Campeonato\xfffede Videojuegos Pokémon 2013!\xfffeVe a ver al repartidor en cualquier\xfffeCentro Pokémon para recoger tu regalo.
+¡Gracias por participar en el Campeonato\xfffede Videojuegos Pokémon 2014!\xfffeVe a ver al repartidor en cualquier\xfffeCentro Pokémon para recoger tu regalo.
+¡Gracias por participar en el Campeonato\xfffede Videojuegos Pokémon 2015!\xfffeVe a ver al repartidor en cualquier\xfffeCentro Pokémon para recoger tu regalo.
+¡Gracias por participar en el Campeonato\xfffede Videojuegos Pokémon 2016!\xfffeVe a ver al repartidor en cualquier\xfffeCentro Pokémon para recoger tu regalo.
+¡Gracias por participar en el Campeonato\xfffede Videojuegos Pokémon 2017!\xfffeVe a ver al repartidor en cualquier\xfffeCentro Pokémon para recoger tu regalo.
+¡Gracias por participar en el Campeonato\xfffede Videojuegos Pokémon 2018!\xfffeVe a ver al repartidor en cualquier\xfffeCentro Pokémon para recoger tu regalo.
+¡Gracias por participar en el Campeonato\xfffede Videojuegos Pokémon 2019!\xfffeVe a ver al repartidor en cualquier\xfffeCentro Pokémon para recoger tu regalo.
+¡Gracias por participar en el Campeonato\xfffede Videojuegos Pokémon 2020!\xfffeVe a ver al repartidor en cualquier\xfffeCentro Pokémon para recoger tu regalo.
+¡Gracias por asistir a este evento!\xfffeVe a ver al repartidor en cualquier\xfffeCentro Pokémon para recoger tu regalo.
+¡Gracias por asistir a este\xfffeevento Pokémon!\xfffeVe a ver al repartidor en cualquier\xfffeCentro Pokémon para recoger tu regalo.
+¡Gracias por jugar a Pokémon!\xfffeVe a ver al repartidor en cualquier\xfffeCentro Pokémon para recoger tu regalo.
+¡Gracias por venir \xfffea este establecimiento!\xfffeVe a ver al repartidor en cualquier\xfffeCentro Pokémon para recoger tu regalo.
+¡Gracias por participar en este Torneo!\xfffeVe a ver al repartidor en cualquier\xfffeCentro Pokémon para recoger tu regalo.
+¡Gracias por participar\xfffeen este Evento de Juegos!\xfffeVe a ver al repartidor en cualquier\xfffeCentro Pokémon para recoger tu regalo.
+¡Has conseguido un regalo\xfffeen este Evento de Juegos!\xfffeVe a ver al repartidor en cualquier\xfffeCentro Pokémon para recoger tu regalo.
+¡Has conseguido un regalo\xfffedel Club de Fans de Pokémon!\xfffeVe a ver al repartidor en cualquier\xfffeCentro Pokémon para recoger tu regalo.
+¡Gracias por ver Pokémon Sunday!\xfffeVe a ver al repartidor en cualquier\xfffeCentro Pokémon para recoger tu regalo.
+¡Has conseguido un regalo\xfffede Pokémon Sunday!\xfffeVe a ver al repartidor en cualquier\xfffeCentro Pokémon para recoger tu regalo.
+¡Gracias por participar\xfffeen la Plaza Reto!\xfffeVe a ver al repartidor en cualquier\xfffeCentro Pokémon para recoger tu regalo.
+¡Has conseguido un regalo\xfffeen la Plaza Reto!\xfffeVe a ver al repartidor en cualquier\xfffeCentro Pokémon para recoger tu regalo.
+¡Gracias por participar\xfffeen el Reto Batalla!\xfffeVe a ver al repartidor en cualquier\xfffeCentro Pokémon para recoger tu regalo.
+¡Has conseguido un regalo\xfffeen el Reto Batalla!\xfffeVe a ver al repartidor en cualquier\xfffeCentro Pokémon para recoger tu regalo.
+¡Gracias por participar en\xfffela Pista de Entrenadores!\xfffeVe a ver al repartidor en cualquier\xfffeCentro Pokémon para recoger tu regalo.
+¡Has conseguido un regalo\xfffeen la Pista de Entrenadores!\xfffeVe a ver al repartidor en cualquier\xfffeCentro Pokémon para recoger tu regalo.
+¡Gracias por participar\xfffeen el Tour de Batalla!\xfffeVe a ver al repartidor en cualquier\xfffeCentro Pokémon para recoger tu regalo.
+¡Has conseguido un regalo\xfffeen el Tour de Batalla!\xfffeVe a ver al repartidor en cualquier\xfffeCentro Pokémon para recoger tu regalo.
+¡Gracias por asistir a\xfffeeste Concierto Pokémon!\xfffeVe a ver al repartidor en cualquier\xfffeCentro Pokémon para recoger tu regalo.
+¡Gracias por ver la serie de animación\xfffede Pokémon!\xfffeVe a ver al repartidor en cualquier\xfffeCentro Pokémon para recoger tu regalo.
+¡Gracias por utilizar la\xfffeConexión Wi-Fi de Nintendo!\xfffeVe a ver al repartidor en cualquier\xfffeCentro Pokémon para recoger tu regalo.
+¡Gracias por realizar esta descarga!\xfffeVe a ver al repartidor en cualquier\xfffeCentro Pokémon para recoger tu regalo.
+Ve a ver al repartidor en cualquier\xfffeCentro Pokémon para recoger tu regalo.
+¡Gracias por jugar a Pokémon Ranger!\xfffeVe a ver al repartidor en cualquier\xfffeCentro Pokémon para recoger tu regalo.
+Has recibido una solicitud de la Unión\xfffeRanger para cuidar un Pokémon.\xfffeVe a ver al repartidor en cualquier\xfffeCentro Pokémon para recoger el Pokémon.
+Has recibido una solicitud de la Unión\xfffeRanger para cuidar un Huevo.\xfffeVe a ver al repartidor en cualquier\xfffeCentro Pokémon para recoger el Huevo.
+¡Gracias por jugar en\xfffePokémon Dream World!\xfffeVe a ver al repartidor en cualquier\xfffeCentro Pokémon para recoger tu regalo.
+¡Has conseguido un regalo\xfffeen Pokémon Dream World!\xfffeVe a ver al repartidor en cualquier\xfffeCentro Pokémon para recoger tu regalo.
+¡Gracias por jugar en\xfffePokémon Dream World!\xfffeVe a ver al repartidor en cualquier\xfffeCentro Pokémon para recoger tu regalo.
+¡Has conseguido un regalo\xfffeen Pokémon Dream World!\xfffeVe a ver al repartidor en cualquier\xfffeCentro Pokémon para recoger tu regalo.
+¡Gracias por asistir al\xfffeEvento PKMN 2010!\xfffeVe a ver al repartidor en cualquier\xfffeCentro Pokémon para recoger tu regalo.
+¡Gracias por asistir al\xfffeEvento PKMN 2011!\xfffeVe a ver al repartidor en cualquier\xfffeCentro Pokémon para recoger tu regalo.
+¡Gracias por asistir al\xfffeEvento PKMN 2012!\xfffeVe a ver al repartidor en cualquier\xfffeCentro Pokémon para recoger tu regalo.
+¡Gracias por asistir al\xfffeEvento PKMN 2013!\xfffeVe a ver al repartidor en cualquier\xfffeCentro Pokémon para recoger tu regalo.
+¡Gracias por asistir al\xfffeEvento PKMN 2014!\xfffeVe a ver al repartidor en cualquier\xfffeCentro Pokémon para recoger tu regalo.
+¡Gracias por asistir al\xfffeEvento PKMN 2015!\xfffeVe a ver al repartidor en cualquier\xfffeCentro Pokémon para recoger tu regalo.
+¡Gracias por asistir al\xfffeEvento PKMN 2016!\xfffeVe a ver al repartidor en cualquier\xfffeCentro Pokémon para recoger tu regalo.
+¡Gracias por asistir al\xfffeEvento PKMN 2017!\xfffeVe a ver al repartidor en cualquier\xfffeCentro Pokémon para recoger tu regalo.
+¡Gracias por asistir al\xfffeEvento PKMN 2018!\xfffeVe a ver al repartidor en cualquier\xfffeCentro Pokémon para recoger tu regalo.
+¡Gracias por asistir al\xfffeEvento PKMN 2019!\xfffeVe a ver al repartidor en cualquier\xfffeCentro Pokémon para recoger tu regalo.
+¡Gracias por asistir al\xfffeEvento PKMN 2020!\xfffeVe a ver al repartidor en cualquier\xfffeCentro Pokémon para recoger tu regalo.
+¡Gracias por asistir\xfffea Pokémon Festa!\xfffeVe a ver al repartidor en cualquier\xfffeCentro Pokémon para recoger tu regalo.
+¡Gracias por asistir a\xfffePokémon Festa 2010!\xfffeVe a ver al repartidor en cualquier\xfffeCentro Pokémon para recoger tu regalo.
+¡Gracias por asistir a\xfffePokémon Festa 2011!\xfffeVe a ver al repartidor en cualquier\xfffeCentro Pokémon para recoger tu regalo.
+¡Gracias por asistir a\xfffePokémon Festa 2012!\xfffeVe a ver al repartidor en cualquier\xfffeCentro Pokémon para recoger tu regalo.
+¡Gracias por asistir a\xfffePokémon Festa 2013!\xfffeVe a ver al repartidor en cualquier\xfffeCentro Pokémon para recoger tu regalo.
+¡Gracias por asistir a\xfffePokémon Festa 2014!\xfffeVe a ver al repartidor en cualquier\xfffeCentro Pokémon para recoger tu regalo.
+¡Gracias por asistir a\xfffePokémon Festa 2015!\xfffeVe a ver al repartidor en cualquier\xfffeCentro Pokémon para recoger tu regalo.
+¡Gracias por asistir a\xfffePokémon Festa 2016!\xfffeVe a ver al repartidor en cualquier\xfffeCentro Pokémon para recoger tu regalo.
+¡Gracias por asistir a\xfffePokémon Festa 2017!\xfffeVe a ver al repartidor en cualquier\xfffeCentro Pokémon para recoger tu regalo.
+¡Gracias por asistir a\xfffePokémon Festa 2018!\xfffeVe a ver al repartidor en cualquier\xfffeCentro Pokémon para recoger tu regalo.
+¡Gracias por asistir a\xfffePokémon Festa 2019!\xfffeVe a ver al repartidor en cualquier\xfffeCentro Pokémon para recoger tu regalo.
+¡Gracias por asistir a\xfffePokémon Festa 2020!\xfffeVe a ver al repartidor en cualquier\xfffeCentro Pokémon para recoger tu regalo.
+¡Gracias por venir a PokéPark!\xfffeVe a ver al repartidor en cualquier\xfffeCentro Pokémon para recoger tu regalo.
+¡Has conseguido un regalo\xfffeen PokéPark!\xfffeVe a ver al repartidor en cualquier\xfffeCentro Pokémon para recoger tu regalo.
+¡Gracias por venir a PokéPark 2010!\xfffeVe a ver al repartidor en cualquier\xfffeCentro Pokémon para recoger tu regalo.
+¡Gracias por venir a PokéPark 2011!\xfffeVe a ver al repartidor en cualquier\xfffeCentro Pokémon para recoger tu regalo.
+¡Gracias por venir a PokéPark 2012!\xfffeVe a ver al repartidor en cualquier\xfffeCentro Pokémon para recoger tu regalo.
+¡Gracias por venir a PokéPark 2013!\xfffeVe a ver al repartidor en cualquier\xfffeCentro Pokémon para recoger tu regalo.
+¡Gracias por venir a PokéPark 2014!\xfffeVe a ver al repartidor en cualquier\xfffeCentro Pokémon para recoger tu regalo.
+¡Gracias por venir a PokéPark 2015!\xfffeVe a ver al repartidor en cualquier\xfffeCentro Pokémon para recoger tu regalo.
+¡Gracias por venir a PokéPark 2016!\xfffeVe a ver al repartidor en cualquier\xfffeCentro Pokémon para recoger tu regalo.
+¡Gracias por venir a PokéPark 2017!\xfffeVe a ver al repartidor en cualquier\xfffeCentro Pokémon para recoger tu regalo.
+¡Gracias por venir a PokéPark 2018!\xfffeVe a ver al repartidor en cualquier\xfffeCentro Pokémon para recoger tu regalo.
+¡Gracias por venir a PokéPark 2019!\xfffeVe a ver al repartidor en cualquier\xfffeCentro Pokémon para recoger tu regalo.
+¡Gracias por venir a PokéPark 2020!\xfffeVe a ver al repartidor en cualquier\xfffeCentro Pokémon para recoger tu regalo.
+Ve a ver al repartidor en cualquier\xfffeCentro Pokémon para recoger tu regalo.
+Ve a ver al repartidor en cualquier\xfffeCentro Pokémon para recoger tu regalo.
+Ve a ver al repartidor en cualquier\xfffeCentro Pokémon para recoger tu regalo.
+Ve a ver al repartidor en cualquier\xfffeCentro Pokémon para recoger tu regalo.
+Ve a ver al repartidor en cualquier\xfffeCentro Pokémon para recoger tu regalo.
+Ve a ver al repartidor en cualquier\xfffeCentro Pokémon para recoger tu regalo.
+Ve a ver al repartidor en cualquier\xfffeCentro Pokémon para recoger tu regalo.
+Ve a ver al repartidor en cualquier\xfffeCentro Pokémon para recoger tu regalo.
+Ve a ver al repartidor en cualquier\xfffeCentro Pokémon para recoger tu regalo.
+Ve a ver al repartidor en cualquier\xfffeCentro Pokémon para recoger tu regalo.
+Ve a ver al repartidor en cualquier\xfffeCentro Pokémon para recoger tu regalo.
+Ve a ver al repartidor en cualquier\xfffeCentro Pokémon para recoger tu regalo.
+Ve a ver al repartidor en cualquier\xfffeCentro Pokémon para recoger tu regalo.
+Ve a ver al repartidor en cualquier\xfffeCentro Pokémon para recoger tu regalo.
+Ve a ver al repartidor en cualquier\xfffeCentro Pokémon para recoger tu regalo.
+Ve a ver al repartidor en cualquier\xfffeCentro Pokémon para recoger tu regalo.
+Ve a ver al repartidor en cualquier\xfffeCentro Pokémon para recoger tu regalo.
+Ve a ver al repartidor en cualquier\xfffeCentro Pokémon para recoger tu regalo.
+Ve a ver al repartidor en cualquier\xfffeCentro Pokémon para recoger tu regalo.
+Ve a ver al repartidor en cualquier\xfffeCentro Pokémon para recoger tu regalo.
+Ve a ver al repartidor en cualquier\xfffeCentro Pokémon para recoger tu regalo.
+Ve a ver al repartidor en cualquier\xfffeCentro Pokémon para recoger tu regalo.
+Ve a ver al repartidor en cualquier\xfffeCentro Pokémon para recoger tu regalo.
+Ve a ver al repartidor en cualquier\xfffeCentro Pokémon para recoger tu regalo.
+Ve a ver al repartidor en cualquier\xfffeCentro Pokémon para recoger tu regalo.
+Ve a ver al repartidor en cualquier\xfffeCentro Pokémon para recoger tu regalo.
+Ve a ver al repartidor en cualquier\xfffeCentro Pokémon para recoger tu regalo.
+Ve a ver al repartidor en cualquier\xfffeCentro Pokémon para recoger tu regalo.
+Ve a ver al repartidor en cualquier\xfffeCentro Pokémon para recoger tu regalo.
+Ve a ver al repartidor en cualquier\xfffeCentro Pokémon para recoger tu regalo.
+Ve a ver al repartidor en cualquier\xfffeCentro Pokémon para recoger tu regalo.
+Ve a ver al repartidor en cualquier\xfffeCentro Pokémon para recoger tu regalo.
+Ve a ver al repartidor en cualquier\xfffeCentro Pokémon para recoger tu regalo.
+Ve a ver al repartidor en cualquier\xfffeCentro Pokémon para recoger tu regalo.
+Ve a ver al repartidor en cualquier\xfffeCentro Pokémon para recoger tu regalo.
+Ve a ver al repartidor en cualquier\xfffeCentro Pokémon para recoger tu regalo.
+Ve a ver al repartidor en cualquier\xfffeCentro Pokémon para recoger tu regalo.
+Ve a ver al repartidor en cualquier\xfffeCentro Pokémon para recoger tu regalo.
+Ve a ver al repartidor en cualquier\xfffeCentro Pokémon para recoger tu regalo.
+Ve a ver al repartidor en cualquier\xfffeCentro Pokémon para recoger tu regalo.
+Ve a ver al repartidor en cualquier\xfffeCentro Pokémon para recoger tu regalo.
+Ve a ver al repartidor en cualquier\xfffeCentro Pokémon para recoger tu regalo.
+Ve a ver al repartidor en cualquier\xfffeCentro Pokémon para recoger tu regalo.
+Ve a ver al repartidor en cualquier\xfffeCentro Pokémon para recoger tu regalo.
+Ve a ver al repartidor en cualquier\xfffeCentro Pokémon para recoger tu regalo.
+Ve a ver al repartidor en cualquier\xfffeCentro Pokémon para recoger tu regalo.
+Ve a ver al repartidor en cualquier\xfffeCentro Pokémon para recoger tu regalo.
+Ve a ver al repartidor en cualquier\xfffeCentro Pokémon para recoger tu regalo.
+Ve a ver al repartidor en cualquier\xfffeCentro Pokémon para recoger tu regalo.
+Ve a ver al repartidor en cualquier\xfffeCentro Pokémon para recoger tu regalo.
+Ve a ver al repartidor en cualquier\xfffeCentro Pokémon para recoger tu regalo.
+Ve a ver al repartidor en cualquier\xfffeCentro Pokémon para recoger tu regalo.
+Ve a ver al repartidor en cualquier\xfffeCentro Pokémon para recoger tu regalo.
+Ve a ver al repartidor en cualquier\xfffeCentro Pokémon para recoger tu regalo.
+Ve a ver al repartidor en cualquier\xfffeCentro Pokémon para recoger tu regalo.
+Ve a ver al repartidor en cualquier\xfffeCentro Pokémon para recoger tu regalo.
+Ve a ver al repartidor en cualquier\xfffeCentro Pokémon para recoger tu regalo.
+Ve a ver al repartidor en cualquier\xfffeCentro Pokémon para recoger tu regalo.
+Ve a ver al repartidor en cualquier\xfffeCentro Pokémon para recoger tu regalo.
+Ve a ver al repartidor en cualquier\xfffeCentro Pokémon para recoger tu regalo.
+Ve a ver al repartidor en cualquier\xfffeCentro Pokémon para recoger tu regalo.
+Ve a ver al repartidor en cualquier\xfffeCentro Pokémon para recoger tu regalo.
+Ve a ver al repartidor en cualquier\xfffeCentro Pokémon para recoger tu regalo.
+Ve a ver al repartidor en cualquier\xfffeCentro Pokémon para recoger tu regalo.
+Ve a ver al repartidor en cualquier\xfffeCentro Pokémon para recoger tu regalo.
+Ve a ver al repartidor en cualquier\xfffeCentro Pokémon para recoger tu regalo.
+Ve a ver al repartidor en cualquier\xfffeCentro Pokémon para recoger tu regalo.
+Ve a ver al repartidor en cualquier\xfffeCentro Pokémon para recoger tu regalo.
+Ve a ver al repartidor en cualquier\xfffeCentro Pokémon para recoger tu regalo.
+Ve a ver al repartidor en cualquier\xfffeCentro Pokémon para recoger tu regalo.
+Ve a ver al repartidor en cualquier\xfffeCentro Pokémon para recoger tu regalo.
+Ve a ver al repartidor en cualquier\xfffeCentro Pokémon para recoger tu regalo.
+Ve a ver al repartidor en cualquier\xfffeCentro Pokémon para recoger tu regalo.
+Ve a ver al repartidor en cualquier\xfffeCentro Pokémon para recoger tu regalo.
+Ve a ver al repartidor en cualquier\xfffeCentro Pokémon para recoger tu regalo.
+Ve a ver al repartidor en cualquier\xfffeCentro Pokémon para recoger tu regalo.
+Ve a ver al repartidor en cualquier\xfffeCentro Pokémon para recoger tu regalo.
+Ve a ver al repartidor en cualquier\xfffeCentro Pokémon para recoger tu regalo.
+Ve a ver al repartidor en cualquier\xfffeCentro Pokémon para recoger tu regalo.
+Ve a ver al repartidor en cualquier\xfffeCentro Pokémon para recoger tu regalo.
+Ve a ver al repartidor en cualquier\xfffeCentro Pokémon para recoger tu regalo.
+Ve a ver al repartidor en cualquier\xfffeCentro Pokémon para recoger tu regalo.
+Ve a ver al repartidor en cualquier\xfffeCentro Pokémon para recoger tu regalo.
+Ve a ver al repartidor en cualquier\xfffeCentro Pokémon para recoger tu regalo.
+Ve a ver al repartidor en cualquier\xfffeCentro Pokémon para recoger tu regalo.
+Ve a ver al repartidor en cualquier\xfffeCentro Pokémon para recoger tu regalo.
+Ve a ver al repartidor en cualquier\xfffeCentro Pokémon para recoger tu regalo.
+Ve a ver al repartidor en cualquier\xfffeCentro Pokémon para recoger tu regalo.
+Ve a ver al repartidor en cualquier\xfffeCentro Pokémon para recoger tu regalo.
+Ve a ver al repartidor en cualquier\xfffeCentro Pokémon para recoger tu regalo.
+Ve a ver al repartidor en cualquier\xfffeCentro Pokémon para recoger tu regalo.
+Ve a ver al repartidor en cualquier\xfffeCentro Pokémon para recoger tu regalo.
+Ve a ver al repartidor en cualquier\xfffeCentro Pokémon para recoger tu regalo.
+Ve a ver al repartidor en cualquier\xfffeCentro Pokémon para recoger tu regalo.
+Ve a ver al repartidor en cualquier\xfffeCentro Pokémon para recoger tu regalo.
+Ve a ver al repartidor en cualquier\xfffeCentro Pokémon para recoger tu regalo.
+Ve a ver al repartidor en cualquier\xfffeCentro Pokémon para recoger tu regalo.
+Ve a ver al repartidor en cualquier\xfffeCentro Pokémon para recoger tu regalo.
+Ve a ver al repartidor en cualquier\xfffeCentro Pokémon para recoger tu regalo.
+Ve a ver al repartidor en cualquier\xfffeCentro Pokémon para recoger tu regalo.
+Ve a ver al repartidor en cualquier\xfffeCentro Pokémon para recoger tu regalo.
+Ve a ver al repartidor en cualquier\xfffeCentro Pokémon para recoger tu regalo.
+Ve a ver al repartidor en cualquier\xfffeCentro Pokémon para recoger tu regalo.
+Ve a ver al repartidor en cualquier\xfffeCentro Pokémon para recoger tu regalo.
+Ve a ver al repartidor en cualquier\xfffeCentro Pokémon para recoger tu regalo.
+Ve a ver al repartidor en cualquier\xfffeCentro Pokémon para recoger tu regalo.
+Ve a ver al repartidor en cualquier\xfffeCentro Pokémon para recoger tu regalo.
+Ve a ver al repartidor en cualquier\xfffeCentro Pokémon para recoger tu regalo.
+Ve a ver al repartidor en cualquier\xfffeCentro Pokémon para recoger tu regalo.
+Ve a ver al repartidor en cualquier\xfffeCentro Pokémon para recoger tu regalo.
+Ve a ver al repartidor en cualquier\xfffeCentro Pokémon para recoger tu regalo.
+Ve a ver al repartidor en cualquier\xfffeCentro Pokémon para recoger tu regalo.
+Ve a ver al repartidor en cualquier\xfffeCentro Pokémon para recoger tu regalo.
+Ve a ver al repartidor en cualquier\xfffeCentro Pokémon para recoger tu regalo.
+Ve a ver al repartidor en cualquier\xfffeCentro Pokémon para recoger tu regalo.
+Ve a ver al repartidor en cualquier\xfffeCentro Pokémon para recoger tu regalo.
+Ve a ver al repartidor en cualquier\xfffeCentro Pokémon para recoger tu regalo.
+Ve a ver al repartidor en cualquier\xfffeCentro Pokémon para recoger tu regalo.
+Ve a ver al repartidor en cualquier\xfffeCentro Pokémon para recoger tu regalo.
+Ve a ver al repartidor en cualquier\xfffeCentro Pokémon para recoger tu regalo.
+Ve a ver al repartidor en cualquier\xfffeCentro Pokémon para recoger tu regalo.
+Ve a ver al repartidor en cualquier\xfffeCentro Pokémon para recoger tu regalo.
+Ve a ver al repartidor en cualquier\xfffeCentro Pokémon para recoger tu regalo.
+Ve a ver al repartidor en cualquier\xfffeCentro Pokémon para recoger tu regalo.
+¡Gracias por venir a ver\xfffeesta Película Pokémon!\xfffeEl repartidor ya ha entregado\xfffeeste regalo.
+¡Gracias por venir a ver\xfffela Película Pokémon 2010!\xfffeEl repartidor ya ha entregado\xfffeeste regalo.
+¡Gracias por venir a ver\xfffela Película Pokémon 2011!\xfffeEl repartidor ya ha entregado\xfffeeste regalo.
+¡Gracias por venir a ver\xfffela Película Pokémon 2012!\xfffeEl repartidor ya ha entregado\xfffeeste regalo.
+¡Gracias por venir a ver\xfffela Película Pokémon 2013!\xfffeEl repartidor ya ha entregado\xfffeeste regalo.
+¡Gracias por venir a ver\xfffela Película Pokémon 2014!\xfffeEl repartidor ya ha entregado\xfffeeste regalo.
+¡Gracias por venir a ver\xfffela Película Pokémon 2015!\xfffeEl repartidor ya ha entregado\xfffeeste regalo.
+¡Gracias por venir a ver\xfffela Película Pokémon 2016!\xfffeEl repartidor ya ha entregado\xfffeeste regalo.
+¡Gracias por venir a ver\xfffela Película Pokémon 2017!\xfffeEl repartidor ya ha entregado\xfffeeste regalo.
+¡Gracias por venir a ver\xfffela Película Pokémon 2018!\xfffeEl repartidor ya ha entregado\xfffeeste regalo.
+¡Gracias por venir a ver\xfffela Película Pokémon 2019!\xfffeEl repartidor ya ha entregado\xfffeeste regalo.
+¡Gracias por venir a ver\xfffela Película Pokémon 2020!\xfffeEl repartidor ya ha entregado\xfffeeste regalo.
+¡Gracias por venir a\xfffeeste Centro Pokémon!\xfffeEl repartidor ya ha entregado\xfffeeste regalo.
+¡Gracias por venir al\xfffeCentro Pokémon Tokio!\xfffeEl repartidor ya ha entregado\xfffeeste regalo.
+¡Gracias por venir al\xfffeCentro Pokémon Osaka!\xfffeEl repartidor ya ha entregado\xfffeeste regalo.
+¡Gracias por venir al\xfffeCentro Pokémon Fukuoka!\xfffeEl repartidor ya ha entregado\xfffeeste regalo.
+¡Gracias por venir al\xfffeCentro Pokémon Nagoya!\xfffeEl repartidor ya ha entregado\xfffeeste regalo.
+¡Gracias por venir al\xfffeCentro Pokémon Sapporo!\xfffeEl repartidor ya ha entregado\xfffeeste regalo.
+¡Gracias por venir al\xfffeCentro Pokémon Yokohama!\xfffeEl repartidor ya ha entregado\xfffeeste regalo.
+¡Gracias por participar en el Campeonato\xfffeMundial de Videojuegos Pokémon!\xfffeEl repartidor ya ha entregado\xfffeeste regalo.
+¡Gracias por participar en el Campeonato\xfffeMundial de Videojuegos Pokémon 2010!\xfffeEl repartidor ya ha entregado\xfffeeste regalo.
+¡Gracias por participar en el Campeonato\xfffeMundial de Videojuegos Pokémon 2011!\xfffeEl repartidor ya ha entregado\xfffeeste regalo.
+¡Gracias por participar en el Campeonato\xfffeMundial de Videojuegos Pokémon 2012!\xfffeEl repartidor ya ha entregado\xfffeeste regalo.
+¡Gracias por participar en el Campeonato\xfffeMundial de Videojuegos Pokémon 2013!\xfffeEl repartidor ya ha entregado\xfffeeste regalo.
+¡Gracias por participar en el Campeonato\xfffeMundial de Videojuegos Pokémon 2014!\xfffeEl repartidor ya ha entregado\xfffeeste regalo.
+¡Gracias por participar en el Campeonato\xfffeMundial de Videojuegos Pokémon 2015!\xfffeEl repartidor ya ha entregado\xfffeeste regalo.
+¡Gracias por participar en el Campeonato\xfffeMundial de Videojuegos Pokémon 2016!\xfffeEl repartidor ya ha entregado\xfffeeste regalo.
+¡Gracias por participar en el Campeonato\xfffeMundial de Videojuegos Pokémon 2017!\xfffeEl repartidor ya ha entregado\xfffeeste regalo.
+¡Gracias por participar en el Campeonato\xfffeMundial de Videojuegos Pokémon 2018!\xfffeEl repartidor ya ha entregado\xfffeeste regalo.
+¡Gracias por participar en el Campeonato\xfffeMundial de Videojuegos Pokémon 2019!\xfffeEl repartidor ya ha entregado\xfffeeste regalo.
+¡Gracias por participar en el Campeonato\xfffeMundial de Videojuegos Pokémon 2020!\xfffeEl repartidor ya ha entregado\xfffeeste regalo.
+¡Gracias por venir al Campeonato!\xfffeEl repartidor ya ha entregado\xfffeeste regalo.
+¡Gracias por venir al Campeonato 2010!\xfffeEl repartidor ya ha entregado\xfffeeste regalo.
+¡Gracias por venir al Campeonato 2011!\xfffeEl repartidor ya ha entregado\xfffeeste regalo.
+¡Gracias por venir al Campeonato 2012!\xfffeEl repartidor ya ha entregado\xfffeeste regalo.
+¡Gracias por venir al Campeonato 2013!\xfffeEl repartidor ya ha entregado\xfffeeste regalo.
+¡Gracias por venir al Campeonato 2014!\xfffeEl repartidor ya ha entregado\xfffeeste regalo.
+¡Gracias por venir al Campeonato 2015!\xfffeEl repartidor ya ha entregado\xfffeeste regalo.
+¡Gracias por venir al Campeonato 2016!\xfffeEl repartidor ya ha entregado\xfffeeste regalo.
+¡Gracias por venir al Campeonato 2017!\xfffeEl repartidor ya ha entregado\xfffeeste regalo.
+¡Gracias por venir al Campeonato 2018!\xfffeEl repartidor ya ha entregado\xfffeeste regalo.
+¡Gracias por venir al Campeonato 2019!\xfffeEl repartidor ya ha entregado\xfffeeste regalo.
+¡Gracias por venir al Campeonato 2020!\xfffeEl repartidor ya ha entregado\xfffeeste regalo.
+¡Gracias por asistir a este\xfffeEvento de Videojuegos!\xfffeEl repartidor ya ha entregado\xfffeeste regalo.
+¡Gracias por asistir al\xfffeEvento de Videojuegos 2010!\xfffeEl repartidor ya ha entregado\xfffeeste regalo.
+¡Gracias por asistir al\xfffeEvento de Videojuegos 2011!\xfffeEl repartidor ya ha entregado\xfffeeste regalo.
+¡Gracias por asistir al\xfffeEvento de Videojuegos 2012!\xfffeEl repartidor ya ha entregado\xfffeeste regalo.
+¡Gracias por asistir al\xfffeEvento de Videojuegos 2013!\xfffeEl repartidor ya ha entregado\xfffeeste regalo.
+¡Gracias por asistir al\xfffeEvento de Videojuegos 2014!\xfffeEl repartidor ya ha entregado\xfffeeste regalo.
+¡Gracias por asistir al\xfffeEvento de Videojuegos 2015!\xfffeEl repartidor ya ha entregado\xfffeeste regalo.
+¡Gracias por asistir al\xfffeEvento de Videojuegos 2016!\xfffeEl repartidor ya ha entregado\xfffeeste regalo.
+¡Gracias por asistir al\xfffeEvento de Videojuegos 2017!\xfffeEl repartidor ya ha entregado\xfffeeste regalo.
+¡Gracias por asistir al\xfffeEvento de Videojuegos 2018!\xfffeEl repartidor ya ha entregado\xfffeeste regalo.
+¡Gracias por asistir al\xfffeEvento de Videojuegos 2019!\xfffeEl repartidor ya ha entregado\xfffeeste regalo.
+¡Gracias por asistir al\xfffeEvento de Videojuegos 2020!\xfffeEl repartidor ya ha entregado\xfffeeste regalo.
+¡Gracias por participar en el Campeonato\xfffede Videojuegos Pokémon 2010!\xfffeEl repartidor ya ha entregado\xfffeeste regalo.
+¡Gracias por participar en el Campeonato\xfffede Videojuegos Pokémon 2011!\xfffeEl repartidor ya ha entregado\xfffeeste regalo.
+¡Gracias por participar en el Campeonato\xfffede Videojuegos Pokémon 2012!\xfffeEl repartidor ya ha entregado\xfffeeste regalo.
+¡Gracias por participar en el Campeonato\xfffede Videojuegos Pokémon 2013!\xfffeEl repartidor ya ha entregado\xfffeeste regalo.
+¡Gracias por participar en el Campeonato\xfffede Videojuegos Pokémon 2014!\xfffeEl repartidor ya ha entregado\xfffeeste regalo.
+¡Gracias por participar en el Campeonato\xfffede Videojuegos Pokémon 2015!\xfffeEl repartidor ya ha entregado\xfffeeste regalo.
+¡Gracias por participar en el Campeonato\xfffede Videojuegos Pokémon 2016!\xfffeEl repartidor ya ha entregado\xfffeeste regalo.
+¡Gracias por participar en el Campeonato\xfffede Videojuegos Pokémon 2017!\xfffeEl repartidor ya ha entregado\xfffeeste regalo.
+¡Gracias por participar en el Campeonato\xfffede Videojuegos Pokémon 2018!\xfffeEl repartidor ya ha entregado\xfffeeste regalo.
+¡Gracias por participar en el Campeonato\xfffede Videojuegos Pokémon 2019!\xfffeEl repartidor ya ha entregado\xfffeeste regalo.
+¡Gracias por participar en el Campeonato\xfffede Videojuegos Pokémon 2020!\xfffeEl repartidor ya ha entregado\xfffeeste regalo.
+¡Gracias por asistir a este evento!\xfffeEl repartidor ya ha entregado\xfffeeste regalo.
+¡Gracias por asistir a este\xfffeEvento PKMN!\xfffeEl repartidor ya ha entregado\xfffeeste regalo.
+¡Gracias por jugar a Pokémon!\xfffeEl repartidor ya ha entregado\xfffeeste regalo.
+¡Gracias por venir a\xfffeeste establecimiento!\xfffeEl repartidor ya ha entregado\xfffeeste regalo.
+¡Gracias por participar en este Torneo!\xfffeEl repartidor ya ha entregado\xfffeeste regalo.
+¡Gracias por participar en este Evento\xfffede Juegos!\xfffeEl repartidor ya ha entregado\xfffeeste regalo.
+¡Has conseguido un regalo en\xfffeeste Evento de Juegos!\xfffeVe a ver al repartidor en cualquier\xfffeCentro Pokémon para recoger tu regalo.
+¡Has conseguido un regalo\xfffedel Club de Fans de Pokémon!\xfffeEl repartidor ya ha entregado\xfffeeste regalo.
+¡Gracias por ver Pokémon Sunday!\xfffeVe a ver al repartidor en cualquier\xfffeCentro Pokémon para recoger tu regalo.
+¡Has conseguido un regalo\xfffede Pokémon Sunday!\xfffeVe a ver al repartidor en cualquier\xfffeCentro Pokémon para recoger tu regalo.
+¡Gracias por participar\xfffeen la Plaza Reto!\xfffeEl repartidor ya ha entregado\xfffeeste regalo.
+¡Has conseguido un regalo\xfffeen la Plaza Reto!\xfffeVe a ver al repartidor en cualquier\xfffeCentro Pokémon para recoger tu regalo.
+¡Gracias por participar\xfffeen el Reto Batalla!\xfffeEl repartidor ya ha entregado\xfffeeste regalo.
+¡Has conseguido un regalo\xfffeen el Reto Batalla!\xfffeVe a ver al repartidor en cualquier\xfffeCentro Pokémon para recoger tu regalo.
+¡Gracias por participar en\xfffela Pista de Entrenadores!\xfffeEl repartidor ya ha entregado\xfffeeste regalo.
+¡Has conseguido un regalo\xfffeen la Pista de Entrenadores!\xfffeVe a ver al repartidor en cualquier\xfffeCentro Pokémon para recoger tu regalo.
+¡Gracias por participar\xfffeen el Tour de Batalla!\xfffeEl repartidor ya ha entregado\xfffeeste regalo.
+¡Has conseguido un regalo\xfffeen el Tour de Batalla!\xfffeVe a ver al repartidor en cualquier\xfffeCentro Pokémon para recoger tu regalo.
+¡Gracias por asistir a\xfffeeste Concierto Pokémon!\xfffeEl repartidor ya ha entregado\xfffeeste regalo.
+¡Gracias por ver la serie de animación\xfffede Pokémon!\xfffeVe a ver al repartidor en cualquier\xfffeCentro Pokémon para recoger tu regalo.
+¡Gracias por utilizar la Conexión\xfffeWi-Fi de Nintendo!\xfffeEl repartidor ya ha entregado\xfffeeste regalo.
+¡Gracias por realizar esta descarga!\xfffeEl repartidor ya ha entregado\xfffeeste regalo.
+El repartidor ya ha entregado\xfffeeste regalo.
+¡Gracias por jugar a Pokémon Ranger!\xfffeEl repartidor ya ha entregado\xfffeeste regalo.
+Has recibido una solicitud de la Unión\xfffeRanger para cuidar de un Pokémon.\xfffeEl repartidor ya ha entregado\xfffeeste Pokémon.
+Has recibido una solicitud de la Unión\xfffeRanger para cuidar un Huevo.\xfffeEl repartidor ya ha entregado\xfffeeste Huevo.
+¡Gracias por jugar en\xfffePokémon Dream World!\xfffeEl repartidor ya ha entregado\xfffeeste regalo.
+¡Has conseguido un regalo\xfffeen Pokémon Dream World!\xfffeEl repartidor ya ha entregado\xfffeeste regalo.
+¡Gracias por jugar en\xfffePokémon Dream World!\xfffeEl repartidor ya ha entregado\xfffeeste regalo.
+¡Has conseguido un regalo\xfffeen Pokémon Dream World!\xfffeEl repartidor ya ha entregado\xfffeeste regalo.
+¡Gracias por asistir\xfffeal Evento PKMN 2010!\xfffeEl repartidor ya ha entregado\xfffeeste regalo.
+¡Gracias por asistir\xfffeal Evento PKMN 2011!\xfffeEl repartidor ya ha entregado\xfffeeste regalo.
+¡Gracias por asistir\xfffeal Evento PKMN 2012!\xfffeEl repartidor ya ha entregado\xfffeeste regalo.
+¡Gracias por asistir\xfffeal Evento PKMN 2013!\xfffeEl repartidor ya ha entregado\xfffeeste regalo.
+¡Gracias por asistir\xfffeal Evento PKMN 2014!\xfffeEl repartidor ya ha entregado\xfffeeste regalo.
+¡Gracias por asistir\xfffeal Evento PKMN 2015!\xfffeEl repartidor ya ha entregado\xfffeeste regalo.
+¡Gracias por asistir\xfffeal Evento PKMN 2016!\xfffeEl repartidor ya ha entregado\xfffeeste regalo.
+¡Gracias por asistir\xfffeal Evento PKMN 2017!\xfffeEl repartidor ya ha entregado\xfffeeste regalo.
+¡Gracias por asistir\xfffeal Evento PKMN 2018!\xfffeEl repartidor ya ha entregado\xfffeeste regalo.
+¡Gracias por asistir\xfffeal Evento PKMN 2019!\xfffeEl repartidor ya ha entregado\xfffeeste regalo.
+¡Gracias por asistir\xfffeal Evento PKMN 2020!\xfffeEl repartidor ya ha entregado\xfffeeste regalo.
+¡Gracias por asistir\xfffea Pokémon Festa!\xfffeEl repartidor ya ha entregado\xfffeeste regalo.
+¡Gracias por asistir\xfffea Pokémon Festa 2010!\xfffeEl repartidor ya ha entregado\xfffeeste regalo.
+¡Gracias por asistir\xfffea Pokémon Festa 2011!\xfffeEl repartidor ya ha entregado\xfffeeste regalo.
+¡Gracias por asistir\xfffea Pokémon Festa 2012!\xfffeEl repartidor ya ha entregado\xfffeeste regalo.
+¡Gracias por asistir\xfffea Pokémon Festa 2013!\xfffeEl repartidor ya ha entregado\xfffeeste regalo.
+¡Gracias por asistir\xfffea Pokémon Festa 2014!\xfffeEl repartidor ya ha entregado\xfffeeste regalo.
+¡Gracias por asistir\xfffea Pokémon Festa 2015!\xfffeEl repartidor ya ha entregado\xfffeeste regalo.
+¡Gracias por asistir\xfffea Pokémon Festa 2016!\xfffeEl repartidor ya ha entregado\xfffeeste regalo.
+¡Gracias por asistir\xfffea Pokémon Festa 2017!\xfffeEl repartidor ya ha entregado\xfffeeste regalo.
+¡Gracias por asistir\xfffea Pokémon Festa 2018!\xfffeEl repartidor ya ha entregado\xfffeeste regalo.
+¡Gracias por asistir\xfffea Pokémon Festa 2019!\xfffeEl repartidor ya ha entregado\xfffeeste regalo.
+¡Gracias por asistir\xfffea Pokémon Festa 2020!\xfffeEl repartidor ya ha entregado\xfffeeste regalo.
+¡Gracias por venir a PokéPark!\xfffeEl repartidor ya ha entregado\xfffeeste regalo.
+¡Has conseguido un regalo\xfffeen PokéPark!\xfffeVe a ver al repartidor en cualquier\xfffeCentro Pokémon para recoger tu regalo.
+¡Gracias por venir a PokéPark 2010!\xfffeEl repartidor ya ha entregado\xfffeeste regalo.
+¡Gracias por venir a PokéPark 2011!\xfffeEl repartidor ya ha entregado\xfffeeste regalo.
+¡Gracias por venir a PokéPark 2012!\xfffeEl repartidor ya ha entregado\xfffeeste regalo.
+¡Gracias por venir a PokéPark 2013!\xfffeEl repartidor ya ha entregado\xfffeeste regalo.
+¡Gracias por venir a PokéPark 2014!\xfffeEl repartidor ya ha entregado\xfffeeste regalo.
+¡Gracias por venir a PokéPark 2015!\xfffeEl repartidor ya ha entregado\xfffeeste regalo.
+¡Gracias por venir a PokéPark 2016!\xfffeEl repartidor ya ha entregado\xfffeeste regalo.
+¡Gracias por venir a PokéPark 2017!\xfffeEl repartidor ya ha entregado\xfffeeste regalo.
+¡Gracias por venir a PokéPark 2018!\xfffeEl repartidor ya ha entregado\xfffeeste regalo.
+¡Gracias por venir a PokéPark 2019!\xfffeEl repartidor ya ha entregado\xfffeeste regalo.
+¡Gracias por venir a PokéPark 2020!\xfffeEl repartidor ya ha entregado\xfffeeste regalo.
+El repartidor ya ha entregado\xfffeeste regalo.
+El repartidor ya ha entregado\xfffeeste regalo.
+El repartidor ya ha entregado\xfffeeste regalo.
+El repartidor ya ha entregado\xfffeeste regalo.
+El repartidor ya ha entregado\xfffeeste regalo.
+El repartidor ya ha entregado\xfffeeste regalo.
+El repartidor ya ha entregado\xfffeeste regalo.
+El repartidor ya ha entregado\xfffeeste regalo.
+El repartidor ya ha entregado\xfffeeste regalo.
+El repartidor ya ha entregado\xfffeeste regalo.
+El repartidor ya ha entregado\xfffeeste regalo.
+El repartidor ya ha entregado\xfffeeste regalo.
+El repartidor ya ha entregado\xfffeeste regalo.
+El repartidor ya ha entregado\xfffeeste regalo.
+El repartidor ya ha entregado\xfffeeste regalo.
+El repartidor ya ha entregado\xfffeeste regalo.
+El repartidor ya ha entregado\xfffeeste regalo.
+El repartidor ya ha entregado\xfffeeste regalo.
+El repartidor ya ha entregado\xfffeeste regalo.
+El repartidor ya ha entregado\xfffeeste regalo.
+El repartidor ya ha entregado\xfffeeste regalo.
+El repartidor ya ha entregado\xfffeeste regalo.
+El repartidor ya ha entregado\xfffeeste regalo.
+El repartidor ya ha entregado\xfffeeste regalo.
+El repartidor ya ha entregado\xfffeeste regalo.
+El repartidor ya ha entregado\xfffeeste regalo.
+El repartidor ya ha entregado\xfffeeste regalo.
+El repartidor ya ha entregado\xfffeeste regalo.
+El repartidor ya ha entregado\xfffeeste regalo.
+El repartidor ya ha entregado\xfffeeste regalo.
+El repartidor ya ha entregado\xfffeeste regalo.
+El repartidor ya ha entregado\xfffeeste regalo.
+El repartidor ya ha entregado\xfffeeste regalo.
+El repartidor ya ha entregado\xfffeeste regalo.
+El repartidor ya ha entregado\xfffeeste regalo.
+El repartidor ya ha entregado\xfffeeste regalo.
+El repartidor ya ha entregado\xfffeeste regalo.
+El repartidor ya ha entregado\xfffeeste regalo.
+El repartidor ya ha entregado\xfffeeste regalo.
+El repartidor ya ha entregado\xfffeeste regalo.
+El repartidor ya ha entregado\xfffeeste regalo.
+El repartidor ya ha entregado\xfffeeste regalo.
+El repartidor ya ha entregado\xfffeeste regalo.
+El repartidor ya ha entregado\xfffeeste regalo.
+El repartidor ya ha entregado\xfffeeste regalo.
+El repartidor ya ha entregado\xfffeeste regalo.
+El repartidor ya ha entregado\xfffeeste regalo.
+El repartidor ya ha entregado\xfffeeste regalo.
+El repartidor ya ha entregado\xfffeeste regalo.
+El repartidor ya ha entregado\xfffeeste regalo.
+El repartidor ya ha entregado\xfffeeste regalo.
+El repartidor ya ha entregado\xfffeeste regalo.
+El repartidor ya ha entregado\xfffeeste regalo.
+El repartidor ya ha entregado\xfffeeste regalo.
+El repartidor ya ha entregado\xfffeeste regalo.
+El repartidor ya ha entregado\xfffeeste regalo.
+El repartidor ya ha entregado\xfffeeste regalo.
+El repartidor ya ha entregado\xfffeeste regalo.
+El repartidor ya ha entregado\xfffeeste regalo.
+El repartidor ya ha entregado\xfffeeste regalo.
+El repartidor ya ha entregado\xfffeeste regalo.
+El repartidor ya ha entregado\xfffeeste regalo.
+El repartidor ya ha entregado\xfffeeste regalo.
+El repartidor ya ha entregado\xfffeeste regalo.
+El repartidor ya ha entregado\xfffeeste regalo.
+El repartidor ya ha entregado\xfffeeste regalo.
+El repartidor ya ha entregado\xfffeeste regalo.
+El repartidor ya ha entregado\xfffeeste regalo.
+El repartidor ya ha entregado\xfffeeste regalo.
+El repartidor ya ha entregado\xfffeeste regalo.
+El repartidor ya ha entregado\xfffeeste regalo.
+El repartidor ya ha entregado\xfffeeste regalo.
+El repartidor ya ha entregado\xfffeeste regalo.
+El repartidor ya ha entregado\xfffeeste regalo.
+El repartidor ya ha entregado\xfffeeste regalo.
+El repartidor ya ha entregado\xfffeeste regalo.
+El repartidor ya ha entregado\xfffeeste regalo.
+El repartidor ya ha entregado\xfffeeste regalo.
+El repartidor ya ha entregado\xfffeeste regalo.
+El repartidor ya ha entregado\xfffeeste regalo.
+El repartidor ya ha entregado\xfffeeste regalo.
+El repartidor ya ha entregado\xfffeeste regalo.
+El repartidor ya ha entregado\xfffeeste regalo.
+El repartidor ya ha entregado\xfffeeste regalo.
+El repartidor ya ha entregado\xfffeeste regalo.
+El repartidor ya ha entregado\xfffeeste regalo.
+El repartidor ya ha entregado\xfffeeste regalo.
+El repartidor ya ha entregado\xfffeeste regalo.
+El repartidor ya ha entregado\xfffeeste regalo.
+El repartidor ya ha entregado\xfffeeste regalo.
+El repartidor ya ha entregado\xfffeeste regalo.
+El repartidor ya ha entregado\xfffeeste regalo.
+El repartidor ya ha entregado\xfffeeste regalo.
+El repartidor ya ha entregado\xfffeeste regalo.
+El repartidor ya ha entregado\xfffeeste regalo.
+El repartidor ya ha entregado\xfffeeste regalo.
+El repartidor ya ha entregado\xfffeeste regalo.
+El repartidor ya ha entregado\xfffeeste regalo.
+El repartidor ya ha entregado\xfffeeste regalo.
+El repartidor ya ha entregado\xfffeeste regalo.
+El repartidor ya ha entregado\xfffeeste regalo.
+El repartidor ya ha entregado\xfffeeste regalo.
+El repartidor ya ha entregado\xfffeeste regalo.
+El repartidor ya ha entregado\xfffeeste regalo.
+El repartidor ya ha entregado\xfffeeste regalo.
+El repartidor ya ha entregado\xfffeeste regalo.
+El repartidor ya ha entregado\xfffeeste regalo.
+El repartidor ya ha entregado\xfffeeste regalo.
+El repartidor ya ha entregado\xfffeeste regalo.
+El repartidor ya ha entregado\xfffeeste regalo.
+El repartidor ya ha entregado\xfffeeste regalo.
+El repartidor ya ha entregado\xfffeeste regalo.
+El repartidor ya ha entregado\xfffeeste regalo.
+El repartidor ya ha entregado\xfffeeste regalo.
+El repartidor ya ha entregado\xfffeeste regalo.
+El repartidor ya ha entregado\xfffeeste regalo.
+El repartidor ya ha entregado\xfffeeste regalo.
+El repartidor ya ha entregado\xfffeeste regalo.
+El repartidor ya ha entregado\xfffeeste regalo.
+El repartidor ya ha entregado\xfffeeste regalo.
+El repartidor ya ha entregado\xfffeeste regalo.
+El repartidor ya ha entregado\xfffeeste regalo.
+El repartidor ya ha entregado\xfffeeste regalo.
+El repartidor ya ha entregado\xfffeeste regalo.

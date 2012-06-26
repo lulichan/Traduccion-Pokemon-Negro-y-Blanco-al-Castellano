@@ -1,0 +1,16 @@
+Tu compatibilidad con \xf000Ā\x0001\x0000 es de...
+RESULTADO
+Error de reconocimiento táctil. Inténtalo\xfffede nuevo siguiendo las marcas en pantalla.
+¡Vuestra compatibilidad es de Rango I!\xfffeOs limitáis a saludaros educadamente.
+¡Vuestra compatibilidad es de Rango H!\xfffeTenéis ciertos intereses comunes.
+¡Vuestra compatibilidad es de Rango G!\xfffePodríais quedar para ir a pasear.
+¡Vuestra compatibilidad es de Rango F!\xfffeOs podríais llamar usando apodos.
+¡Vuestra compatibilidad es de Rango E!\xfffePodría uniros una gran amistad.
+¡Vuestra compatibilidad es de Rango D!\xfffeOs llamaríais para daros las buenas noches.
+¡Vuestra compatibilidad es de Rango C!\xfffePodríais iros juntos de viaje.
+¡Vuestra compatibilidad es de Rango B!\xfffeLos demás envidian vuestra relación.
+¡Vuestra compatibilidad es de Rango A!\xfffe¡Os entendéis a la perfección!
+¡Vuestra compatibilidad es de Rango S!\xfffe¡Vuestra amistad era cosa del destino!
+\xf000Ā\x0001\x0000 ha puesto \xf000Ȁ\x0001\x0002 \xf000ĉ\x0001\x0001\xfffeen el Bolsillo \xf000\xff00\x0001\x0002BOTIQUÍN\xf000\xff00\x0001\x0000.
+\xf000Ā\x0001\x0000 ha puesto \xf000Ȁ\x0001\x0002 \xf000ĉ\x0001\x0001\xfffeen el Bolsillo \xf000\xff00\x0001\x0002BOTIQUÍN\xf000\xff00\x0001\x0000.
+¡Mala suerte!\xfffeLa Bolsa está llena.

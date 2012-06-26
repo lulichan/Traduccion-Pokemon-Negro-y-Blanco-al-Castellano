@@ -1,0 +1,37 @@
+OPCIONES
+VELOCIDAD TEXTO
+ANIM. BATALLA
+TIPO COMBATE
+SONIDO
+CARÁCTER
+WIFI
+GUARDADO IR
+VALE
+SALIR
+LENTA
+MEDIA
+RÁPIDA
+VER
+NO VER
+CAMBIAR
+FIJO
+ESTÉREO
+MONO
+Español
+Japones
+SÍ
+NO
+SÍ
+NO
+Elige entre los tres niveles de velocidad\xfffedel texto.
+Muestra o desactiva las animaciones\xfffedurante los combates.
+Configura las reglas que se aplican\xfffeen los combates.
+Configura el sonido como estéreo\xfffeo mono.
+Configura el idioma.
+Activar o desactivar\xfffepermanentemente el Wifi.
+Activa o desactiva el guardado previo\xfffea la comunicación por infrarrojos.
+No se puede modificar porque\xfffehay otros datos guardados.\xf000븁\x0000
+¿Cambiar las opciones seleccionadas?
+SÍ
+NO
+ダミーメッセージ

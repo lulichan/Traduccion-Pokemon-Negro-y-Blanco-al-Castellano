@@ -1,0 +1,40 @@
+¿Que idioma quieres usar?\xfffe¿Español o Japonés (Kanji)?\xf000븁\x0000
+ESPAÑOL
+JAPONES
+¿Entonces, quieres jugar en Español\xf000븁 \x0000?
+No hay datos
+Creando datos de guardado...\xfffePor favor, espera.
+¡Hooola! ¿Qué tal?\xf000븁\x0000\xfffe¡Te doy la bienvenida al mundo\xfffePokémon!\xf000븁\x0000
+Yo soy la Prof.ª Encina.\xf000븁\x0000\xfffePero todo el mundo me conoce\xfffecomo la Profesora Pokémon.\xf000븁\x0000
+Este mundo está habitado por criaturas\xfffellamadas Pokémon.\xf000븁\x0000Los humanos vivimos en armonía con ellos\xfffecómo amigos.\xf000븁\x0000A veces jugamos juntos\xfffey otras veces trabajamos en equipo.\xf000븁\x0000
+Los Pokémon poseen poderes fantásticos,\xfffepresentan las formas más variadas\xf000븀\x0000\xfffey viven en todo tipo de entornos.\xf000븁\x0000\xfffe¡Y lo mejor es que se llevan de maravilla\xfffecon nosotros, los humanos!\xf000븁\x0000\xfffeEsta convivencia nos beneficia a ambos\xfffey nos permite colaborar para superar\xf000븀\x0000\xfffedificultades.\xf000븁\x0000\xfffeAlgo que les encanta a los Pokémon\xfffees combatir.\xf000븁\x0000\xfffe¡Así es como crean fuertes lazos de\xfffeamistad con sus Entrenadores!\xf000븁\x0000\xfffe¿Y quieres saber a qué me dedico yo?\xfffe¡A estudiar a estas criaturas adorables!\xf000븁\x0000
+Bueno, ya está, que me enrollo más\xfffeque las persianas.\xf000븁\x0000\xfffe¿Por qué no me cuentas algo sobre ti?\xf000븁\x0000
+¿Eres un chico o chica?\xf000븁\x0000
+Bien, así que eres un chico.\xf000븁\x0000
+Bien, así que eres una chica.\xf000븁\x00000
+CHICO
+CHICA
+También querría saber tu nombre.\xfffe¿Cómo te llamas?\xf000븁\x0000
+¿Te llamas \xf000Ā\x0001\x0000?\xf000븁\x0000
+¿Te llamas \xf000Ā\x0001\x0000?\xf000븁\x0000
+SÍ
+NO
+¡\xf000Ā\x0001\x0000! ¡Qué nombre tan bonito!\xf000븁\x0000
+Este es tu amigo,\xfffesiendo el tu rival\xf000븀\x0000\xfffecon el cual tu vas a luchar.\xf000븁\x0000
+Este es tu amigo, \xfffele encantan los Pokémon\xf000븀\x0000\xfffey estar con ellos.\xf000븁\x0000
+Pero no me acuerdo de su nombre...\xfffe¿me lo dices?\xf000븁\x0000
+Hugh
+Por Defecto 1
+Por Defecto 2
+Decide tú
+Ahh... no me acordaba,\xfffe¿Pero estás seguro?\xf000븁\x0000
+Luego conseguireis vuestro\xf000븁\x0000\xfffePokémon\xfffea cada uno para que\xf000븁\x0000
+lo cuidéis muy bien.\xf000븁\x0000\xfffe
+Ahora os voy a entregar un Pokémon\xfffea cada para que\xf000븀\x0000\xfffelo cuidéis muy bien.\xf000븁\x0000
+¡\xf000Ā\x0001\x0000!\xf000븁\x0000\xfffeHa llegado el momento de elegir al Pokémon\xfffeque te acompañará a partir de ahora\xf000븀\x0000\xfffeen tu viaje.\xf000븁\x0000\xfffeConocerás a muchos Pokémon y a mucha\xfffegente con distintas personalidades\xf000븀\x0000\xfffey puntos de vista.\xf000븁\x0000\xfffeEstoy segura de que podrás aprender\xfffede todas esas experiencias y descubrir\xf000븀\x0000\xfffelo que es más importante para ti.\xf000븁\x0000\xfffe¡Así es! Conocer a mucha gente y Pokémon\xfffete permitirá crecer como persona.\xf000븁\x0000\xfffeAl fin y al cabo, ese es el objetivo\xfffeprincipal de esta aventura.\xf000븁\x0000\xfffe¡Y ahora en marcha!\xf000븁\x0000\xfffe¡Nos vamos al mundo Pokémon!\xf000븁\x0000
+¡ESPERA UN SEGUNDO...!\xfffeYo tengo algunas cosas preparadas.
+¡BIÉN!\xfffe¡Esto lo hara chulo!\xf000븁\x0000
+¡ADVERTENCIA!\xfffeTienes algún otra partida\xfffepor lo que si empiezas otra partida,\xfffeno podras guardar\xfffe¿esta todo claro?
+Empezar una nueva partida
+Volver al menú
+¿Saltar demo?

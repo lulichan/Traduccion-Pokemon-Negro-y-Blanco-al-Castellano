@@ -1,0 +1,20 @@
+▲
+POKÉDEX
+POKÉMON
+BOLSA
+JUGADOR
+GUARDAR
+OPCIONES
+　
+HABLAR
+　
+RETIRARSE
+Menú Pokédex seleccionado.
+Menú Pokémon seleccionado.
+Menú Objetos seleccionado.
+Menú del jugador seleccionado.
+Menú Guardar seleccionado.
+Menú de Opciones seleccionado.
+Guardar partida.
+¡Has guardado la partida!
+¡Ahora no se puede guardar!

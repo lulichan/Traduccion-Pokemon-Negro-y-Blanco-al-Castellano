@@ -1,0 +1,10 @@
+Leyendo datos...\xfffePor favor, espera.
+La tarjeta DS insertada no es\xfffecompatible. Apaga la consola,\xfffevuelve a insertar la tarjeta y activa\xfffede nuevo el Trasladador PKMN.\xf000븁\x0000
+La sesión del Trasladador PKMN\xfffeha finalizado.\xfffeApaga la consola.
+Error de lectura de datos.\xfffeLa sesión del Trasladador PKMN\xfffeva a finalizar.\xf000븁\x0000
+No se ha podido conectar con la\xfffeotra consola Nintendo DS.\xf000븁\x0000
+Error de escritura de datos.\xfffeLa sesión del Trasladador PKMN\xfffeva a finalizar.\xf000븁\x0000
+El Trasladador PKMN se ha activado.\xfffeBuscando Pokémon...\xfffePor favor, espera.
+SÍ
+NO
+おもいでリンク

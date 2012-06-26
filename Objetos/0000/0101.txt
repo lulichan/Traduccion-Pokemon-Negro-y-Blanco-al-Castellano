@@ -1,0 +1,29 @@
+¿Cómo te llamas?
+¿Qué mote quieres ponerle a \xf000ā\x0001\x0000?
+¿Qué nombre tiene la Caja?
+¿Cómo se llama tu rival?
+¿Cómo se llama tu amigo?
+¿Cómo saludas a las personas\xfffecon las que te encuentras?
+¿Cómo les das las gracias a las personas\xfffecon las que te encuentras?
+¿Tienes algún mensaje para las personas\xfffecon las que te encuentras?
+¿Como se llama tu ciudad?
+¿Qué título quieres usar?
+¿Cual es tu frase favorita?
+Contraseña
+Introduce tu ID de jugador.
+Unas palabras.
+¿Tienes algún mensaje para los\xfffeentrenadores con los que te encuentras?
+¿Que dices cuando estás\xfffecontento?
+¿Cual es el nombre del Pokémon?
+Introduce el nombre.
+Solo se pueden introducir\xfffehasta cuatro dígitos.
+El ID es incorrecto.
+　
+　
+¡Saludos!
+¡Gracias!
+Blanco.
+Negro.
+♂
+♀
+Por favor, introduzca.

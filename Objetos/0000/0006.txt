@@ -1,0 +1,161 @@
+USAR
+TIRAR
+ASIGNAR
+DAR
+VER
+CONFIRMAR
+CAMINAR
+VOLVER
+SALIR
+VER
+VACIAR
+CANCELAR
+BOLSA
+CORREO
+TOMAR
+DAR
+VER
+NADA
+ANULAR
+???
+?????
+／
+\xf000ȁ\x0001\x0000／\xf000ȁ\x0001\x0001
+-
+--
+---
+♂
+♀
+Nv.
+N.º
+＋
+→
+N.º ID
+　
+CURSOR
+¡Vuelve atrás!
+¿Qué harás?
+DAR
+\xf000Ȃ\x0001\x0000
+x
+BEBER
+\xf000ȃ\x0001\x0000
+CERRAR
+\xf000ĉ\x0001\x0000 es el objeto elegido.
+No puedes escribir una carta aquí.
+¡No hay Pokémon!
+¿Vas a mover el objeto \xf000ĉ\x0001\x0000?
+El objeto \xf000ĉ\x0001\x0000\xfffeno se puede llevar.
+¡No puedes dar \xf000ĉ\x0001\x0000 aquí!
+¿Cuantos \xf000ĉ\x0001\x0000\xfffequieres almacenar?
+Almacenaste \xf000ȁ\x0001\x0001\xfffe\xf000ĉ\x0001\x0000.
+¡No puedes almacenar más!
+¡No puedes tirar eso!
+¿Cuántas unidades de \xf000ĉ\x0001\x0000?
+¡Has tirado \xf000Ȃ\x0001\x0001 \xf000ĉ\x0001\x0000!
+¿Seguro que quieres tirar \xf000Ȃ\x0001\x0001\xfffe\xf000ĉ\x0001\x0000?
+Las palabras de Oak resuenan: \xfffe“¡\xf000Ā\x0001\x0000, cada cosa en su momento!”
+Aquí no puedes bajarte de la Bici.
+Las palabras de Oak resuenan: \xfffe“¡\xf000Ā\x0001\x0000, cada cosa en su momento!”
+Tus Fichas: \xf000Ȅ\x0001\x0000
+MT activada.
+MO activada.
+¡Contiene el movimiento \xf000ć\x0001\x0000!\xfffe\xf000븁\x0000¿Quieres enseñarle \xf000ć\x0001\x0000を\xfffea un Pokémon?
+¡\xf000Ā\x0001\x0000 ha usado\xfffe\xf000ĉ\x0001\x0001!
+El Repelente sigue haciendo efecto.\xfffeNo puedes usarlo todavía.
+¡\xf000Ā\x0001\x0000 ha usado\xfffe\xf000ĉ\x0001\x0001!\xf000븁\x0000Así atraerá a los Pokémon salvajes.
+¡\xf000Ā\x0001\x0000 ha usado\xfffe\xf000ĉ\x0001\x0001!\xf000븁\x0000Así alejará a los Pokémon salvajes.
+La caja está llena.
+Polvos:　\xf000ȃ\x0001\x0000
+\xf000봂\x0000N.º \xf000ȁ\x0001\x0000　\xf000ć\x0001\x0001
+N.º \xf000Ȃ\x0001\x0000\xf000ć\x0001\x0001
+\xf000봂\x0000ひでん\xf000ȁ\x0001\x0000　\xf000ć\x0001\x0001
+Polvo de Baya
+¡Has tocado la Flauta Pokémon!\xfffe¡Y suena genial!
+¡Has tocado la Flauta Pokémon!
+¡El Pokémon ha oído la\xfffeFlauta Pokémon y se ha despertado!
+MOVER
+¿\xf000ĉ\x0001\x0000? No, lo siento.\xfffeNo puedo comprar eso.
+¿\xf000ĉ\x0001\x0000?\xfffe¿Qué cantidad vendes?
+Puedo pagar \xf000Ȇ\x0001\x0000 ¥.\xfffe¿Te parece bien?
+¡Recibes \xf000Ȇ\x0001\x0001 ¥ por la venta de \xf000ĉ\x0001\x0000!
+DINERO
+\xf000Ȇ\x0001\x0000 ¥
+×\xf000ȁ\x0001\x0000
+＋\xf000Ȇ\x0001\x0000 ¥
+SÍ
+NO
+VENDER
+×\xf000Ȃ\x0001\x0000
+SACAR
+PP
+POTENCIA
+PRECISIÓN
+CATEGORÍA
+\xf000ȁ\x0001\x0000
+\xf000Ȃ\x0001\x0000
+Sellos: \xf000ȃ\x0001\x0000
+Accesorios: \xf000Ȃ\x0001\x0000\xfffeFondos: \xf000ȁ\x0001\x0001
+CERRAR
+Enterrar
+ABRIR
+Puntos de Batalla\xfffe\xf000ȃ\x0001\x0000 PB
+Tipo
+Puedes asignar un objeto clave de la\xfffeBolsa al Botón Y para tenerlo a mano.
+Puedes asignar hasta\xfffedos objetos clave.
+Has encendido el Lector GB.
+Has apagado el Lector GB.
+No se puede usar \xf000ĉ\x0001\x0000.
+Has abierto la bolsa de los Tesoros.
+Has sacado \xf000ĉ\x0001\x0000.
+Has puesto \xf000ĉ\x0001\x0000 en\xfffe\xf000ĉ\x0001\x0001.
+¡Lo has sacado todo!
+No contiene nada...
+No pudiste sacarlo...
+¡La batería está baja!\xfffeCamina \xf000븀\x0000\xf000ȁ\x0001\x0000 pasos para recargarla.
+Hay mucho silencio...
+Pokochos
+\xf000Ȃ\x0001\x0000/100
+Elije un Pokocho para cocinar.
+No puedes usarlo cuando te\xfffeacompaña alguien.
+¡No es momento para eso!
+Bolsillo OBJETOS\xfffeAquí se guardan los objetos útiles\xfffepara la aventura.
+Bolsillo BOTIQUÍN\xfffeAquí se guardan los objetos para\xffferestaurar los PS y PP de los Pokémon.
+Bolsillo POKé BALLS\xfffeAquí se guardan las diferentes clases\xfffede Poké Balls.
+Bolsillo MT / MO\xfffeAquí están las diferentes MT y MO que\xfffepueden aprender los Pokémon.
+Bolsillo BAYAS\xfffeAquí se almacenan las Bayas.
+Bolsillo CARTAS\xfffeAquí se guardan diversas\xfffeclases de Cartas.
+Bolsillo OBJETOS BATALLA\xfffeAquí se guardan los objetos útiles\xfffepara los combates.
+Bolsillo OBJETOS CLAVE\xfffeAquí se guardan los objetos\xfffeindispensables para la aventura.
+CERRAR
+\xf000ĉ\x0001\x0000
+×\xf000Ȃ\x0001\x0000
+SÍ
+NO
+\xf000봂\x0000\xf000ĉ\x0001\x0000
+Está vacío.
+Usaste una Piedra Noche,\xfffepero no pasó nada...
+Usaste una Piedra Día,\xfffepero no pasó nada...
+¡Se han ordenado los objetos!
+\xf000Ē\x0001\x0000
+¡ORGANIZAR POR TIPO!
+¡ORGANIZAR POR NOMBRE!
+¡ORGANIZAR POR ORDEN DES.!
+¡ORGANIZAR POR ORDEN ASC.!
+TODO
+LIBERAR ESPACIO
+もとのポケットへ
+Por favor, selecione\xfffeel objeto.
+\xf000Ē\x0001\x0000に　いれる　もちものが\xfffe\xf000Ȃ\x0001\x0001しゅるい　みつかりました！
+\xf000ĉ\x0001\x0001を\xfffe\xf000Ē\x0001\x0000に　いどう　しました！
+\xf000ĉ\x0001\x0001を\xfffe\xf000Ē\x0001\x0000に　もどしました！
+どの　ならびに　かえますか？
+POR TIPO
+POR NOMBRE
+DESCENDENTE
+ASCENDENTE
+POR Nº
+もちものが\xfffe\xf000Ȃ\x0001\x0001しゅるい　みつかりました！
+ばんごうじゅんに\xfffeもちものを　せいり　しました！
+No se ha encontrado
+GUARDAR

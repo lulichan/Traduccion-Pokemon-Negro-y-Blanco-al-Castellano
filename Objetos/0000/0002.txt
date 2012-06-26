@@ -1,0 +1,108 @@
+\xf000Ă\x0001\x0000
+\xf000Ă\x0001\x0000
+\xf000Ă\x0001\x0000
+\xf000Ă\x0001\x0000
+\xf000Ă\x0001\x0000
+\xf000Ă\x0001\x0000
+Elige un Pokémon.
+¿Con qué Pokémon lo usas?
+¿Qué Pokémon quieres reemplazar?
+¿Qué Pokémon quieres usar?
+¿Qué Pokémon quieres retirar?
+L\xf000Ȃ\x0001\x0000
+/
+\xf000Ȃ\x0001\x0000
+\xf000Ć\x0001\x0000
+\xf000ĉ\x0001\x0000
+\xf000ć\x0001\x0000
+\xf000ć\x0001\x0000
+\xf000ć\x0001\x0000
+\xf000ć\x0001\x0000
+PP
+CAMBIAR
+♂
+♀
+DATOS
+MOVIMIENTOS
+DEBILITADO
+EN EL COMBATE
+EN ESPERA
+COMPAÑERO
+Sin objetos
+\xf000Ă\x0001\x0000
+\xf000Ă\x0001\x0000
+Nv. 
+\xf000Ȃ\x0001\x0000
+Siguiente nivel
+\xf000ȅ\x0001\x0000
+\xf000Ć\x0001\x0000
+PS
+\xf000Ȃ\x0001\x0000
+\xf000Ȃ\x0001\x0000
+/
+ATAQUE
+\xf000Ȃ\x0001\x0000
+DEFENSA
+\xf000Ȃ\x0001\x0000
+AT. ESP.
+\xf000Ȃ\x0001\x0000
+DEF. ESP.
+\xf000Ȃ\x0001\x0000
+VELOC.
+\xf000Ȃ\x0001\x0000
+\xf000ć\x0001\x0000
+PP
+\xf000ȁ\x0001\x0000
+\xf000ȁ\x0001\x0000
+PP
+--
+PODER
+\xf000Ȃ\x0001\x0000
+-
+PRECISIÓN
+\xf000Ȃ\x0001\x0000
+CATEGORÍA
+FÍSICO
+ESTADO
+ESPECIAL
+ATRACCIÓN
+OLVIDAR
+SALIR
+Los movimientos MO no se pueden\xfffeolvidar así.
+\xf000ć\x0001\x0000
+\xf000ȁ\x0001\x0000
+\xf000ȁ\x0001\x0000
+\xf000ć\x0001\x0000
+\xf000ȁ\x0001\x0000
+\xf000ȁ\x0001\x0000
+\xf000ć\x0001\x0000
+\xf000ȁ\x0001\x0000
+\xf000ȁ\x0001\x0000
+\xf000ć\x0001\x0000
+\xf000ȁ\x0001\x0000
+\xf000ȁ\x0001\x0000
+\xf000ć\x0001\x0000
+\xf000ȁ\x0001\x0000
+\xf000ȁ\x0001\x0000
+¡\xf000Ă\x0001\x0000 ya está luchando!
+¡A \xf000Ă\x0001\x0000 no le quedan fuerzas\xfffepara luchar!
+¡No se puede cambiar a \xf000Ă\x0001\x0000!
+¡Los Huevos no pueden luchar!
+¡No puedes cambiar el Pokémon\xfffede tu compañero!
+No tendría ningún efecto.
+\xf000Ă\x0001\x0000 ha recuperado \xfffe\xf000Ȃ\x0001\x0001  PS.
+\xf000Ă\x0001\x0000 se ha curado\xfffedel envenenamiento.
+\xf000Ă\x0001\x0000 se ha curado\xfffede la parálisis.
+\xf000Ă\x0001\x0000 ya no tiene quemaduras.
+\xf000Ă\x0001\x0000 ya no está congelado.
+PP restaurados.
+¡\xf000Ă\x0001\x0000は\xfffeya no está debilitado!
+¡\xf000Ă\x0001\x0000は\xffferecuperó su estado!
+¡\xf000Ă\x0001\x0000の\xfffeya no está confuso!
+\xf000Ă\x0001\x0000の\xfffeya no está enamorado.
+¡\xf000Ă\x0001\x0000は\xfffese despertó!
+\xf000Ă\x0001\x0000 ya ha sido seleccionado.
+¿Restaurar qué movimiento?
+¡El efecto de \xf000ć\x0001\x0001 impide usar\xfffeel objeto con \xf000Ă\x0001\x0000!
+¡No puedes cambiar a \xf000Ă\x0001\x0000!
+\xf000Ă\x0001\x0000 ya ha sido retirado.

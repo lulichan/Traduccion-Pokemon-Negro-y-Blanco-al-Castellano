@@ -1,0 +1,121 @@
+\xf000봂\x0000Emparej. Aleatorio Modo Libre
+\xf000봂\x0000Emparej. Aleatorio Modo Ptos. Clasif.
+\xf000봂\x0000Combate Individual
+\xf000봂\x0000Combate Doble
+\xf000봂\x0000Combate Triple
+\xf000봂\x0000Combate Rotatorio
+\xf000봂\x0000Combate Lanzador
+\xf000봂\x0000Récords de \xf000Ā\x0001\x0000
+\xf000봃\x0001\x0000Ptos. Clas.:
+\xf000봃\x0001\x0000\xf000ȃ\x0001\x0000
+\xf000봃\x0001\x0000Número de combates:
+\xf000봃\x0001\x0000\xf000ȅ\x0001\x0000
+\xf000봃\x0001\x0000Victorias:
+\xf000봃\x0001\x0000\xf000Ȅ\x0001\x0000
+\xf000봃\x0001\x0000Derrotas:
+\xf000봃\x0001\x0000\xf000Ȅ\x0001\x0000
+\xf000봃\x0001\x0000\xf000ȁ\x0001\x0002-\xf000ȁ\x0001\x0001-\xf000ȃ\x0001\x0000 - \xf000ȁ\x0001\x0005-\xf000ȁ\x0001\x0004-\xf000ȃ\x0001\x0003
+Pokémon registrados
+Pokémon registrados
+Pokémon registrados
+Lugar de residencia
+Saludo
+\xf000Ĥ\x0001\x0000
+\xf000ĥ\x0001\x0000
+Recibiendo datos...\xfffePor favor, espera.
+Elige el modo de combate.
+Se va a iniciar el Emparej. Aleatorio\xfffeen Modo Libre.\xf000븁\x0000
+LIBRE
+PTOS. CLASIF.
+SALIR
+¿Quieres abandonar el Emparej. Aleatorio?
+SÍ
+NO
+Buscando contrincante para el combate...
+¡Se ha encontrado un contrincante\xfffepara el combate!
+¿Quieres dejar de buscar un oponente?
+Elige los Pokémon.
+Enviando datos...\xfffePor favor, espera.
+¿Quieres continuar el combate?
+¿Quieres abandonar el Emparej. Aleatorio?
+Guardando...\xfffeNo apagues la consola.
+Emparej. Aleatorio\xfffeModo Puntos Clasificatorios\xf000븁\x0000
+Esperando respuesta del servidor...\xfffePor favor, espera.
+Esperando comunicación...\xfffePor favor, espera.
+ブラック．
+ホワイト．
+ポケモンバトル　Ｗｉ－Ｆｉたいかいに\xfffeさんか　しますか？
+PARTICIPAR
+INSTRUCCIONES
+SALIR
+Ｗｉ－Ｆｉたいかいは\xfffeポケモングローバルリンクで\xf000븀\x0000\xfffeとうろく　すると　さんか　できます\xf000븁\x0000\xfffeたいかいの　ルールや\xfffeかいさい　きかんは\xf000븁\x0000\xfffeポケモングロバールリンクを\xfffehttp://www.pokemon-gl.com/\xf000븀\x0000\xfffeかくにん　してください\xf000븁\x0000
+たいかいへ　さんかするのを\xfffeやめますか？
+SÍ
+NO
+Buscando datos de Torneos...
+No has registrado tu ID para Sincronizar\xfffeen Pokémon Global Link.\xf000븁\x0000\xfffeUsa tu ordenador para registrarte en el\xfffesitio web oficial de Pokémon Global Link,\xf000븀\x0000\xfffehttp://www.pokemon-gl.com.\xf000븁\x0000
+さんか　できる\xfffeたいかいが　ありません\xf000븁\x0000\xfffeバトルたいかいは　\xfffeいぜん　さんかした　たいかいには\xf000븀\x0000\xfffeさんか　できません\xf000븁\x0000
+No se ha encontrado ningún Torneo\xfffeen el que participar.\xf000븁\x0000\xfffeRecuerda que no puedes participar\xfffeotra vez en un Torneo en el que\xf000븀\x0000\xfffeya hayas participado.\xf000븁\x0000
+Se va a renovar tu Certificado Digital\xfffede Jugador. No apagues la consola.
+No se está celebrando ningún Torneo\xfffeen el que puedas participar.\xf000븁\x0000
+Para participar en el Torneo Wi-Fi, debes\xffferenovar tu Certificado Digital de Jugador.\xf000븁\x0000\xfffe¿Quieres sobrescribir tu Certificado\xfffeDigital de Jugador?
+Para participar en el Torneo Wi-Fi, debes\xffferenovar tu Certificado Digital de Jugador.\xf000븁\x0000\xfffeSe sobrescribirán los datos de\xfffela Caja de Combate que utilizaste\xf000븀\x0000\xfffeen el último Torneo.\xf000븁\x0000\xfffe¿Quieres sobrescribir tu Certificado\xfffeDigital de Jugador?
+Si no renuevas tu Certificado Digital\xfffede Jugador, no podrás participar\xf000븀\x0000\xfffeen el Torneo.\xf000븁\x0000\xfffe¿Seguro que quieres cancelar\xfffela renovación?
+デジタルせんしゅしょうを\xfffeこうしん　しています\xf000븁\x0000\xfffeでんげんを　きらないでください
+デジタルせんしゅしょうを\xfffeこうしん　できませんでした
+バトルボックスの　ポケモンを\xfffeたいかいに　とうろく　します\xf000븁\x0000\xfffeちゅうい！\xfffeいちど　とうろく　すると\xf000븀\x0000\xfffeさんかを　かいじょ　するまで\xf000븀\x0000\xfffeバトルボックスへ　ポケモンを\xf000븀\x0000\xfffeだしいれ　できなくなります\xf000븁\x0000\xfffeバトルボックスの　ポケモンを\xfffeとうろく　しても　よろしいですか？
+はい
+いいえ
+とうろく　するのを\xfffeやめますか？
+たいかいの　とうろくを\xfffeちゅうだん　しますか？
+データを　おくっています……\xfffeでんげんを　きらないでください
+ポケモンに　もんだいが　あるため\xfffeさんか　できませんでした\xf000븁\x0000
+たいかいへの\xfffeとうろくが　かんりょうしました！\xf000븁\x0000
+たいかいの　じょうけんを\xfffeみたしていません\xf000븁\x0000\xfffeたいかいの　ルールを　かくにんして\xfffeバトルボックスに　ポケモンを\xf000븀\x0000\xfffeセットしてください\xf000븁\x0000
+ポケモンバトル　Ｗｉ－Ｆｉたいかい！\xfffeなにを　しますか？
+たいせんする
+さんかを　かいじょする
+やめる
+たいかいを　ちゅうだん　しますか？
+たいせんを　つづけますか？
+かいさい　きかんが　すぎました\xfffeたいかいを　しゅうりょうします\xf000븁\x0000
+バトルボックスの　とうろくを\xfffeかいじょ　しました\xf000븁\x0000
+げんざい　とうろく　している\xfffeたいかいは　ありません\xf000븁\x0000
+さんかを　かいじょすると\xfffeおなじ　たいかいには\xf000븀\x0000\xfffeさんか　できません\xf000븁\x0000\xfffeかいじょしても　よろしいですか？
+たいかいの　さんかを　かいじょ　します\xfffeほんとうに　よろしいですか？
+たいせん　あいてを\xfffeさがして　います……
+たいせん　あいてを\xfffeさがすのを　やめますか？
+たいせん　あいてが\xfffeみつかりました！
+たいせん　けっかを\xfffeサーバーに　おくりました\xf000븁\x0000\xfffeレーティングの　けいさんは\xfffeすこし　じかんが　かかります\xf000븁\x0000\xfffeけいさんが　おわると\xfffeたいせん　あいてを　さがすとき\xf000븀\x0000\xfffeせいせきに　はんえい　されます\xf000븁\x0000
+つうしん　たいきちゅう　です\xfffeでんげんを　きらないで　ください
+データを　うけとっています\xfffeでんげんを　きらないで　ください
+たいかい　データを\xfffeかくにん　しています……
+ポケモンバトル　Ｗｉ－Ｆｉたいかい！\xfffeたいせんを　つづけますか？
+たいせんする
+さんかを　かいじょする
+やめる
+さんか　とうろくした　たいかいは\xfffeげんざい　かいさい　されていません\xf000븁\x0000\xfffeたいかいの　にっていを\xfffeかくにんして　おまちください\xf000븁\x0000
+バトルボックスに\xfffeポケモンが　１ひきも　いません\xf000븁\x0000\xfffeたいかいの　ルールを　かくにんして\xfffeバトルボックスに　ポケモンを\xf000븀\x0000\xfffeセットして　ください\xf000븁\x0000
+たいせんの　けっかを\xfffeサーバーに　おくりました\xf000븁\x0000
+L\xf000Ȃ\x0001\x0000
+♂
+♀
+
+この　たいかいに　さんかちゅう　です\xfffeポケモンを　とうろく　してください
+この　たいかいに　さんかちゅう　です\xfffeバトルボックスを　ロックしています
+さんかを　かいじょすると\xfffeおなじ　たいかいには\xf000븀\x0000\xfffeさんか　できません\xf000븁\x0000\xfffeかいじょしても　よろしいですか？
+たいかいの　さんかを　かいじょ　します\xfffeほんとうに　よろしいですか？
+かいじょちゅう　です\xfffeでんげんを　きらないで　ください
+バトルボックスの　とうろくを\xfffeかいじょ　しました\xf000븁\x0000
+この　たいかいの　かいさいは\xfffeしゅうりょう　しました
+この　たいかいは　とちゅうで\xfffeさんかを　かいじょ　しました
+デジタルせんしゅしょうの\xfffeデータが　ありません\xf000븁\x0000
+この　たいかいは\xfffeほんたいと　ＤＳカードを\xf000븀\x0000\xfffeさしかえた　ため\xf000븁\x0000\xfffeたいかい　への　さんかが\xfffeかいじょに　なりました\xf000븁\x0000
+さんかを　かいじょすると\xfffeおなじ　たいかいには\xf000븀\x0000\xfffeさんか　できません\xf000븁\x0000\xfffeかいじょしても　よろしいですか？
+たいかいの　さんかを　かいじょ　します\xfffeほんとうに　よろしいですか？
+たいかいへの　さんかを\xfffeかいじょ　しました\xf000븁\x0000
+もどる
+さんかの　かいじょ
+はい
+いいえ
+ポケモンに　もんだいが　あるため\xfffeさんか　できませんでした\xf000븁\x0000

@@ -1,0 +1,24 @@
+SINCRONIZAR
+WIFI
+Se crearán los datos para Sincronizar\xfffeJuego. ¿Estás de acuerdo?
+Creando datos...\xfffePor favor, espera.
+SÍ
+NO
+Guardando...\xfffeNo apagues la consola.
+Para configurar la función Sincronizar\xfffeJuego, accede al sitio web oficial de\xfffePokémon Global Link desde tu ordenador\xfffee introduce el ID para Sincronizar que\xfffese muestra arriba.\xfffe\xfffehttp://www.pokemon-gl.com/
+Se ha activado el ID para Sincronizar.\xfffe\xfffeSi necesitas ver de nuevo el ID para\xfffeSincronizar que se muestra arriba,\xfffeaccede a la pantalla CONFIG. SINCRONIZAR\xfffeJUEGO desde el menú de inicio que aparece\xfffeal comienzo del juego.
+Para configurar la función Sincronizar\xfffeJuego, accede al sitio web oficial de\xfffePokémon Global Link desde tu ordenador\xfffee introduce el ID para Sincronizar\xfffeque se muestra arriba.\xfffe\xfffehttp://www.pokemon-gl.com/
+ID para Sincronizar
+Se ha guardado el ID para Sincronizar.
+Se ha producido un error en el servidor.\xfffeVuelve a intentarlo. Si no se soluciona\xfffeel problema, consulta el apartado\xfffe“Solución de problemas" del manual\xfffede instrucciones.\xfffeError: 13201
+Se ha producido un error en el servidor.\xfffeVuelve a intentarlo. Si no se soluciona\xfffeel problema, consulta el apartado\xfffe“Solución de problemas" del manual\xfffede instrucciones.\xfffeError: 13202
+Se ha producido un error de conexión.\xfffeVuelve a intentarlo. Si no se soluciona\xfffeel problema, consulta el apartado\xfffe“Solución de problemas" del manual\xfffede instrucciones.\xfffeError: 13203
+Se ha producido un error de conexión.\xfffeVuelve a intentarlo. Si no se soluciona\xfffeel problema, consulta el apartado\xfffe“Solución de problemas" del manual\xfffede instrucciones.\xfffeError: 13204
+Se ha producido un error en el servidor.\xfffeVuelve a intentarlo. Si no se soluciona\xfffeel problema, consulta el apartado\xfffe“Solución de problemas" del manual\xfffede instrucciones.\xfffeError: 13205
+El servicio ya no está disponible.\xfffeError: 13206
+Se ha producido un error de conexión.\xfffeVuelve a intentarlo. Si no se soluciona\xfffeel problema, consulta el apartado\xfffe“Solución de problemas" del manual\xfffede instrucciones.\xfffeError: 13207
+Se ha producido un error en el servidor.\xfffeVuelve a intentarlo. Si no se soluciona\xfffeel problema, consulta el apartado\xfffe“Solución de problemas" del manual\xfffede instrucciones.\xfffeError: 13208
+Se ha producido un error de conexión.\xfffeVuelve a intentarlo. Si no se soluciona\xfffeel problema, consulta el apartado\xfffe“Solución de problemas" del manual\xfffede instrucciones.\xfffeError: 13209
+Se ha producido un error en el servidor.\xfffeVuelve a intentarlo. Si no se soluciona\xfffeel problema, consulta el apartado\xfffe“Solución de problemas" del manual\xfffede instrucciones.\xfffeError: 13210
+El servidor está ocupado.\xfffeError de conexión.\xfffeEspera un momento\xfffey vuelve a intentarlo.\xfffeError: 13211
+Se están realizando operaciones\xfffede mantenimiento en el servidor.\xfffePara obtener información detallada, visita\xfffeel sitio oficial de Pokémon Global Link.\xfffehttp://www.pokemon-gl.com/\xfffeError: 13212

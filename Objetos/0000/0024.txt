@@ -1,0 +1,33 @@
+Comunicación por infrarrojos
+Conexión Wi-Fi de Nintendo
+Conexión Wi-Fi de Nintendo
+Comunicación inalámbrica
+Comunicación inalámbrica
+Comunicación inalámbrica
+Comunicación inalámbrica
+Comunicación inalámbrica
+Registro de Encuentros
+Registro de Encuentros
+Radar de Sondeos
+Radar de Sondeos
+Personalizar
+Encender / Apagar
+Encender / Apagar
+Esta función te permite realizar\xfffecombates o intercambios con amigos\xfffeque se encuentren junto a ti.\xfffeAdemás, también podéis hacer Test\xfffede compatibilidad e intercambiar\xfffevuestra clave de amigo.
+Toca el botón Sincronizar Juego para\xfffeacostar a un Pokémon y enviar sus datos\xfffemediante la Conexión Wi-Fi de Nintendo.
+Si no has configurado los ajustes de\xfffeconexión de tu consola Nintendo DS o\xfffeno recibes una señal lo bastante fuerte,\xfffeno podrás acceder a la Conexión Wi-Fi\xfffede Nintendo.
+Mediante la comunicación inalámbrica,\xfffepuedes usar las dos funciones siguientes\xfffecon amigos que se encuentren cerca:\xfffe- Videomisor\xfffe- Zona Nexo
+Puedes usar el Videomisor con amigos\xfffecon los que hayas jugado en el Club Wi-Fi\xfffePokémon o con quienes hayas\xfffeintercambiado tu clave de amigo\xfffemediante el C-Gear.
+Toca el botón Zona Nexo para ir hasta\xfffeallí en un abrir y cerrar de ojos.
+Mediante la función de comunicación\xfffeinalámbrica, también puedes consultar\xfffecuántas personas de tu alrededor se\xfffeencuentran en la Sala Unión o si está\xfffeteniendo lugar algún evento de\xfffedistribución cerca de donde estás.
+También puedes comprobar si hay\xfffepersonas a tu alrededor que tienen\xfffeactivado su C-Gear. Saber esto te\xfffeayudará a utilizar el Radar de Sondeos.
+Esta función te proporciona información\xfffesobre las personas con las que te\xfffecruzas. Puedes consultar sus datos y\xfffedecidir si quieres iniciar o no una\xfffeconversación.
+Puedes encuestar a la gente con la que\xfffete cruzas acerca de sus gustos o\xfffeaficiones. Tras seleccionar el sondeo que\xfffete interesa, puedes consultar los\xffferesultados recabados hoy o todos los\xffferesultados recabados hasta el momento.
+Toca el botón Personalizar y se pondrá\xfffea parpadear. Esto indica que puedes\xfffetocar las celdas del C-Gear para\xfffecambiarlas de color. También puedes\xffferedistribuir las celdas para crear\xfffeun diseño que te guste.
+Toca este botón para encender o apagar\xfffeel C-Gear.\xfffeCuando esté apagado, la pantalla se\xfffemostrará negra y las funciones de\xfffecomunicación estarán desactivadas.
+カスタムマークを　タッチすると\xfffeマークが　てんめつ　します。\xfffeボタンを　タッチしながら　うごかすと\xfffeばしょを　かえることが　できます。\xfffeまた　リングを　タッチすると\xfffeリングの　いろが　へんかします。
+でんげんマークを　タッチすると\xfffeオンと　オフを　きりかえるかの\xfffeかくにんがめんに　かわります。\xfffeオフにすると　タッチぶぶんが\xfffeくらくなり　どうじに\xfffeむせんの　つうしんが　オフになります。
+のこされた　でんりょくが\xfffeすくない　じょうたいで\xfffeＤＳの　ふたが　とじられていると\xfffeＣギアの　でんげんが\xfffeじどうてきに　オフになります。
+SIGUIENTE
+SALIR
+ANTERIOR

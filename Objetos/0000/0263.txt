@@ -1,0 +1,64 @@
+Poder Encuentro +
+Poder Encuentro ++
+Poder Encuentro +++
+Poder Encuentro -
+Poder Encuentro --
+Poder Encuentro ---
+Poder Incubación +
+Poder Incubación ++
+Poder Incubación +++
+Poder Amistad +
+Poder Amistad ++
+Poder Amistad +++
+Poder Descuento +
+Poder Descuento ++
+Poder Descuento +++
+Poder Restaura PS +
+Poder Restaura PS ++
+Poder Restaura PS +++
+Poder Restaura PP +
+Poder Restaura PP ++
+Poder Restaura PP +++
+Poder Ptos. Exp. +
+Poder Ptos. Exp. ++
+Poder Ptos. Exp. +++
+Poder Ptos. Exp. -
+Poder Ptos. Exp. --
+Poder Ptos. Exp. ---
+Poder Recompensa +
+Poder Recompensa ++
+Poder Recompensa +++
+Poder Captura +
+Poder Captura ++
+Poder Captura +++
+Poder Incubación S
+Poder Descuento S
+Poder Amistad S
+Poder Ptos. Exp. S
+Poder Recompensa S
+Poder Captura S
+Poder Restaura Equipo
+Poder Incubación MAX
+Poder Descuento MAX
+Poder Amistad MAX
+Poder Ptos. Exp. MAX
+Poder Recompensa MAX
+Poder Captura MAX
+むこう　１
+むこう　２
+むこう　ID NULL
+たんさくパワー　＋
+たんさくパワー　＋＋
+たんさくパワー　＋＋＋
+かくしあなパワー　＋
+かくしあなパワー　＋＋
+かくしあなパワー　＋＋＋
+おまじないパワー　＋
+おまじないパワー　＋＋
+おまじないパワー　＋＋＋
+たんさくパワー　Ｓ
+たんさくパワー　ＭＡＸ
+かくしあなパワー　Ｓ
+かくしあなパワー　ＭＡＸ
+おまじないパワー　Ｓ
+おまじないパワー　ＭＡＸ

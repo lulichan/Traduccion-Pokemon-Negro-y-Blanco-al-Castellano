@@ -1,0 +1,165 @@
+ -
+Es posible que el rival\xffferetroceda por el mal olor.
+Hace que llueva cuando\xfffeentra en combate.
+Aumenta la Velocidad\xfffegradualmente.
+Bloquea golpes críticos.
+Evita que el rival pueda\xfffedebilitar de un solo golpe.
+Evita que un Pokémon\xfffepueda autodestruirse.
+Evita ser paralizado.
+Aumenta la Evasión en\xfffelas tormentas de arena.
+Puede paralizar al\xfffemínimo contacto.
+Recupera PS al recibir\xfffeataques eléctricos.
+Recupera PS al recibir\xfffeataques de tipo Agua.
+Evita que el Pokémon\xfffese enamore.
+Anula los efectos del\xfffetiempo atmosférico.
+Aumenta la Precisión\xfffedel Pokémon.
+Evita el quedarse\xfffedormido.
+Cambia el tipo al del\xfffemovimiento rival.
+Evita el envenenamiento.
+Potencia movs. de tipo\xfffeFuego si sufre uno antes.
+Anula el efecto secundario\xfffedel ataque sufrido.
+Evita ser confundido.
+Anula movs. y objetos que\xfffefuerzan el relevo.
+Baja el Ataque del rival.
+Evita que el enemigo\xfffehuya.
+Hiere al tacto.
+Solo hacen daño los\xfffemovimientos muy eficaces.
+Da inmunidad frente a los\xfffeataques de tipo Tierra.
+Puede dormir, envenenar\xfffeo paralizar al contacto.
+Contagia envenenamiento,\xfffeparálisis o quemaduras.
+Evita que bajen\xfffelas características.
+Cura problemas de estado\xfffeal cambiar de Pokémon.
+Aumenta el At. Esp. ante\xfffemovs. de tipo Eléctrico.
+Aumenta la probabilidad\xfffede efectos secundarios.
+Sube la Velocidad cuando\xfffehay lluvia.
+Sube la Velocidad cuando\xfffehay sol.
+Aumenta la probabilidad\xfffede encontrar Pokémon.
+El Pokémon copia la\xfffehabilidad del rival.
+Aumenta el Ataque.
+Puede envenenar al\xfffemínimo contacto.
+Evita el retroceso.
+Evita la congelación.
+Evita las quemaduras.
+Impide huir a los Pokémon\xfffede tipo Acero.
+Evita ataques de sonido.
+El Pokémon gana PS\xfffegradualmente si llueve.
+Crea una tormenta de\xfffearena en el combate.
+Hace que los PP del rival\xfffese acaben antes.
+Atenúa los ataques de\xfffetipo Fuego y Hielo.
+El Pokémon se despierta\xffferápidamente.
+Puede quemar al mínimo\xfffecontacto.
+Permite escapar de todos\xfffelos Pokémon salvajes.
+Evita que disminuya\xfffela Precisión.
+Evita que disminuya\xfffeel Ataque.
+El Pokémon puede\xfffeencontrar objetos.
+El Pokémon no atacará en\xfffeturnos consecutivos.
+Aumenta el Ataque, pero\xfffereduce la Precisión.
+Tocar al Pokémon puede\xfffecausar enamoramiento.
+Potencia el At. Esp. si\xfffeotro tiene Más o Menos.
+Potencia el At. Esp. si\xfffeotro tiene Más o Menos.
+Se transforma con el\xfffetiempo atmosférico.
+Impide el robo de objetos.
+Cura los problemas de\xfffeestado mudando la piel.
+Sube el Ataque si sufre\xfffeun problema de estado.
+Sube la Defensa si sufre\xfffeun problema de estado.
+Hiere a los enemigos\xfffeque drenan PS.
+Potencia los ataques de\xfffetipo Planta en un apuro.
+Potencia los ataques de\xfffetipo Fuego en un apuro.
+Potencia los ataques de\xfffetipo Agua en un apuro.
+Potencia los ataques de\xfffetipo Bicho en un apuro.
+Impide que el Pokémon\xfffese dañe con sus movs.
+El sol sale si el Pokémon\xfffeentra en combate.
+Evita que el rival huya.
+Evita el quedarse dormido.
+Evita que bajen las\xfffecaracterísticas.
+Aumenta el Ataque.
+Impide recibir daño\xfffecrítico.
+Anula los efectos del\xfffetiempo atmosférico.
+Sube la Evasión si el\xfffePokémon está confuso.
+Sube la Velocidad si le\xfffeda un ataque eléctrico.
+Si el objetivo es del mismo\xfffesexo, inflige más daño.
+Cada vez que retrocede\xfffesube su Velocidad.
+Sube la Evasión durante\xfffeuna tormenta de granizo.
+Fomenta el uso rápido de\xfffela Baya que porte.
+Sube el Ataque al máximo\xfffetras un golpe crítico.
+Sube la Veloc. si usa o\xfffepierde un objeto llevado.
+Atenúa los movimientos\xfffede tipo Fuego.
+Aumenta los cambios\xfffeen las características.
+Pierde PS si hace calor.\xfffeLos recupera con agua.
+Adapta su fuerza para\xfffecada rival.
+Aumenta la fuerza de los\xfffepuñetazos.
+Recupera PS si el Pokémon\xfffeha sido envenenado.
+Potencia los movimientos\xfffedel mismo tipo.
+Aumenta la frecuencia de\xfffelos movimientos múltiples.
+Cura los problemas de\xfffeestado si está lloviendo.
+Si hace sol, baja los PS,\xfffepero potencia el At. Esp.
+Potencia la Velocidad si\xfffehay problemas de estado.
+Todos los movimientos se\xfffevuelven de tipo Normal.
+Potencia los movimientos\xfffesi se vuelven críticos.
+Solo dañan al Pokémon\xfffelos ataques directos.
+El movimiento del Pokémon\xfffey el del rival acertarán.
+El Pokémon se mueve\xfffetras todos los demás.
+Potencia los movimientos\xfffemás débiles del Pokémon.
+Evita los problemas de\xfffeestado si hace sol.
+El Pokémon no puede\xfffeusar objetos equipados.
+Usa movimientos sin que\xfffeimporten las habilidades.
+Aumenta la probabilidad\xfffede dar golpes críticos.
+Daña al agresor que le ha\xfffedado el golpe de gracia.
+Prevé los movimientos\xfffepeligrosos del rival.
+Determina el movimiento\xfffemás potente del rival.
+Ignora mejoras en las\xfffecaracterísticas del rival.
+Potencia los movimientos\xfffepoco eficaces.
+Mitiga los movimientos\xfffesupereficaces.
+Baja a la mitad el Ataque y\xfffela Velocidad por un tiempo.
+Movs. tipo Lucha y Normal\xfffegolpean Pokémon Fantasma.
+Atrae agua para aumentar\xfffeel At. Esp.
+Recupera algunos PS en\xfffetormentas de granizo.
+Mitiga los movimientos\xfffesupereficaces.
+El Pokémon invoca una\xfffetormenta de granizo.
+El Pokémon recoge Miel\xfffede donde puede.
+El Pokémon puede ver el\xfffeobjeto que lleva el rival.
+Potencia los movimientos\xfffeque dañan al usuario.
+Cambia el tipo al de la\xfffeTabla que lleve.
+Potencia los Pokémon del\xfffeequipo si está soleado.
+Reduce los PS de un rival\xfffemientras duerme.
+Al ser golpeado, roba\xfffeel objeto del objetivo.
+Sube la potencia y anula\xfffelos efectos secundarios.
+Invierte los cambios\xfffeen las características.
+Pone nervioso al rival\xfffey le impide usar Bayas.
+Sube el Ataque si bajan\xfffelas características.
+Baja las características\xfffeal llegar a la mitad los PS.
+Puede anular el movimiento\xfffeusado en su contra.
+Puede curar los cambios de\xfffeestado de aliados vecinos.
+Reduce el daño que sufren\xfffelos aliados.
+Un ataque físico baja la\xfffeDefensa y sube la Veloc.
+Duplica el peso\xfffedel Pokémon.
+Reduce a la mitad\xfffeel peso del Pokémon.
+Reduce el daño sufrido\xfffesi los PS están al máximo.
+Aumenta la potencia física\xfffesi está envenenado.
+Potencia el Ataque\xfffeEspecial al ser quemado.
+Permite reutilizar varias\xfffeveces una misma Baya.
+Elude los ataques de\xfffealiados en batalla.
+Sube una característica\xfffemucho, pero baja otra.
+Anula los daños causados\xfffepor el tiempo atmosférico.
+Puede envenenar al\xfffeobjetivo con solo tocarlo.
+Recupera unos pocos PS\xfffeal cambiar de Pokémon.
+Protege de los ataques\xfffeque bajan la Defensa.
+Aumenta la Velocidad en\xfffetormentas de arena.
+Dificulta que le afecten\xfffelos ataques de estado.
+Potencia el movimiento\xfffesi es el último en atacar.
+Se convierte en el último\xfffePokémon del equipo.
+Se transforma en el que\xfffetiene enfrente.
+Ataca rodeando la\xfffebarrera del rival.
+Contagia Momia al\xffferival que lo toque.
+Potencia el Ataque al\xfffedebilitar a un objetivo.
+Sube el Ataque al recibir\xfffeuno de tipo Siniestro.
+El miedo a algunos ataques\xfffesube su Velocidad.
+Permite devolver\xfffelos ataques de estado.
+Sube el Ataque al recibir\xfffeuno de tipo Planta.
+Permite lanzar primero\xfffeun ataque de estado.
+Potencia algunos movs.\xfffeen tormentas de arena.
+El Pokémon que lo toque\xffferecibe daño.
+Cambia de forma\xfffeen un apuro.
+Sube la Precisión\xfffede todo el equipo.
+Usa movimientos sin que\xfffeimporten las habilidades.
+Usa movimientos sin que\xfffeimporten las habilidades.

@@ -1,0 +1,6 @@
+SÍ
+NO
+Olvidar un movimiento antiguo
+Conservar movimientos antiguos
+No aprender \xf000ć\x0001\x0000
+Aprender \xf000ć\x0001\x0000

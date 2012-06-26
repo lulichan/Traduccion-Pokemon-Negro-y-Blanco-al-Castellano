@@ -1,0 +1,18 @@
+ZONA NEXO
+VIDEOMISOR
+EN LA SALA UNIÓN
+\xf000ȁ\x0001\x0000
+EVENTO DISTRIBUCIÓN
+Disp.
+Indisp.
+SÍ
+NO
+VOLVER
+Participar aqui\xfffe¿Quieres hacer una entrada Pokemon?
+Guardando\xfffePor favor espera
+C-GEAR DETECTADOS
+Disp.
+Indisp.
+Zona Nexo\xfffeConexión
+Zona Nexo\xfffeInvitados: \xf000Ȁ\x0001\x0000
+Zona Nexo\xfffeMisión

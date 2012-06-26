@@ -1,0 +1,372 @@
+VÍDEOS DE COMBATE
+RÉCORD DEL FRENTE
+COMBATE ALEATORIO
+SALIR
+ATRÁS
+MIS VÍDEOS
+OTROS VÍDEOS
+BORRAR VÍDEOS
+\xf000봂\x0000Vídeo de \xf000Ā\x0001\x0000
+VACÍO
+\xf000ȃ\x0001\x0000
+Comb.
+\xf000봂\x0000No.：\xf000ȁ\x0001\x0000-\xf000Ȅ\x0001\x0001-\xf000Ȅ\x0001\x0002
+\xf000봂\x0000No.：\xf000ȁ\x0001\x0000-\xf000Ȅ\x0001\x0001-\xf000Ȅ\x0001\x0002★
+Perfil de \xf000봂\x0000\xf000Ā\x0001\x0000
+Silencio
+\xf000봂\x0000Mes de Nacimiento\xf000ȁ\x0001\x0000
+\xf000봂\x0000Lugar
+\xf000봂\x0000Ratio del Entrenador
+INFO.
+PERFIL
+
+Desconocida
+\xf000Ĥ\x0001\x0000
+\xf000ĥ\x0001\x0000
+\xf000Ĝ\x0001\x0000 \xf000Ĝ\x0001\x0001
+Vídeo de \xf000Ā\x0001\x0000
+MIS VÍDEOS
+OTROS VÍDEOS
+あき
+Borrando record de\xf000Ā\x0001\x0000
+BUSCAR EN EL RANKING
+ENVIAR DATOS
+LOS ÚLTIMOS 30
+DETALLES DE LA BUSQ.
+
+BUSCAR POR NÚMERO
+しせつでさがす
+BUSCAR POR POKÉMON
+BUSCAR POR UBICACIÓN
+BUSCAR POR POKéMON
+BÚSQUEDA LOCAL
+ENVIAR FOTO
+VER FOTOS
+ENVIAR
+Escoje un Pokémon.
+\xf000Ā\x0001\x0000　の　しゃしん\xfffe\xf000Ĝ\x0001\x0001
+\xf000Ā\x0001\x0000\xfffe\xf000Ĝ\x0001\x0001
+IMAGEN
+ENVIAR DATOS
+VER DATOS
+INTERESANTES
+CHULAS
+BONITAS
+ORIGINALES
+DIVERTIDAS
+ESPECIALES
+CAJA
+DETALLES
+ABC
+DEF
+GHI
+JKL
+MNO
+PQR
+STU
+VWX
+YZ
+
+CLAS. SEMANA ACTUAL
+CLAS. SEMANA PASADA
+CAMBIAR CLASIFICACIONES
+CAMBIAR CRITERIO
+Equipo/Tipo de Entrenador
+Equipo/Mes de nacimiento
+Equipo/Pokémon favoritos
+\xf000Ā\x0001\x0001/\xf000Ď\x0001\x0000
+\xf000Ā\x0001\x0001/\xf000ȁ\x0001\x0000
+\xf000Ā\x0001\x0001/\xf000ā\x0001\x0000
+\xf000ȁ\x0001\x0000/\xf000Ď\x0001\x0001
+\xf000ȁ\x0001\x0000/\xf000ȁ\x0001\x0001
+\xf000ȁ\x0001\x0000/\xf000ā\x0001\x0001
+RESULTADOS DE LA SEMANA PASADA
+COLISEO
+FRENTE DE BATALLA
+GUARDAR
+VER VÍDEO\xfffeDE COMBATE
+VÍDEO DE COMBATE
+MEJORES ÚLTIMOS 30
+MEJORES VÍDEOS EN EL COLISEO
+MEJORES VÍDEOS EN\xfffeEL FRENTE DE BATALLA
+BUSCAR VIDEOS BATALLA DE\xfffeいちらん
+
+¿Donde quieres guardar\xfffe El vídeo Batalla de \xf000Ā\x0001\x0000?
+うわがきほぞん
+¿Deseas borrar el vídeo Batalla de \xf000Ā\x0001\x0000\xfffe?
+VER VÍDEOS COMBATE
+ENVIAR VÍDEO COMBATE
+ÚLTIMOS 30
+BUSCAR
+BUSCAR POR NÚMERO
+BUSCAR POR UBICACIÓN
+BUSCAR POR POKéMON
+BÚSQUEDA LOCAL
+ACEPTAR
+Introduce el número del vídeo.
+Selecciona la ubicación del combate.
+Selecciona el Pokémon.
+Introduce los criterios de búsqueda.
+No has introducido ningún criterio\xfffede búsqueda.
+Cargando Vídeos de Combate...
+No se ha encontrado ningún Vídeo de\xfffeCombate con los criterios indicados.
+Enviando Vídeo de Combate...
+¡Batalla de video enviada!
+\xf000봂\x0000VER PERFIL
+\xf000봂\x0000CERRAR PERFIL
+ÚLTIMOS 30 VÍDEOS DE COMBATE
+Seleciona los criterio de búsqueda.
+NO
+LISTA DE VIDEOS BATALLA DE\xfffeLOS RESULTADO DE BÚSQUEDA
+VÍDEOS ENCONTRADOS
+No puedes enviar otra vez el mismo vídeo.\xfffeToca la pantalla táctil para continuar.
+No has guardado tu lugar de residencia.
+No tienes ningún Vídeo de Combate.
+\xf000ȁ\x0001\x0000
+つうしんたいせん
+Puntos Combate:
+Localización\xfffe\xf000Ĥ\x0001\x0000
+\xf000봂\x0000Combate individual
+\xf000봂\x0000Combate doble
+\xf000봂\x0000Combate múltiple
+\xf000봂\x0000Combate Wi-Fi
+\xf000봂\x0000Battle Subway
+\xf000봂\x0000Combate individual
+\xf000봂\x0000Combate doble
+\xf000봂\x0000Combate múltiple
+Porfavor escoja tu Informe de Batalla
+VICTORIAS:
+TOTAL:
+\xf000봃\x0001\x0000\xf000ȃ\x0001\x0000
+\xf000봃\x0001\x0000\xf000ȃ\x0001\x0000
+\xf000봃\x0001\x0000
+MULTI-ENTRENADOR
+AMIGOS
+Ranking
+CLASIFICACIÓN
+\xf000봂\x0000TREN WI-FI
+げんざい：
+CLASIFICACIÓN DE \xf000봂\x0000\xf000Ā\x0001\x0000
+\xf000봂\x0000MODO CLASIFICACIÓN
+\xf000봂\x0000MODO LIBRE
+\xf000봃\x0001\x0000Ganadas:
+\xf000봃\x0001\x0000Perdidas:
+\xf000봃\x0001\x0000Individual:
+\xf000봃\x0001\x0000Doble:
+\xf000봃\x0001\x0000Triple:
+\xf000봃\x0001\x0000Rotacional:
+\xf000봃\x0001\x0000Lanzador:
+\xf000봃\x0001\x0000\xf000ȃ\x0001\x0000
+\xf000봃\x0001\x0000\xf000Ȅ\x0001\x0000
+\xf000봃\x0001\x0000Puntuación
+\xf000봂\x0000SÍ
+\xf000봂\x0000NO
+SÍ
+NO
+¿Es verdad que te quieres desconectar?\xfffe¿Desconectar de la comunicación Wi-FI？
+Coliseo Individual\xfffeNormal
+Coliseo Individual\xfffeLibre
+Coliseo Individual\xfffeNormal - Lanzador
+Coliseo Individual\xfffeLibre - Lanzador
+Coliseo Doble\xfffeNormal
+Coliseo Doble\xfffeLibre
+Coliseo Doble\xfffeNormal - Lanzador
+Coliseo Doble\xfffeLibre - Lanzador
+Coliseo Triple\xfffeNormal
+Coliseo Triple\xfffeLibre
+Coliseo Triple\xfffeNormal - Lanzador
+Coliseo Triple\xfffeLibre - Lanzador
+Coliseo Rotacional\xfffeNormal
+Coliseo Rotacional\xfffeLibre
+Coliseo Rotacional\xfffeNormal - Lanzador
+Coliseo Rotacional\xfffeLibre - Lanzador
+Coliseo Múltiple\xfffeNormal
+Coliseo Múltiple\xfffeLibre
+Coliseo Múltiple\xfffeNormal - Lanzador
+Coliseo Múltiple\xfffeLibre - Lanzador
+Battle Subway\xfffeIndividual
+Battle Subway\xfffeDoble
+Battle Subway\xfffeMúltiple
+Libre Al Azar\xfffeIndividual
+Libre Al Azar\xfffeDoble
+Libre Al Azar\xfffeTriple
+Libre Al Azar\xfffeRotacional
+Libre Al Azar\xfffeLanzador
+Clasif. Al Azar\xfffeIndividual
+Clasif. Al Azar\xfffeDoble
+Clasif. Al Azar\xfffeTriple
+Clasif. Al Azar\xfffeRotacional
+Clasif. Al Azar\xfffeLanzador
+たいかい　シングル\xfffeシューターなし
+たいかい　シングル\xfffeシューターあり
+たいかい　ダブル\xfffeシューターなし
+たいかい　ダブル\xfffeシューターあり
+たいかい　トリプル\xfffeシューターなし
+たいかい　トリプル\xfffeシューターあり
+たいかい　ローテーション\xfffeシューターなし
+たいかい　ローテーション\xfffeシューターあり
+０１：コロシアム　シングル\xfffe　　　シューターなし
+０２：コロシアム　シングル\xfffe　　　シューターあり
+０３：コロシアム　ダブル\xfffe　　　シューターなし 
+０４：コロシアム　ダブル\xfffe　　　シューターあり
+０５：コロシアム　トリプル\xfffe　　　シューターなし
+０６：コロシアム　トリプル\xfffe　　　シューターあり
+０７：コロシアム　ローテーション\xfffe　　　シューターなし
+０８：コロシアム　ローテーション\xfffe　　　シューターあり
+０９：コロシアム　マルチ\xfffe　　　シューターなし
+１０：コロシアム　マルチ\xfffe　　　シューターあり
+１１：バトルサブウェイ\xfffe　　　シングル
+１２：バトルサブウェイ\xfffe　　　ダブル
+１３：バトルサブウェイ\xfffe　　　マルチ
+１４：ランダムマッチ\xfffe　　　シングル
+１５：ランダムマッチ\xfffe　　　ダブル
+１６：ランダムマッチ\xfffe　　　トリプル
+１７：ランダムマッチ\xfffe　　　ローテーション
+１８：ランダムマッチ\xfffe　　　シューターバトル
+１９：バトルたいかい\xfffe
+２０：バトルキャッスル\xfffe　　　マルチ
+２１：バトルルーレット\xfffe　　　シングル
+２２：バトルルーレット\xfffe　　　ダブル
+２３：バトルルーレット\xfffe　　　マルチ
+\xf000봂\x0000¡TOCA LA PANTALLA!
+¿Quieres desconectarte de\xfffela Conexión Wi-Fi de Nintendo?
+　
+Error de autenticación del usuario.\xfffeEspera un momento y vuelve a conectarte.
+Estos datos ya están registrados.\xfffeToca la pantalla táctil para continuar.
+Al parecer hay un problema\xfffecon los Datos del Atuendo.
+Al parecer hay un problema\xfffecon los datos del Perfil.
+Se ha producido un error.\xfffeToca la pantalla táctil para continuar.
+Se ha producido un error.\xfffeToca la pantalla táctil para continuar.
+　
+Error de autenticación del usuario.\xfffeEspera un momento y vuelve a conectarte.
+Al parecer hay un problema\xfffecon el Pokémon seleccionado.
+Se ha producido un error.\xfffeToca la pantalla táctil para continuar.
+　
+Error de autenticación del usuario.\xfffeEspera un momento y vuelve a conectarte.
+Estos datos ya están registrados.\xfffeToca la pantalla táctil para continuar.
+Al parecer hay un problema\xfffecon los Datos de la Caja.
+Al parecer hay un problema\xfffecon los datos del Perfil.
+Al parecer hay un problema\xfffecon tu equipo.
+Se ha producido un error.\xfffeToca la pantalla táctil para continuar.
+　
+Error de autenticación del usuario.\xfffeEspera un momento y vuelve a conectarte.
+Al parecer hay un problema\xfffecon tu equipo.
+Se ha producido un error.\xfffeToca la pantalla táctil para continuar.
+　
+Error de autenticación del usuario.\xfffeEspera un momento y vuelve a conectarte.
+Se ha producido un error.\xfffeToca la pantalla táctil para continuar.
+　
+Error de autenticación del usuario.\xfffeEspera un momento y vuelve a conectarte.
+No se ha podido recibir la Clasificación.\xfffeToca la pantalla táctil para continuar.
+Al parecer hay un problema con\xfffelos Datos de tu Clasificación.
+Al parecer hay un problema\xfffecon los datos del Perfil.
+Se ha producido un error.\xfffeToca la pantalla táctil para continuar.
+
+Error de autenticación del usuario.\xfffeEspera un momento y vuelve a conectarte.
+Estos datos ya están registrados.\xfffeToca la pantalla táctil para continuar.
+Al parecer hay un problema\xfffecon el Vídeo de Combate.
+Al parecer hay un problema\xfffecon los datos del Perfil.
+Se ha producido un error.\xfffeToca la pantalla táctil para continuar.
+Al parecer hay un problema con tus Pokémon.\xfffeNo se han enviado los datos.
+Puede haber un problema con los Pokémon del\xfffeotro jugador. No se han enviado los datos.
+　
+Se ha producido un error.\xfffeToca la pantalla táctil para continuar.
+Error de autenticación del usuario.\xfffeEspera un momento y vuelve a conectarte.
+Al parecer hay un problema\xfffecon los criterios de búsqueda.
+Se ha producido un error.\xfffeToca la pantalla táctil para continuar.
+　
+Error de autenticación del usuario.\xfffeEspera un momento y vuelve a conectarte.
+No hay ningún vídeo que cumpla ese criterio.\xfffeToca la pantalla táctil para continuar.
+Se ha producido un error.\xfffeToca la pantalla táctil para continuar.
+Se ha producido un error.\xfffeToca la pantalla táctil para continuar.
+　
+　
+　
+　
+　
+Se ha producido un error.\xfffeError: 10601
+Se ha producido un error.\xfffeError: 10602
+Se ha producido un error.\xfffeError: 10603
+Se ha producido un error.\xfffeError: 10604
+No se ha podido acceder a la conexión.\xfffeError: 10605
+Se ha producido un error.\xfffeError: 10606
+No se ha podido acceder a la conexión.\xfffeError: 10607
+Se ha producido un error.\xfffeError: 10608
+Se ha producido un error.\xfffeError: 10609
+No se recibe ninguna señal.\xfffeError: 10610
+No se recibe ninguna señal.\xfffeError: 10611
+No se recibe ninguna señal.\xfffeError: 10612
+La conexión se ha interrumpido.\xfffeError: 10613
+No se ha podido acceder a la conexión.\xfffeError: 10614
+　
+　
+　
+　
+　
+　
+　
+Se ha perdido la conexión con el servidor.\xfffeToca la pantalla táctil para continuar.
+　
+　
+No hay datos guardados.
+Selecciona una Caja.
+No puedes enviar datos de una Caja vacía.
+¿Adónde los quieres enviar?
+Solo puedes enviar los datos\xfffede una Caja cada vez.
+No puedes volver a enviar\xfffedatos de la misma Caja.
+¿Qué categoría quieres ver?
+No se ha podido borrar los datos guardados.
+No puedes volver a guardar el mismo vídeo.\xfffeToca la pantalla táctil para continuar.
+Guardando...\xfffeNo apagues la consola.
+Recibiendo datos...
+Enviando información de guardado...
+Guardado completado.\xfffeToca la pantalla táctil para continuar.
+¿Quieres borrar el Vídeo de\xfffeCombate de \xf000Ā\x0001\x0000?
+¿Quieres borrar estos datos?
+Borrando datos...\xfffeGuardando... No apagues la consola.
+Se han borrado los datos.\xfffeToca la pantalla táctil para continuar.
+Enviando tus Datos del Atuendo...
+Recibiendo datos...
+Enviando datos de tu Caja...
+Recibiendo datos...
+No tienes ninguna foto que enviar.\xfffeHaz una foto en el Túnel Trigal.
+No puedes volver a enviar los mismos datos.\xfffeToca la pantalla táctil para continuar.
+Recibiendo Vídeos de Combate...
+No se han encontrado fotos...
+No se han encontrado datos de Cajas...\xfffeToca la pantalla táctil para continuar.
+Se ha enviado tu Vídeo de Combate.\xfffeVídeo n.º: ĳぁ\x0000\x0000-Ķぁ\x0001\x0000-Ķぁぁ\x0000\xfffe
+Se va a guardar la partida antes de ver\xfffeel Vídeo de Combate.
+Borrando datos... Guardando muchos\xfffedatos... No apagues la consola.
+Guardando muchos datos...\xfffeNo apagues la consola.
+Guardando...\xfffeNo apagues la consola.
+No hay Clasificaciones.\xfffeToca la pantalla táctil para continuar.
+¿Quieres enviar tu Vídeo de Combate?
+
+　
+　
+　
+
+　
+　
+　
+20 ÚLTIMAS CAJAS INTERESANTES
+20 ÚLTIMAS CAJAS CHULAS
+20 ÚLTIMAS CAJAS BONITAS
+20 ÚLTIMAS CAJAS ORIGINALES
+20 ÚLTIMAS CAJAS DIVERTIDAS
+20 ÚLTIMAS CAJAS ESPECIALES
+Escolar♂
+Cazabichos
+Entrenador guay
+Calvo
+Ruinamaníaco
+Karateka
+Niño bien
+Médium♂
+Luchadora
+Modelo♀
+Entrenadora guay
+Famosa
+Marquesa
+Vaquera
+Damisela

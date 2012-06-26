@@ -1,0 +1,7 @@
+Toca el icono correspondiente\xfffesi quieres combatir.
+Toca el icono correspondiente\xfffesi quieres hacer un intercambio.
+Toca el icono correspondiente\xfffesi quieres dibujar.
+Toca el icono correspondiente\xfffesi quieres hacer un Intercambio Giro.
+AMIGO
+JUGADOR
+¡He entrado en la Sala Unión!
