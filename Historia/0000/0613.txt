@@ -1,35 +1,35 @@
-ようこそ！\xfffeおかいもの　ですね？
+¡Hola!\xfffe¿En que puedo ayudarte?
 また　どうぞ！
-その　ほかに　わたしどもで\xfffeなにか　おちからに　なれることは？
-おかねが　たりないですよ！\xf000븁\x0000
-\xf000ĉ\x0001\x0000を\xfffeいくつ　おかいあげに　なりますか？
-\xf000ĉ\x0001\x0000　ですね\xfffe\xf000ȁ\x0001\x0001コで　\xf000Ȇ\x0001\x0002円に　なりますが？
-\xf000ĉ\x0001\x0000　ですね\xfffe\xf000ȃ\x0001\x0002ＢＰに　なりますが？
-ＮＯ．\xf000ȁ\x0001\x0000「\xf000ć\x0001\x0001」ですね\xfffe\xf000Ȅ\x0001\x0002円に　なりますが？
-ＮＯ．\xf000ȁ\x0001\x0000「\xf000ć\x0001\x0001」ですね\xfffe\xf000ȃ\x0001\x0002ＢＰに　なりますが？
-はい　どうぞ\xfffeまいど　ありがとう　ございます\xf000븅\x0001\x0001\xf000븁\x0000\xfffe\xf000ĉ\x0001\x0000を\xfffe\xf000Ē\x0001\x0001ポケットに　しまった\xf000븁\x0000
-それ　いじょう\xfffeもちきれないですよ！\xf000븁\x0000
-やめる
-\xf000Ȅ\x0001\x0001円
-\xf000ȁ\x0001\x0001ＢＰ
-ーーー
-プレミアボール　１コ\xfffeおまけ　しておきますね！\xf000븁\x0000
-ＢＰが　たりないですよ！\xf000븁\x0000
-かいに　きた
-うりに　きた
-なんでも　ないです
-おこづかい
-\xf000Ȇ\x0001\x0000円
-\xf000ȃ\x0001\x0000ＢＰ
-もってるかず　\xf000Ȃ\x0001\x0000コ
-ｘ\xf000ȁ\x0001\x0000
-\xf000Ȇ\x0001\x0000円
-\xf000ȅ\x0001\x0000ＢＰ
-はい
-いいえ
+¿Hay algo más que puedo\xfffehacer por ti?
+No tienes suficiente dinero.\xf000븁\x0000
+¿Cuántas unidades de \xf000ĉ\x0001\x0000\xfffequieres?
+Si te llevas \xf000ȁ\x0001\x0001, el importe ascenderá\xfffea \xf000Ȇ\x0001\x0002 $.
+El objeto \xf000ĉ\x0001\x0000 cuesta \xf000ȃ\x0001\x0002\xfffePuntos de Batalla. ¿Lo quieres?
+La MT\xf000ȁ\x0001\x0000 \xf000ć\x0001\x0001 cuesta \xf000Ȅ\x0001\x0002 $.\xfffe¿La quieres?
+La MT\xf000ȁ\x0001\x0000 \xf000ć\x0001\x0001 cuesta \xf000ȃ\x0001\x0002 PB.\xfffe¿La quieres?
+¡Aquí tienes! ¡Gracias!\xf000븅\x0001\x0001\xf000븁\x0000\xfffeGuardas \xf000ĉ\x0001\x0000 en el Bolsillo\xfffe\xf000Ē\x0001\x0001.\xf000븁\x0000
+No tienes suficiente espacio en la Bolsa.\xf000븁\x0000
+SALIR
+\xf000Ȅ\x0001\x0001 $
+\xf000ȁ\x0001\x0001 BP
+---
+También consigues una Honor Ball extra.\xf000븁\x0000
+No tienes suficientes BP.\xf000븁\x0000
+COMPRAR
+VERNDER
+SALIR
+DINERO
+\xf000Ȇ\x0001\x0000 $
+\xf000ȃ\x0001\x0000 BP
+Llevas: \xf000Ȃ\x0001\x0000
+x \xf000ȁ\x0001\x0000
+\xf000Ȇ\x0001\x0000 $
+\xf000ȅ\x0001\x0000 BP
+SÍ
+NO
 \xf000ć\x0001\x0001
 \xf000ć\x0001\x0000　だね\xfffe\xf000ĉ\x0001\x0001　\xf000ȁ\x0001\x0002コ　もらうよ？
 \xf000ȁ\x0001\x0001コ
-\xf000ĉ\x0001\x0000が　たりないよ！\xf000븁\x0000
+\xf000ĉ\x0001\x0000you do not have enough！\xf000븁\x0000
 わざを　おぼえさせる\xfffeポケモンを　えらんどくれ\xf000븁\x0000
 ｘ\xf000Ȃ\x0001\x0000
