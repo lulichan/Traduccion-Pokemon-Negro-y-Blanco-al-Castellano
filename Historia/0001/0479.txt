@@ -1,0 +1,42 @@
+\xf000Ā\x0001\x0000 ha encendido el PC.\xf000븁\x0000
+¿A qué PC quieres acceder?
+PC DE ALGUIEN
+PC DE TRUFA
+PC DE \xf000Ā\x0001\x0000
+PC DE LA PROF.ª ENCINA
+VER RÉCORDS
+AYUDA
+DESCONECTAR
+アララギはかせの\xfffeパソコンに　せつぞく　した！\xf000븀\x0000
+でんどういりの\xfffeデータが　こわれています\xf000븁\x0000\xfffeもういちど　でんどういり　すれば\xfffeだいじょうぶ　です\xf000븁\x0000
+Los datos del Hall de la Fama\xfffeestán dañados.\xf000븁\x0000\xfffePara solucionar esto, vuelve a entrar\xfffeen el Hall de la Fama.\xf000븁\x0000
+¡Enhorabuena!\xf000븁\x0000\xfffe¡Has obtenido más fondos por terminar\xfffetu aventura por primera vez!\xf000븁\x0000
+¡Enhorabuena!\xf000븁\x0000\xfffe¡Has obtenido más fondos por conseguir\xfffeel título de Campeón de la Liga!\xf000븁\x0000
+Has accedido al Sistema de Almacenamiento\xfffede Pokémon.\xf000븁\x0000
+DEJAR POKÉMON
+SACAR POKÉMON
+MOVER POKÉMON
+MOVER OBJETO
+DESCONECTAR
+CAJA DE COMBATE
+Guardar algún Pokémon de tu equipo\xfffeen una Caja.
+Pasar un Pokémon guardado en alguna\xfffeCaja a tu equipo.
+Ordenar los Pokémon de las Cajas\xfffey de tu equipo.
+Mover los objetos de los Pokémon\xfffede las Cajas o de tu equipo.
+Salir del Sistema de Almacenamiento\xfffede Pokémon.
+Registrar Pokémon para usar en combate\xfffecontra otros jugadores.
+Has accedido al PC de \xf000Ā\x0001\x0000.\xf000븁\x0000
+BUZÓN
+DESCONECTAR
+Puedes almacenar hasta 20 Cartas.
+Salir de tu PC.
+COMPLETADO POR 1.ª VEZ
+HALL DE LA FAMA
+DESCONECTAR
+Has accedido al sistema de récords.\xf000븁\x0000
+Ver qué Pokémon llevabas en tu equipo\xfffela primera vez que completaste el juego.
+Ver con qué Pokémon has entrado\xfffeen el Hall de la Fama.
+Salir del sistema de récords.
+Has accedido al PC de la Prof.ª Encina.\xf000븁\x0000
+Has accedido al sistema de ayuda.\xf000븁\x0000
+　

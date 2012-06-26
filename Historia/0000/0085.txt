@@ -1,0 +1,17 @@
+¡Tu número de victorias consecutivas\xfffeasciende a \xf000ȃ\x0001\x0000!\xf000븁\x0000\xfffeEl siguiente vagón es el número \xf000Ȁ\x0001\x0001.\xfffe¿Deseas continuar combatiendo?
+ADELANTE
+GUARDAR VÍDEO
+DESCANSO
+RETIRADA
+¿Quieres cancelar el desafío?
+¿Quieres guardar la partida y\xfffesalir del juego?
+Guardando...\xfffeNo apagues la consola.
+¿Quieres borrar el Vídeo de Combate\xfffeactual y guardar tu último combate?
+Esperando respuesta de tu amigo...
+ごあんないする　まえに\xfffeレポートを　かきます
+Has elegido retirarte, así que el desafío\xfffeha sido cancelado.
+Guardando el Vídeo de Combate...\xfffe¡No apagues la consola!
+Se ha guardado el último enfrentamiento\xfffede \xf000Ā\x0001\x0000 como Vídeo de Combate.
+¿Quieres guardar el último combate\xfffecomo tu Vídeo de Combate?
+Esperando conexión...
+test

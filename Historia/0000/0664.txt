@@ -1,0 +1,10 @@
+Es una Máquina Expendedora.\xfffe¿Qué quieres tomar?
+Ha salido esto: \xf000ĉ\x0001\x0000.\xf000븁\x0000
+¡Clank! ¡Qué suerte! También ha\xfffesalido esto: \xf000ĉ\x0001\x0000.\xf000븁\x0000
+No tienes suficiente dinero.
+Venta cancelada.
+¿Quieres tomar algo más?
+AGUA FRESCA\xf000봃\x0001\x0001200 $
+REFRESCO\xf000봃\x0001\x0001300 $
+LIMONADA\xf000봃\x0001\x0001350 $
+SALIR

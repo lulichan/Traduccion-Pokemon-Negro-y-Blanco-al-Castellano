@@ -1,0 +1,28 @@
+テストメッセージです
+\xf000ȅ\x0001\x0002 $
+¿Quieres guardar la partida?
+まえに　かかれた　レポートに\xfffeうえから　かいても　いいですか？
+Guardando...\xfffeNo apagues la consola.
+\xf000Ā\x0001\x0000 ha guardado la partida.
+ちゅうい！！\xf000븁\x0000\xfffe『つづきから　はじめる』で\xfffeぼうけん　していた\xf000븀\x0000\xfffeレポートが　かかれています！\xf000븁\x0000\xfffeそちらで　プレイしていた　ぼうけんや\xfffeすべての　ポケモン　どうぐ　などが\xf000븀\x0000\xfffeきえてしまいます……\xf000븁\x0000\xfffeほんとうに\xfffeうえから　かいても　いいですか？
+Error al guardar.\xf000븁\x0000
+Ya hay una partida guardada, por\xfffelo que no es posible guardar ahora.\xf000븁\x0000\xfffePara obtener más información, consulta\xfffeel manual de instrucciones.\xf000븁\x0000\xfffePulsa arriba en el Panel de Control\xfffe+ SELECT + Botón B en la pantalla del\xf000븀\x0000\xfffetítulo para borrar la partida guardada.
+Ya hay una partida guardada, por\xfffelo que no es posible guardar ahora.\xf000븁\x0000\xfffePara obtener más información, consulta\xfffeel manual de instrucciones.\xf000븁\x0000\xfffePulsa arriba en el Panel de Control\xfffe+ SELECT + Botón B en la pantalla del\xf000븀\x0000\xfffetítulo para borrar la partida guardada.\xf000븁\x0000
+Guardando muchos datos...\xfffeNo apagues la consola.
+セーブデータ　書き込み中　１
+セーブデータ　書き込み中　２
+セーブデータ　書き込み中　３
+No puedes guardar la partida cuando estás\xfffeen la partida de alguien o viceversa.
+Pareces estar en conexión con alguien.\xfffe¿Quieres interrumpir la conexión?
+Finalizando la conexión...\xfffeEspera un instante.
+おかあさん『\xf000Ā\x0001\x0000！\xfffeおかえりなさい\xf000븁\x0000\xfffeたいへん　だったわね\xf000븁\x0000\xfffeすこし　やすんで　いったら\xfffeどうかしら……？\xf000븁\x0000\xfffe……　……　……\xfffe……　……　……
+おかあさん『あらあら！\xfffeあなたも　ポケモンも\xf000븀\x0000\xfffeげんき　いっぱいね！\xf000븁\x0000\xfffeそうだ！　さっき\xfffeはかせから　きいたんだけど……\xf000븁\x0000\xfffeポケモンの　たいりょく\xfffeえっと　ＨＰが　なくなってきたら\xf000븁\x0000\xfffeこまめに　ポケモンセンターで\xfffeかいふく　させるか\xf000븁\x0000\xfffeとおくに　ぼうけん　するときは\xfffeフレンドリィショップで\xf000븀\x0000\xfffeキズぐすりを　かっておくのが\xf000븀\x0000\xfffeきほん　らしいわよ\xf000븁\x0000\xfffeそれじゃ　おうえん　しているわ！\xf000븁\x0000\xfffeきを　つけて！\xfffeいってらっしゃい！
+Primero deberías devolverle la energía\xfffea tu equipo Pokémon.
+No olvides visitar un Centro Pokémon\xfffecuando tus Pokémon pierdan PS.\xf000븁\x0000\xfffeSi piensas viajar lejos, deberías\xfffehacerte con varias Pociones en\xf000븀\x0000\xfffecualquier Tienda Pokémon.\xf000븁\x0000\xfffe¡Buena suerte!
+Tu equipo Pokémon ya está en plena\xfffeforma. ¡Que te vaya bien!
+La comunicación inalámbrica\xfffeestá desactivada.\xf000븁\x0000\xfffeActiva la comunicación inalámbrica\xfffeen la configuración de la consola.\xf000븁\x0000\xfffeError: 50699\xf000븁\x0000
+La comunicación inalámbrica\xfffeestá desactivada.\xf000븁\x0000\xfffeActiva la comunicación inalámbrica\xfffeen la configuración de la consola.\xf000븁\x0000\xfffeError: 50699
+Las palabras de la Prof.ª Encina te\xfffevienen a la memoria: “¡Cada cosa\xf000븀\x0000\xfffeen su momento!".
+Aquí no puedes bajarte de la Bici.
+En tu equipo no hay ningún Pokémon\xfffeque lleve una Cinta.
+ふたりで　いるときは\xfffe\xf000ĉ\x0001\x0001は　つかえません！

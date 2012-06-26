@@ -1,0 +1,16 @@
+¡Te doy la bienvenida al Real Teselia!\xf000븁\x0000\xfffe¡Las vistas aquí son arrebatadoras y los\xfffecombates extremadamente animados!\xf000븁\x0000\xfffeEl pasaje cuesta 1000 $.\xfffe¿Deseas embarcar?
+El Real Teselia solo zarpa una vez al día\xfffeal atardecer.\xf000븁\x0000\xfffeEs un barco de crucero.\xf000븁\x0000
+El Real Teselia solo zarpa\xfffeal atardecer.\xf000븁\x0000\xfffePásate por aquí en otro momento.
+¡Anda! No tienes suficiente dinero.\xfffePásate por aquí en otro momento.
+El pasaje cuesta 1000 $.\xfffe¿Deseas embarcar?
+El barco atraviesa el gran puente de\xfffela región de Teselia, el Puente Saeta,\xf000븀\x0000\xfffey después el Puente Progreso.\xf000븁\x0000\xfffeFinalmente, vuelve a Ciudad Porcelana.\xfffeSolo una cosa más...\xf000븁\x0000\xfffeCuando sea hora de desembarcar, sonará\xfffela sirena del barco cinco veces.\xf000븁\x0000
+¡Desde la maravillosa borda de nuestro\xfffeReal Teselia puedes disfrutar de\xf000븀\x0000\xfffeunas vistas imponentes!\xf000븁\x0000\xfffeEntre nuestros pasajeros encontrarás\xfffeun amplio elenco de Entrenadores\xf000븀\x0000\xfffea los que les encantan los combates.\xf000븁\x0000\xfffeNo dejes pasar esta oportunidad y\xfffedisfruta de las vistas y los combates.\xf000븁\x0000\xfffeTe rogamos que te abstengas de utilizar\xfffeel C-Gear, ya que los dispositivos del\xf000븀\x0000\xfffebarco son sumamente sensibles y sus\xf000븀\x0000\xfffeseñales podrían causar interferencias.\xf000븁\x0000\xfffeDisculpa las molestias.\xf000븁\x0000
+El C-Gear se apagará.\xfffe¿Estás de acuerdo?
+Nos disponemos a zarpar.\xfffe¡Buen viaje!\xf000븁\x0000
+Entendido. Esperamos que vuelvas a\xfffepasarte por aquí pronto.
+¡Gracias por viajar con nosotros!\xfffe¡Esperamos verte pronto! ¡Cuídate!
+El trayecto ha terminado por hoy.\xfffeVuelve mañana, por favor.
+¡Enhorabuena!\xf000븁\x0000\xfffe¡Has derrotado a todos los Entrenadores\xfffeque hay en el barco!\xf000븁\x0000\xfffeComo recompensa, aquí tienes\xfffeun pequeño regalo.\xf000븁\x0000
+EMBARCAR
+EXPLICACIÓN DEL BARCO
+SALIR

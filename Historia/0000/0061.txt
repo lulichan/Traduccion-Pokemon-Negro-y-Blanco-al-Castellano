@@ -1,0 +1,68 @@
+ほんじつ　ロイヤルイッシュごう　には\xfffe\xf000Ȁ\x0001\x0003にん　トレーナーが　いて\xf000븀\x0000\xfffeあなたは　\xf000Ȁ\x0001\x0004にんに　かっていますね\xf000븁\x0000\xfffeふねは　しゅっこうちゅう　ですが\xfffeそれでも　おりますか？
+ほんじつ　ロイヤルイッシュごう　には\xfffe\xf000Ȁ\x0001\x0003にん　トレーナーが　います\xf000븁\x0000\xfffeふねは　しゅっこうちゅう　ですが\xfffeそれでも　おりますか？
+Hoy el número de Entrenadores a bordo\xfffedel Real Teselia es \xf000Ȁ\x0001\x0003.\xf000븁\x0000\xfffeYa has vencido a \xf000Ȁ\x0001\x0004.\xf000븁\x0000\xfffeEl barco ya ha zarpado, pero podríamos\xfffevolver. ¿Deseas desembarcar?
+Hoy el número de Entrenadores a bordo\xfffedel Real Teselia es \xf000Ȁ\x0001\x0003.\xf000븁\x0000\xfffeEl barco ya ha zarpado, pero podríamos\xfffevolver. ¿Deseas desembarcar?
+¡Con lo enorme que es este barco puedes\xfffetardar en encontrar Entrenadores!\xf000븁\x0000\xfffe¡Pero me sé un truco!\xfffe¿Quieres escucharlo?
+En los camarotes hay muchos pasajeros\xfffeque están absortos charlando hasta que\xf000븀\x0000\xfffesuena la sirena.
+Por aquí se accede a la cubierta\xfffepanorámica del Real Teselia.
+Hoy parece que solo hay un Entrenador\xfffea bordo en alguno de los camarotes\xf000븀\x0000\xfffecon la puerta azul.
+Parece ser que hoy tenemos\xfffe\xf000Ȁ\x0001\x0002 Entrenadores repartidos\xf000븀\x0000\xfffepor los camarotes con la puerta azul.
+¡Surcar las olas a toda máquina me sigue\xfffepareciendo algo increíble!
+¿Subo a la cubierta panorámica o reto\xfffea un Entrenador?\xf000븁\x0000\xfffeEstoy en un mar de dudas.
+Estoy intentando correr siguiendo el\xfffevaivén de las olas, pero...\xf000븀\x0000\xfffe¡es complicado!
+¡Este barco es lo mejor!\xf000븁\x0000\xfffe¡Puedes librar combates mientras admiras\xfffeel paisaje desde la cubierta!
+No sé muy bien a qué camarote tengo\xfffeque ir.
+Vengo de Johto por motivos laborales,\xfffepero este lugar es superdinámico.
+¿Tú eres de aquí de Teselia?\xf000븁\x0000\xfffeYo he venido de Johto por motivos\xfffelaborales.\xf000븁\x0000\xfffe¡Pero no me siento extranjero!\xfffe¡En absoluto! Me siento...\xf000븀\x0000\xfffeMe siento...\xf000븀\x0000\xfffeBuena pregunta.\xf000븁\x0000\xfffe¡No sé lo que me siento!\xf000븁\x0000
+¡Escucha! ¡Ha sonado la sirena!\xfffeSiento cortarte así de sopetón...\xf000븁\x0000\xfffe¡Pero te agradezco haber mantenido\xfffeuna conversación tan amena!
+¡Un combate en mi descanso!\xfffeEso siempre es especial.\xf000븁\x0000
+He librado un buen combate en una\xfffede las pausas del trabajo.
+¡Al otro lado del océano hay muchos\xfffemás Pokémon!\xf000븁\x0000\xfffe¡No puedo contener la emoción!
+Estoy realizando estiramientos.\xfffeAsí no se me oxidan las piernas.
+¡Vengo de Sinnoh porque he oído que\xfffeaquí podía encontrar Entrenadores\xf000븀\x0000\xfffemuy fuertes!\xf000븁\x0000\xfffe¡Vamos a pasarlo en grande combatiendo!\xf000븁\x0000
+¡Combates Pokémon al vaivén de las olas!\xfffe¡No he visto nada mejor que eso!\xf000븁\x0000\xfffePero si, ya solo con ver a los Pokémon,\xfffe¡estoy de lo más feliz!
+Muchos de los Entrenadores a bordo\xfffede este barco vienen de regiones\xf000븀\x0000\xfffemuy lejanas.\xf000븁\x0000\xfffe¡De hecho, yo misma vengo desde Kanto!
+¿Has subido a la cubierta panorámica?\xfffe¡Las vistas son arrebatadoras!
+¡Combates Pokémon al vaivén de las olas!\xfffe¡Qué emocionante!\xf000븁\x0000
+Me has ganado.\xfffe¿Vamos a admirar las vistas?
+¡Qué fuerte! ¡Qué pasote!\xf000븁\x0000\xfffe¿Que qué es tan guay?\xfffePues, ¡¿qué va a ser?! ¡Este barco!\xf000븁\x0000\xfffe¿Que qué tiene de guay?\xfffeEh... ¡Que es guay y punto!
+¡Un combate Pokémon!\xf000븁\x0000\xfffeSí, esa era mi intención, pero veo que\xfffeno llevo ningún Pokémon.
+¡Eh! Tú entrenas Pokémon, ¿verdad?\xf000븁\x0000\xfffeCrees que solo soy un mocoso, ¿no?\xfffe¡Pues ahora te vas a enterar!\xf000븁\x0000
+¡Aaay! ¡Me has ganado!\xfffe¡Chapó por ti!
+Oye, una cosita. ¿Sabes qué?\xf000븁\x0000\xfffe¡Me encanta este barco porque te dejan\xfffesubir con tus Pokémon!
+¡Oye, una cosita! ¿Te cuento mi historia?\xf000븁\x0000\xfffePues mira, antes de venir aquí fui a\xfffeCiudad Mayólica.\xf000븁\x0000\xfffe...\xfffeSí, eso...\xf000븀\x0000\xfffeY luego...\xf000븀\x0000\xfffeY luego... ¡Yo qué sé!\xf000븁\x0000
+¡Huy! ¡La sirena!\xf000븁\x0000\xfffePerdona por dejarte con la palabra\xfffeen la boca. ¡Me lo he pasado muy bien!\xf000븁\x0000\xfffe¡Gracias!\xfffe
+¡Vengo de haber entrenado en una región\xfffemuy lejana!\xf000븁\x0000\xfffe¡Te mostraré mis Pokémon raros!\xf000븁\x0000
+¿Qué? ¿A que mis Pokémon son una pasada?\xfffe¡A mí el que más me gusta es Wormadam!
+Este lujoso barco...\xf000븁\x0000\xfffe¿No te parece el marco perfecto para un\xfffericachón como yo?
+¡La sirena suena cinco veces!\xf000븁\x0000\xfffeAunque finjas no haberla oído,\xfffea la quinta... se acabó.
+Voy a mostrarte cómo se combate con\xfffeelegancia en un barco de tanta\xf000븀\x0000\xfffecategoría como este.\xf000븁\x0000
+Un Niño bien como yo no deja nunca de\xfffetener clase... aunque pierda.
+¡Oh! ¿El servicio de habitaciones?\xf000븁\x0000\xfffe¡A bordo del Real Teselia, es\xfffeabsolutamente exquisito!
+¡Las vistas que se aprecian desde\xfffela cubierta son insuperables!\xf000븁\x0000\xfffe¡Y la refinada decoración de los\xfffecamarotes me encanta!
+Estoy creando un estilo distinguido de\xfffecombate Pokémon incorporando\xf000븀\x0000\xfffepasos de vals.\xf000븁\x0000
+Creo que este estilo es demasiado\xfffedistinguido para mí.
+Te parezco un Entrenador exótico,\xfffe¿verdad?\xf000븁\x0000\xfffePues yo te veo a ti del mismo modo.
+¡Oh! ¡Qué grata compañía!\xfffe¿Te apetecería una taza de té?\xf000븁\x0000\xfffe¡Ven, siéntate conmigo!\xfffeSí, esto...\xf000븁\x0000\xfffeTe iba a decir...\xfffe...\xf000븀\x0000\xfffe¡No me acuerdo!\xf000븁\x0000
+Oh, discúlpame.\xfffeA veces hablo demasiado.\xf000븁\x0000\xfffe¡Pero gracias por tu grata compañía!
+¡Jo, jo, jo! Un combate Pokémon, ¿eh?\xf000븁\x0000\xfffeEstoy cansado de tanto relax.\xfffe¡Concédeme este baile!\xf000븁\x0000
+¡Ah, vales un Potosí!\xfffe¡Juventud, divino tesoro!
+¿Buscas un Entrenador Pokémon?\xfffeLo siento, no puedo ayudarte.\xf000븁\x0000\xfffe¿Por qué no preguntas a un empleado?
+¡Aaay! ¡Huy, huy! ¡Pero qué monaaadaaa!\xfffe¡Mucho!\xf000븀\x0000\xfffeY...\xf000븀\x0000\xfffe...\xf000븀\x0000\xfffe¡Y eso!\xf000븁\x0000
+¡Oh, qué pena! ¡La sirena!\xf000븁\x0000\xfffe¡Ruego que me disculpes por dejarte\xfffeen mitad de nuestra conversación!
+¡Huy, pero qué ricura tan linda!\xfffe¿Te gustaría combatir con mis Pokémon?\xf000븁\x0000
+No solo eres un encanto, sino que además\xfffecombates a las mil maravillas.
+¡Qué fuerte esa sirena!, ¿no crees?\xfffe¡Me resuena hasta en el estómago!
+¡Eh! ¿Querías hablar conmigo?\xfffe¡Llegas en el momento justo!\xf000븁\x0000\xfffe¡Estaba deseando contarle a alguien\xfffeuna historia muy graciosa!\xf000븁\x0000\xfffeEra...\xfffe¿Cómo era...?\xf000븀\x0000\xfffe...\xf000븀\x0000\xfffeSe me ha ido.\xf000븁\x0000
+Ay, lo siento, que me enrollo más\xfffeque las persianas.\xf000븁\x0000\xfffePero me lo he pasado bien. ¡Gracias!
+¡He atravesado montañas y valles!\xf000븁\x0000\xfffe¡Y he surcado el mar hasta llegar aquí\xfffeen busca de alguien más fuerte que yo!\xf000븁\x0000\xfffe¡Es el momento de sacar a mi Pokémon\xfffeespecial, que ha superado infinidad\xf000븀\x0000\xfffede obstáculos!\xf000븁\x0000
+¡¿Alguien más fuerte que yo,\xfffeque me he pateado el mundo entero?!\xf000븁\x0000\xfffe¡Ahora me doy cuenta de lo grande\xfffeque es el mundo en realidad!
+ごめんなさい！　この　おへやは\xfffeせいそうちゅう　なの……\xf000븁\x0000\xfffeあらっ！？\xfffeあなた　トレーナーね！\xf000븁\x0000\xfffeふふっ　おねえさんと　こっそり\xfffeポケモンしょうぶ　しましょ！\xf000븁\x0000
+さぼって　しょうぶ　したことは\xfffeふたりだけの　ヒミツよ！
+Veamos el registro de hoy.\xf000븁\x0000\xfffeEntrenadores a babor: \xf000Ȁ\x0001\x0000.\xfffeEntrenadores a estribor: \xf000Ȁ\x0001\x0001.
+Veamos el registro de hoy.\xf000븁\x0000\xfffeEntrenadores a babor: 0.\xfffeEntrenadores a estribor: \xf000Ȁ\x0001\x0001.
+Veamos el registro de hoy.\xf000븁\x0000\xfffeEntrenadores a babor: \xf000Ȁ\x0001\x0000.\xfffeEntrenadores a estribor: 0.
+Ven a hablar conmigo cuando quieras.\xfffeSiempre te podré dar algún consejo.
+¿Quieres que te ayude a encontrar\xfffea los Entrenadores?
+¡Por supuesto!\xfffeEspera un momento, por favor.\xf000븁\x0000
+¡Por supuesto!\xfffeQue tengas una feliz travesía.

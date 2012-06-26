@@ -1,0 +1,22 @@
+¡Hay muchísimas Medallas de Gimnasio\xfffeen la región de Teselia!\xf000븁\x0000\xfffe¿Quieres que te hable de ellas?
+Vale, vale.\xfffeVuelve si quieres que te lo explique.
+Cuando consigas la Medalla Base,\xfffelos Pokémon de hasta Nivel 20\xf000븀\x0000\xfffeobedecerán tus órdenes sin rechistar.\xf000븁\x0000
+Cuando consigas la Medalla Tóxica,\xfffelos Pokémon de hasta Nivel 30\xf000븀\x0000\xfffeobedecerán tus órdenes sin rechistar.\xf000븁\x0000
+Cuando consigas la Medalla Élitro,\xfffelos Pokémon de hasta Nivel 40\xf000븀\x0000\xfffeobedecerán tus órdenes sin rechistar.\xf000븁\x0000
+Cuando consigas la Medalla Voltio,\xfffelos Pokémon de hasta Nivel 50\xf000븀\x0000\xfffeobedecerán tus órdenes sin rechistar.\xf000븁\x0000
+Cuando consigas la Medalla Temblor,\xfffelos Pokémon de hasta Nivel 60\xf000븀\x0000\xfffeobedecerán tus órdenes sin rechistar.\xf000븁\x0000
+Cuando consigas la Medalla Jet,\xfffelos Pokémon de hasta Nivel 70\xf000븀\x0000\xfffeobedecerán tus órdenes sin rechistar.\xf000븁\x0000
+Cuando consigas la Medalla Leyenda,\xfffelos Pokémon de hasta Nivel 80\xf000븀\x0000\xfffeobedecerán tus órdenes sin rechistar.\xf000븁\x0000
+Cuando consigas la Medalla Acuática,\xfffetodos los Pokémon obedecerán\xf000븀\x0000\xfffetus órdenes sin rechistar.\xf000븁\x0000
+¿Qué Medalla quieres que te explique?
+MEDALLA BASE
+MEDALLA TÓXICA
+MEDALLA ÉLITRO
+MEDALLA VOLTIO
+MEDALLA TEMBLOR
+MEDALLA JET
+MEDALLA LEYENDA
+MEDALLA ACUÁTICA
+SALIR
+Se ve toda la ciudad desde el edificio.\xf000븁\x0000\xfffeCada vez que miro por la ventana,\xfffeme pongo a temblar.\xf000븁\x0000\xfffeEs que... tengo miedo a las alturas.
+グォフッ　グォフッ！

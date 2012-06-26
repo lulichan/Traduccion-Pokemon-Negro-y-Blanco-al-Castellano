@@ -1,0 +1,44 @@
+¡Eh! ¡Tú!\xfffeEres \xf000Ā\x0001\x0000, ¿verdad?\xf000븁\x0000
+¡Déjame echarle un vistazo\xfffea tu Pokédex!\xf000븁\x0000\xfffeA ver, a ver...\xf000븁\x0000\xfffe¡Ajá! ¡Ya has encontrado \xf000Ȃ\x0001\x0000 Pokémon!\xf000븁\x0000
+¡Eh! ¡Veo que has encontrado un Klink!\xfffe¡No se te da nada mal, no!\xf000븁\x0000
+Mmm...\xf000븁\x0000\xfffeAún no has encontrado ningún Klink.\xfffe¡Pero tu Pokédex no está nada mal!\xf000븁\x0000
+¡Eh! ¡Perdona! Con la emoción,\xfffeno me he presentado.\xf000븁\x0000\xfffeYo también me apellido Encina,\xfffeCarrasco Encina.\xf000븁\x0000\xfffe¡Exacto! ¡Quien te dio tu Pokémon\xfffey esta Pokédex fue mi hija!\xf000븁\x0000\xfffeElla me ha hablado mucho de ti.\xfffe¡Qué alegría haberte conocido!\xf000븁\x0000
+¡Y ahora, para celebrarlo, voy a mejorar\xfffetu Pokédex!\xf000븁\x0000
+¡Se ha mejorado la Pokédex\xfffede \xf000Ā\x0001\x0000!
+Carrasco Encina: Algunos Pokémon pueden\xfffepresentar distintas formas.\xf000븁\x0000\xfffeCon esto podrás comprobar si ya\xfffelas has visto antes.\xf000븁\x0000\xfffeTambién lleva incorporada una función\xfffede búsqueda.\xf000븁\x0000
+???: ¡Profesor Encina!\xfffe¿Con quién está hablando?\xf000븁\x0000
+Carrasco Encina: ¡Eh! ¡Oh!\xfffePerdón, perdón.\xf000븁\x0000\xfffeGerania, te presento a \xf000Ā\x0001\x0000.\xfffe¡Una de las amistades de mi hija!\xf000븁\x0000\xfffe¡Se ha embarcado en un viaje por Teselia\xfffepara completar la Pokédex!\xf000븁\x0000
+Gerania: ¡Ya veo! Entonces, imagino que\xfffevendrás a retarme al Gimnasio, ¿no?\xf000븀\x0000\xfffe¡Guau! ¡Qué divertido!\xf000븁\x0000
+Carrasco Encina: ¡Claro, \xf000Ā\x0001\x0000!\xfffeTendrías que ir a retarla.\xf000븁\x0000\xfffe¡Así que nada!\xfffeVe corriendo al Gimnasio de la ciudad.\xf000븁\x0000
+Hasta pronto, Gerania. Si necesito algo\xfffemás, ya te lo pediré.\xf000븁\x0000
+Gerania: Profesor, ¡mi avión es\xfffesolo de carga!\xf000븁\x0000\xfffeÚnicamente puede llevar mercancía,\xfffeno pasajeros.\xf000븁\x0000\xfffe¡Y habla de sitios como Kanto o Sinnoh\xfffecomo si estuvieran a la vuelta\xf000븀\x0000\xfffede la esquina!\xf000븁\x0000
+Carrasco Encina: ¡Eh, eh!\xf000븁\x0000\xfffeNo me digas esas cosas con esa carita\xfffede no haber roto nunca un plato.\xf000븁\x0000\xfffe¡Las personas y los Pokémon debemos\xfffeayudarnos mutuamente!\xf000븁\x0000\xfffeAdiós, joven. ¡Hasta la vista!\xf000븁\x0000
+Gerania: ¡Jo!\xf000븁\x0000\xfffeMe sigue pareciendo increíble que sea\xfffeuna eminencia mundial en Pokémon,\xf000븀\x0000\xfffecon lo normalito que se le ve.\xf000븁\x0000
+¡Muy bien, \xf000Ā\x0001\x0000!\xf000븁\x0000\xfffeComo Líder de Gimnasio que soy, ¡estaré\xfffeencantada si vienes a retarme!\xf000븁\x0000\xfffePero antes debo ocuparme de\xfffecierto asuntillo.\xf000븁\x0000
+¡Muy bien, \xf000Ā\x0001\x0000!\xf000븁\x0000\xfffeComo Líder de Gimnasio que soy, ¡estaré\xfffeencantada si vienes a retarme!\xf000븁\x0000\xfffePero antes debo ocuparme de\xfffecierto asuntillo.\xf000븁\x0000
+Hace poco, mientras iba pilotando\xfffemi avión de mercancías, vi algo\xf000븀\x0000\xfffesobre la Torre de los Cielos.\xf000븁\x0000
+¡Estoy casi segura de que era un\xfffePokémon debilitado!\xf000븁\x0000\xfffeY no vamos a dejarlo ahí solito, ¿no?\xfffePues déjame ir ahí primero.\xf000븁\x0000\xfffeAunque, si quieres, también puedes\xfffevenir a la Torre de los Cielos,\xf000븀\x0000\xfffeque está en la Ruta 7.\xf000븁\x0000
+¿Gerania?\xf000븁\x0000\xfffeSe ha bajado del avión y se ha marchado\xfffea no sé dónde.\xf000븁\x0000\xfffeQuizás haya ido a la Torre de los Cielos,\xfffeen la Ruta 7.
+N: \xf000븉\x0001\x0001Los Entrenadores obligan a combatir\xfffea los Pokémon y les hacen daño solo\xf000븀\x0000\xfffepara demostrar que son los mejores.\xf000븁\x0000\xfffe¿Soy el único al que eso le provoca\xfffeuna honda tristeza?\xf000븁\x0000\xfffeNo importa. Déjame hablar con tu equipo\xfffePokémon.\xf000븁\x0000\xfffeMe he criado entre Pokémon desde el día\xfffeen que nací y disfruto más hablando con\xf000븀\x0000\xfffeellos que con las personas.\xf000븁\x0000\xfffeY es que al menos sabes que un Pokémon\xfffenunca te va a mentir.\xf000븉\x0001\x0000\xf000븁\x0000
+\xf000븉\x0001\x0001Hola, \xf000ā\x0001\x0000.\xf000븁\x0000\xfffeBien, ¿qué puedes contarme acerca\xfffede \xf000Ā\x0001\x0001?\xf000븉\x0001\x0000\xf000븁\x0000
+\xf000븉\x0001\x0001Entiendo... Así que \xf000Ā\x0001\x0001 nació\xfffey se crió en Pueblo Arcilla y vive con\xf000븀\x0000\xfffesu madre...\xf000븁\x0000\xfffeY ahora se ha embarcado en un viaje por\xfffeel mundo con el objetivo de completar\xf000븀\x0000\xfffela Pokédex. Ya...\xf000븉\x0001\x0000\xf000븁\x0000
+\xf000븉\x0001\x0001Por algún extraño motivo,\xfffe¡este \xf000ā\x0001\x0001 cree en ti!\xf000븁\x0000\xfffe¡Muy bien!\xf000븁\x0000\xfffe¡Ojalá todos los humanos y Pokémon\xfffefueran tan amigos como vosotros!\xf000븁\x0000\xfffe¡Así no sería necesario liberarlos de las\xfffegarras de los desalmados!\xf000븁\x0000\xfffeY todos podríamos convivir en armonía\xfffepara siempre.\xf000븉\x0001\x0000\xf000븁\x0000
+\xf000븉\x0001\x0001Ghechis está buscando unas piedras\xfffemuy especiales para el Equipo Plasma.\xf000븁\x0000\xfffeSe las conoce como Orbe Claro y\xfffeOrbe Oscuro.\xf000븉\x0001\x0000\xf000븁\x0000
+\xf000븉\x0001\x0001Hace tiempo, los Pokémon legendarios\xfffese transformaron en sendas piedras.\xf000븁\x0000\xfffeY ahora aguardan en letargo la llegada\xfffede un nuevo héroe.\xf000븁\x0000\xfffeMediante esos Orbes, es posible\xfffeinvocarlos de nuevo.\xf000븁\x0000\xfffeCuando me haya hecho su amigo, el mundo\xfffeentero me reconocerá como el héroe que\xf000븀\x0000\xfffesoy y me obedecerá.\xf000븉\x0001\x0000\xf000븁\x0000
+\xf000븉\x0001\x0001Mi sueño es modelar un mundo\xfffedonde ya no haya luchas.\xf000븁\x0000\xfffeDeberé hacerlo por la fuerza, y habrá\xfffesin duda quien se oponga.\xf000븁\x0000\xfffeY serán los malvados Entrenadores los\xfffeque sufran al ver que sus Pokémon\xf000븀\x0000\xfffeya no quieren saber nada de ellos.\xf000븁\x0000\xfffeSí...\xf000븁\x0000\xfffe¡Los Pokémon merecen algo mejor\xfffeque ser las marionetas de la gente!\xf000븉\x0001\x0000\xf000븁\x0000
+\xf000븉\x0001\x0001Aunque, también...\xf000븁\x0000\xfffeTambién me entristece imaginar que tengan\xfffeque separarse humanos y Pokémon que\xf000븀\x0000\xfffesean tan amigos como lo sois vosotros.\xf000븉\x0001\x0000\xf000븁\x0000
+¡Mira qué forma tienen los aviones!\xf000븁\x0000\xfffe¡Están especialmente diseñados\xfffepara volar!\xf000븁\x0000\xfffe¡Hasta la más pequeña pieza está\xfffeespecíficamente estudiada!
+Del aeropuerto de Ciudad Loza,\xfffesolo parten aviones de carga.\xf000븁\x0000\xfffeCuando quieras volar, solo tienes\xfffeque usar el movimiento Vuelo.
+El abuelo de Gerania fue un piloto\xfffefamosísimo.\xf000븁\x0000\xfffe¡Ah, y ella es la Líder del Gimnasio de\xfffeesta ciudad! ¡Una chica muy agradable!
+Humanos y Pokémon se abrieron paso\xfffea través de las tierras baldías para\xf000븀\x0000\xfffepoder convivir en armonía.\xf000븁\x0000\xfffeOjalá ese espíritu de unidad perviva\xfffedurante muchos años.
+Si tienes cuidado, puedes jugar\xfffeen la pista de aterrizaje.\xf000븁\x0000\xfffeTotal, aquí solo despega un avión\xfffeal día.
+Por lo visto, el Equipo Plasma ya le ha\xffferobado sus Pokémon a mucha gente.
+Si quieres buena verdura, la mejor\xfffees la que crece en la naturaleza.\xf000븁\x0000\xfffeCuando crece bajo el clima cambiante,\xfffeestá siempre riquísima.\xf000븁\x0000\xfffeY la prueba de ello es que a veces los\xfffePokémon la comen.
+Lo mejor es cultivar las verduras\xfffeen un invernadero.\xf000븁\x0000\xfffeEl sistema lo controla todo: humedad,\xfffetemperatura, nutrientes...\xf000븁\x0000\xfffeCrecen todas perfectas y saben\xffferiquísimas.
+¡Ah! ¡¡Has descubierto nuestro tesoro!!\xf000븁\x0000
+¡¡Lo ha encontrado!!\xf000븁\x0000
+Es broma.\xf000븁\x0000\xfffeEs que no tenemos ningún Pokémon y se\xfffenos había ocurrido esconder esta MT\xf000븀\x0000\xfffehasta que capturáramos a uno.\xf000븁\x0000\xfffePero, para lo que nos sirve, puedes\xfffequedártela tú.\xf000븁\x0000\xfffe¡Gerania nos puede dar otra si se\xfffelo pedimos!\xf000븁\x0000
+Es broma.\xf000븁\x0000\xfffeEs que no tenemos ningún Pokémon y se\xfffenos había ocurrido esconder esta MT\xf000븀\x0000\xfffehasta que capturáramos a uno.\xf000븁\x0000\xfffePero, para lo que nos sirve, puedes\xfffequedártela tú.\xf000븁\x0000\xfffe¡Gerania nos puede dar otra si se\xfffelo pedimos!\xf000븁\x0000
+¡¡Pero úsala!!\xf000븁\x0000
+¡Adiós! ¡Chao!\xf000븁\x0000
+フキヨセシティ\xfffeかぜが　はなを　あつめる　まち

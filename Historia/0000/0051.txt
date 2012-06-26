@@ -1,0 +1,385 @@
+no data
+no data
+\xf000ȃ\x0001\x0000, \xf000ȃ\x0001\x0001, \xf000ȃ\x0001\x0002, \xf000ȃ\x0001\x0003\xfffe\xf000ȃ\x0001\x0004
+\xf000ē\x0001\x0000
+SÍ
+NO
+¿Qué les gusta a los demás?\xfffe¿Qué es lo que está de moda?\xf000븁\x0000\xfffe¿Nunca te has parado a pensar\xfffeen esas cosas?\xf000븁\x0000\xfffeEstás en la Sede del Centro\xfffede Estadística.\xf000븁\x0000\xfffeProporcionamos datos contrastados\xfffea aquellos que, como tú, se pasan\xf000븀\x0000\xfffepor aquí buscando información.\xf000븁\x0000\xfffeMmm... Me parece que tú eres una\xfffepersona muy curiosa e inquisitiva.\xf000븁\x0000\xfffeLo veo en tu mirada.\xf000븁\x0000\xfffe¡Ya sé! ¡Te voy a nombrar miembro\xfffeespecial del Centro de Estadística!\xf000븁\x0000
+¡\xf000Ā\x0001\x0001 es ahora miembro\xfffedel Centro de Estadística!\xf000븁\x0000
+¡Lo que tienes que hacer es muy sencillo!\xfffeSe trata de ir haciendo sondeos.\xf000븁\x0000\xfffePrimero, yo te encargo un sondeo.\xf000븁\x0000\xfffeEn el Radar de Sondeos, selecciona\xfffeel que quieras llevar a cabo.\xf000븁\x0000\xfffeCada vez que te cruces con alguien,\xfffeel radar recogerá los datos.\xf000븁\x0000\xfffeY te daremos una recompensa por\xfffelos sondeos que realices, claro.\xf000븁\x0000\xfffe¡Adelante, \xf000Ā\x0001\x0001!\xf000븁\x0000\xfffe¡Estoy seguro de que harás\xfffeun buen trabajo!\xf000븁\x0000
+¡Me alegro de verte, \xf000Ā\x0001\x0001!\xfffe¿Cómo van esos sondeos?\xf000븁\x0000
+Ya has completado todos los sondeos.\xf000븁\x0000\xfffeA partir de ahora, puedes dedicarte a\xfffeencuestar sobre lo que te apetezca.
+¿Qué quieres hacer hoy?
+ENCARGARME DE UN SONDEO
+INFORMAR SOBRE UN SONDEO
+SOLO ME HE PASADO A SALUDAR
+COMPROBAR ENCARGOS PENDIENTES
+Quieres encargarte de un sondeo, ¿eh?\xf000븁\x0000\xfffeVale, primero dime qué método prefieres.
+EN UN PERÍODO DE TIEMPO
+A CIERTO NÚMERO DE SUJETOS
+SALIR
+¿Quieres realizar el sondeo\xfffeen un período de tiempo?\xf000븁\x0000\xfffeDeberás recabar los datos necesarios\xfffeen un período de tiempo determinado.\xf000븁\x0000
+¿Quieres realizar el sondeo\xfffea cierto número de sujetos?\xf000븁\x0000\xfffeDeberás recabar datos de un número\xfffede personas determinado.\xf000븁\x0000
+Elige un sondeo.
+De acuerdo.\xf000븁\x0000\xfffeVuelve cuando te decidas a trabajar\xfffey quieras encargarte de un sondeo.
+¡Pero ya tienes un sondeo entre\xfffemanos! Sigue adelante con ese.\xf000븁\x0000\xfffe¿O es que quieres abandonar el encargo\xfffeque estás llevando a cabo?
+Si dejas el sondeo a medias, se borrarán\xfffelos datos que has recabado hasta ahora.\xf000븁\x0000\xfffe¿Seguro que quieres dejar este sondeo?
+De acuerdo...\xf000븁\x0000\xfffeVuelve cuando te decidas a trabajar\xfffey quieras encargarte de un sondeo.
+Vale, pues continúa con el sondeo.
+¿A QUÉ VERSIÓN SE JUEGA MÁS?
+¿QUÉ POKÉMON INICIAL ES ELEGIDO MÁS?
+¿CUÁNTO TIEMPO LLEVAS JUGANDO?
+¿JUEGAN MÁS LOS CHICOS O LAS CHICAS?
+¿CUÁL ES LA PROFESIÓN MÁS FRECUENTE?
+¿CUÁL ES LA AFICIÓN MÁS FRECUENTE?
+¿GUSTAN MÁS COMBATES O INTERCAMBIOS?
+¿QUÉ POKÉMON GUSTAN MÁS?
+¿CUÁL ES EL TIPO DE POKÉMON PREFERIDO?
+¿GUSTA MÁS LA CIUDAD O EL CAMPO?
+¿QUÉ COSAS VALORA MÁS LA GENTE?
+SOBRE LAS CUALIDADES DE LA GENTE
+SOBRE LAS ESTACIONES DEL AÑO
+SOBRE ARTE
+¿QUÉ TIPO DE MÚSICA GUSTA MÁS?
+SOBRE CINE Y TELEVISIÓN
+¿QUÉ HORAS EN LA ESCUELA GUSTAN MÁS?
+SOBRE LOS ESTUDIOS
+¿CUÁL ES EL DEPORTE MÁS POPULAR?
+SOBRE EL TIEMPO LIBRE
+¿EN QUÉ ASPIRA A CONVERTIRSE LA GENTE?
+¿QUÉ LÍDER DE GIMNASIO ES EL FAVORITO?
+¿QUÉ GUSTA MÁS DE POKÉMON?
+SALIR
+La verdad es que este sondeo es\xfffeun encargo mío.\xf000븁\x0000\xfffeEn al menos 2 horas, tienes que recabar\xfffeinformación sobre si la gente juega más\xf000븀\x0000\xfffea Pokémon Negro o a Pokémon Blanco.\xf000븁\x0000\xfffeEs que estaba pensando en empezar una\xfffepartida yo también, y quiero saber cuál\xf000븀\x0000\xfffede las dos versiones es la favorita.\xf000븁\x0000
+Este sondeo nos lo ha encargado\xfffeun Profesor Pokémon.\xf000븁\x0000\xfffeEn al menos 2 horas, tienes que recabar\xfffeinformación sobre cuál es el Pokémon\xf000븀\x0000\xfffeinicial que más jugadores han elegido.\xf000븁\x0000\xfffeQuiere aplicar los resultados del sondeo\xfffea una de sus investigaciones.\xf000븁\x0000
+Este sondeo nos lo ha encargado\xfffeuna madre.\xf000븁\x0000\xfffeEn al menos 4 horas, tienes que recabar\xfffeinformación sobre cuánto tiempo\xf000븀\x0000\xfffeha pasado la gente jugando a Pokémon.\xf000븁\x0000\xfffeEsa señora quiere saber si sus hijos\xfffehan pasado más o menos tiempo que\xf000븀\x0000\xfffeotros niños jugando a Pokémon.\xf000븁\x0000
+Este sondeo nos lo ha encargado\xfffeun periodista.\xf000븁\x0000\xfffeEn al menos 4 horas, tienes que recabar\xfffeinformación acerca de si juegan más\xf000븀\x0000\xfffelos chicos o las chicas.\xf000븁\x0000\xfffePor lo visto, necesita esos datos para\xfffeincluirlos en un artículo que saldrá\xf000븀\x0000\xfffepublicado mañana en el periódico.\xf000븁\x0000
+Este sondeo nos lo ha encargado\xfffela editora de una revista.\xf000븁\x0000\xfffeEn al menos 4 horas, tienes que recabar\xfffeinformación sobre qué profesión es\xf000븀\x0000\xfffela más frecuente entre los jugadores.\xf000븁\x0000\xfffeDice que necesita esos datos para\xfffeincluirlos en un reportaje especial.\xf000븁\x0000
+Este sondeo nos lo ha encargado\xfffeuna empresa del sector del ocio.\xf000븁\x0000\xfffeEn al menos 4 horas, tienes que recabar\xfffeinformación sobre qué aficiones son más\xf000븀\x0000\xfffecomunes entre los jugadores.\xf000븁\x0000\xfffeQuieren usar esos datos para un estudio\xfffede mercado.\xf000븁\x0000
+Lo cierto es que este sondeo es\xfffeun encargo mío.\xf000븁\x0000\xfffeEn al menos 8 horas, tienes que recabar\xfffeinformación acerca de si los jugadores\xf000븀\x0000\xfffeprefieren los combates\xf000븀\x0000\xfffeo los intercambios.\xf000븁\x0000\xfffeEs que últimamente me estoy aficionando\xfffea este juego y me pica la curiosidad.\xf000븁\x0000
+Este sondeo nos lo ha encargado\xfffeuna estudiante de instituto.\xf000븁\x0000\xfffeEn al menos 8 horas, tienes que recabar\xfffeinformación sobre qué Pokémon\xf000븀\x0000\xfffegustan más a los jugadores.\xf000븁\x0000\xfffeAl parecer, necesita esos datos para\xfffeincluirlos en un trabajo escolar.\xf000븁\x0000
+Este sondeo nos lo ha encargado\xfffeun Entrenador.\xf000븁\x0000\xfffeEn al menos 8 horas, tienes que recabar\xfffeinformación sobre cuál es el tipo de\xf000븀\x0000\xfffePokémon preferido entre los jugadores.\xf000븁\x0000\xfffeDice que saber eso le será útil para\xfffelos combates.\xf000븁\x0000
+Este sondeo nos lo ha encargado\xfffeun agente inmobiliario.\xf000븁\x0000\xfffeEn al menos 8 horas, tienes que recabar\xfffeinformación acerca de si la gente\xf000븀\x0000\xfffeprefiere vivir en la ciudad o en el campo.\xf000븁\x0000\xfffeNecesita esos datos para utilizarlos\xfffeen su trabajo.\xf000븁\x0000
+La verdad es que este sondeo\xfffees un encargo mío.\xf000븁\x0000\xfffeEn al menos 12 horas, tienes que recabar\xfffeinformación sobre qué es lo que\xf000븀\x0000\xfffelos jugadores valoran más en la vida.\xf000븁\x0000\xfffe¿Qué es lo más importante para\xfffelos demás?\xf000븁\x0000\xfffeMe gustaría tanto saberlo...\xf000븁\x0000\xfffe¿Qué? ¿Que por qué quiero saberlo?\xf000븁\x0000\xfffePues... ¡no te lo voy a decir!,\xfffepero mis razones tengo...\xf000븁\x0000
+Lo cierto es que este sondeo es\xfffeun encargo mío.\xf000븁\x0000\xfffeEn al menos 12 horas, tienes que recabar\xfffeinformación sobre si los jugadores\xf000븀\x0000\xfffevaloran más la inteligencia\xf000븀\x0000\xfffeo la forma física de sus oponentes,\xf000븀\x0000\xfffeo si valoran más su aspecto\xf000븀\x0000\xfffeo su personalidad.\xf000븁\x0000\xfffeTambién quiero saber qué clase\xfffede personas son más populares\xf000븀\x0000\xfffeentre los jugadores.\xf000븁\x0000\xfffe¿Qué? ¿Que por qué tengo tanto interés\xfffeen saber todo eso?\xf000븁\x0000\xfffePues... ¡por nada en especial!\xfffe¡Es que soy muy curioso!\xf000븁\x0000\xfffe¡Y no me hagas más preguntas!\xf000븁\x0000
+Si te digo la verdad, este sondeo es\xfffeun encargo mío.\xf000븁\x0000\xfffeEn al menos 12 horas, tienes que recabar\xfffeinformación sobre qué estación del año\xf000븀\x0000\xfffey qué clase de comida son las favoritas\xf000븀\x0000\xfffeentre los jugadores.\xf000븁\x0000\xfffe¿Qué platos les apetecen más\xfffeen cada momento?\xf000븁\x0000\xfffe¿Qué? ¿Que en quién estoy pensando?\xf000븁\x0000\xfffeEsto... no... en nadie en concreto...\xfffe¡¿Por qué me miras así?!\xf000븁\x0000
+Este sondeo nos lo ha encargado\xfffeuna artista conceptual.\xf000븁\x0000\xfffeEn al menos 12 horas, tienes que recabar\xfffeinformación sobre qué color y qué género\xf000븀\x0000\xfffemusical son los favoritos\xf000븀\x0000\xfffede los jugadores.\xf000븁\x0000\xfffeDice que esos datos le servirán\xfffede inspiración para sus obras.\xf000븁\x0000
+Este sondeo nos lo ha encargado un\xfffecantante de baladas que últimamente\xf000븀\x0000\xfffeestá en todas las revistas del corazón.\xf000븁\x0000\xfffeA mi suegra le encanta, pero yo no\xfffelo aguanto.\xf000븁\x0000\xfffeEn al menos 16 horas, tienes que recabar\xfffeinformación sobre qué género musical\xf000븀\x0000\xfffeprefieren los jugadores.\xf000븁\x0000\xfffeEstá pensando en usar esos datos\xfffepara componer nuevas canciones y,\xf000븀\x0000\xfffeposiblemente, dar un giro a su carrera.\xf000븁\x0000\xfffeA ver si es verdad...\xf000븁\x0000
+Para qué te voy a engañar.\xfffeEste sondeo es un encargo mío.\xf000븁\x0000\xfffeEn al menos 16 horas, tienes que recabar\xfffeinformación sobre qué programas de TV\xf000븀\x0000\xfffey qué películas gustan más\xf000븀\x0000\xfffea los jugadores.\xf000븁\x0000\xfffeEs que me conviene estar al día en cine\xfffey TV, por si un día de estos necesito\xf000븀\x0000\xfffesacar un tema de conversación.\xf000븁\x0000
+Este sondeo nos lo ha encargado\xfffeun estudiante de primaria.\xf000븁\x0000\xfffeEn al menos 16 horas, tienes que recabar\xfffeinformación acerca de qué horas de la\xf000븀\x0000\xfffeescuela prefieren los jugadores.\xf000븁\x0000\xfffeCree que saber eso le servirá para\xfffehacer más amigos en la escuela.\xf000븁\x0000
+Este sondeo nos lo ha encargado\xfffeuna profesora de secundaria.\xf000븁\x0000\xfffeEn al menos 16 horas, tienes que recabar\xfffeinformación sobre qué asignaturas\xf000븀\x0000\xfffese les dan mejor y peor a los jugadores.\xf000븁\x0000\xfffeConfía en que podrá aplicar esos datos\xfffeal nuevo plan de estudios\xf000븀\x0000\xfffedel próximo curso.\xf000븁\x0000
+Este sondeo nos lo ha encargado\xfffeun deportista.\xf000븁\x0000\xfffeEn al menos 20 horas, tienes que recabar\xfffeinformación sobre qué deporte es\xf000븀\x0000\xfffeel más popular entre los jugadores.\xf000븁\x0000\xfffeQuiere saberlo porque se está planteando\xfffedar un giro a su carrera.\xf000븁\x0000\xfffeY, habiendo visto cómo jugó en la última\xfffetemporada, creo que es una decisión\xf000븀\x0000\xfffemuy sensata.\xf000븁\x0000
+Pues mira, resulta que este sondeo\xfffees un encargo mío.\xf000븁\x0000\xfffeEn al menos 20 horas, tienes que recabar\xfffeinformación sobre qué les gusta hacer\xf000븀\x0000\xfffey adónde les gusta ir a los jugadores\xf000븀\x0000\xfffeen su tiempo libre.\xf000븁\x0000\xfffeEs que tengo una cita este fin de semana\xfffey quiero saber los lugares de moda.\xf000븁\x0000
+Este sondeo nos lo ha encargado un\xfffeadmirador de los juegos de Pokémon.\xf000븁\x0000\xfffeEn al menos 20 horas, tienes que recabar\xfffeinformación sobre en qué aspiran a\xf000븀\x0000\xfffeconvertirse los jugadores de Pokémon.\xf000븁\x0000\xfffeLe interesan esos datos porque, como\xfffefiel admirador, quiere hacerle propaganda\xf000븀\x0000\xfffeal juego.\xf000븁\x0000
+Este sondeo nos lo ha encargado\xfffeun Líder de Gimnasio.\xf000븁\x0000\xfffeEn al menos 24 horas, tienes que recabar\xfffeinformación sobre qué Líder de Gimnasio\xf000븀\x0000\xfffees más popular.\xf000븁\x0000\xfffeNecesita esos datos para reestructurar\xfffela administración de su Gimnasio.\xf000븁\x0000
+Lo cierto es que este sondeo\xfffees un encargo mío.\xf000븁\x0000\xfffeEn al menos 24 horas, tienes que recabar\xfffeinformación acerca de qué es lo que más\xf000븀\x0000\xfffeles gusta de Pokémon a los jugadores.\xf000븁\x0000\xfffe¿Sabes? Estoy en un momento de la vida\xfffeen el que me replanteo muchas cosas.\xf000븁\x0000\xfffeDebe de ser cosa de la edad...\xf000븁\x0000\xfffeEl caso es que me he dado cuenta de\xfffeque el mundo Pokémon es una fuente\xf000븀\x0000\xfffede entretenimiento inagotable\xf000븀\x0000\xfffepara mucha gente.\xf000븁\x0000\xfffePor eso he decidido que, de ahora en\xfffeadelante, ¡dedicaré mi vida a investigar\xf000븀\x0000\xfffesobre los aspectos más apasionantes\xf000븀\x0000\xfffede los Pokémon!\xf000븁\x0000
+¿Eh?\xf000븁\x0000\xfffe¡¿De verdad has encuestado a toda\xfffeesa gente?!\xf000븁\x0000\xfffeEstá claro que vales para esto,\xfffe\xf000Ā\x0001\x0001.\xf000븁\x0000\xfffeDebemos de tener información de sobra\xfffepara los datos que necesitábamos.\xf000븁\x0000\xfffe¡Venga, dame los resultados,\xfffeque me muero de curiosidad!\xf000븁\x0000
+La verdad es que este sondeo es\xfffeun encargo mío.\xf000븁\x0000\xfffeTienes que recabar información de\xfffeal menos 5 personas para saber si\xf000븀\x0000\xfffela gente juega más a Pokémon Negro\xf000븀\x0000\xfffeo a Pokémon Blanco.\xf000븁\x0000\xfffeEs que estaba pensando en empezar\xfffeuna partida yo también, y quiero saber\xf000븀\x0000\xfffecuál de las dos versiones es la favorita.\xf000븁\x0000
+Este sondeo nos lo ha encargado\xfffeun Profesor Pokémon.\xf000븁\x0000\xfffeTienes que recabar información de\xfffeal menos 5 personas para saber\xf000븀\x0000\xfffecuál es el Pokémon inicial que\xf000븀\x0000\xfffemás jugadores han elegido.\xf000븁\x0000\xfffeQuiere aplicar los resultados del sondeo\xfffea una de sus investigaciones.\xf000븁\x0000
+Este sondeo nos lo ha encargado\xfffeuna madre.\xf000븁\x0000\xfffeTienes que recabar información de\xfffeal menos 10 personas para saber\xf000븀\x0000\xfffecuánto tiempo ha pasado la gente\xf000븀\x0000\xfffejugando a Pokémon.\xf000븁\x0000\xfffeEsa señora quiere saber si sus hijos\xfffehan pasado más o menos tiempo que\xf000븀\x0000\xfffeotros niños jugando a Pokémon.\xf000븁\x0000
+Este sondeo nos lo ha encargado\xfffeun periodista.\xf000븁\x0000\xfffeTienes que recabar información de\xfffeal menos 10 personas para saber\xf000븀\x0000\xfffesi juegan más los chicos o las chicas.\xf000븁\x0000\xfffePor lo visto, necesita esos datos para\xfffeincluirlos en un artículo que saldrá\xf000븀\x0000\xfffepublicado mañana en el periódico.\xf000븁\x0000
+Este sondeo nos lo ha encargado\xfffela editora de una revista.\xf000븁\x0000\xfffeTienes que recabar información de\xfffeal menos 10 personas para saber\xf000븀\x0000\xfffequé profesión es la más frecuente\xf000븀\x0000\xfffeentre los jugadores.\xf000븁\x0000\xfffeDice que necesita esos datos para\xfffeincluirlos en un reportaje especial.\xf000븁\x0000
+Este sondeo nos lo ha encargado\xfffeuna empresa del sector del ocio.\xf000븁\x0000\xfffeTienes que recabar información de\xfffeal menos 10 personas para saber\xf000븀\x0000\xfffequé aficiones son más comunes\xf000븀\x0000\xfffeentre los jugadores.\xf000븁\x0000\xfffeQuieren usar esos datos para un estudio\xfffede mercado.\xf000븁\x0000
+Lo cierto es que este sondeo\xfffees un encargo mío.\xf000븁\x0000\xfffeTienes que recabar información de\xfffeal menos 20 personas para saber\xf000븀\x0000\xfffesi los jugadores prefieren combates\xf000븀\x0000\xfffeo intercambios.\xf000븁\x0000\xfffeEs que últimamente me estoy aficionando\xfffea este juego y me pica la curiosidad.\xf000븁\x0000
+Este sondeo nos lo ha encargado\xfffeuna estudiante de instituto.\xf000븁\x0000\xfffeTienes que recabar información de\xfffeal menos 20 personas para saber\xf000븀\x0000\xfffequé Pokémon gustan más a los jugadores.\xf000븁\x0000\xfffeAl parecer, necesita esos datos para\xfffeincluirlos en un trabajo escolar.\xf000븁\x0000
+Este sondeo nos lo ha encargado\xfffeun Entrenador.\xf000븁\x0000\xfffeTienes que recabar información de\xfffeal menos 20 personas para saber\xf000븀\x0000\xfffecuál es el tipo de Pokémon preferido\xf000븀\x0000\xfffeentre los jugadores.\xf000븁\x0000\xfffeDice que saber eso le será útil para\xfffelos combates.\xf000븁\x0000
+Este sondeo nos lo ha encargado\xfffeun agente inmobiliario.\xf000븁\x0000\xfffeTienes que recabar información de\xfffeal menos 20 personas para saber\xf000븀\x0000\xfffesi la gente prefiere vivir en la ciudad\xf000븀\x0000\xfffeo en el campo.\xf000븁\x0000\xfffeNecesita esos datos para utilizarlos\xfffeen su trabajo.\xf000븁\x0000
+La verdad es que este sondeo es\xfffeun encargo mío.\xf000븁\x0000\xfffeTienes que recabar información de\xfffeal menos 30 personas para saber\xf000븀\x0000\xfffequé es lo que los jugadores valoran\xf000븀\x0000\xfffemás en la vida.\xf000븁\x0000\xfffe¿Qué es lo más importante para\xfffelos demás?\xf000븁\x0000\xfffeMe gustaría tanto saberlo...\xf000븁\x0000\xfffe¿Qué? ¿Que por qué quiero saberlo?\xf000븁\x0000\xfffePues... ¡no te lo voy a decir!,\xfffepero mis razones tengo.\xf000븁\x0000
+Lo cierto es que este sondeo\xfffees un encargo mío.\xf000븁\x0000\xfffeTienes que recabar información de\xfffeal menos 30 personas para saber si\xf000븀\x0000\xfffelos jugadores valoran más la inteligencia\xf000븀\x0000\xfffeo la forma física de sus oponentes,\xf000븀\x0000\xfffeo si valoran más su aspecto\xf000븀\x0000\xfffeo su personalidad.\xf000븁\x0000\xfffeTambién quiero saber qué clase\xfffede personas son más populares\xf000븀\x0000\xfffeentre los jugadores.\xf000븁\x0000\xfffe¿Qué? ¿Que por qué tengo tanto interés\xfffeen saber todo eso?\xf000븁\x0000\xfffePues... ¡por nada en especial!\xfffe¡Es que soy muy curioso!\xf000븁\x0000\xfffe¡Y no me hagas más preguntas!\xf000븁\x0000
+Si te digo la verdad, este sondeo es\xfffeun encargo mío.\xf000븁\x0000\xfffeTienes que recabar información de\xfffeal menos 30 personas para saber qué\xf000븀\x0000\xfffeestación del año y qué clase de comida\xf000븀\x0000\xfffeson las favoritas entre los jugadores.\xf000븁\x0000\xfffe¿Qué platos les apetecen más\xfffeen cada momento?\xf000븁\x0000\xfffe¿Qué? ¿Que en quién estoy pensando?\xf000븁\x0000\xfffeEsto... no... en nadie en concreto...\xfffe¡¿Por qué me miras así?!\xf000븁\x0000
+Este sondeo nos lo ha encargado\xfffeuna artista conceptual.\xf000븁\x0000\xfffeTienes que recabar información de\xfffeal menos 30 personas para saber\xf000븀\x0000\xfffequé color y qué género musical\xf000븀\x0000\xfffeson los favoritos de los jugadores.\xf000븁\x0000\xfffeDice que esos datos le servirán\xfffede inspiración para sus obras.\xf000븁\x0000
+Este sondeo nos lo ha encargado un\xfffecantante de baladas que últimamente\xf000븀\x0000\xfffeestá en todas las revistas del corazón.\xf000븁\x0000\xfffeA mi suegra le encanta, pero yo\xfffeno lo aguanto.\xf000븁\x0000\xfffeTienes que recabar información de\xfffeal menos 40 personas para saber qué\xf000븀\x0000\xfffegénero musical prefieren los jugadores.\xf000븁\x0000\xfffeEstá pensando en usar esos datos\xfffepara componer nuevas canciones\xf000븀\x0000\xfffey, posiblemente, dar un giro\xf000븀\x0000\xfffea su carrera.\xf000븁\x0000\xfffeA ver si es verdad...\xf000븁\x0000
+Para qué te voy a engañar.\xfffeEste sondeo es un encargo mío.\xf000븁\x0000\xfffeTienes que recabar información de\xfffeal menos 40 personas para saber\xf000븀\x0000\xfffequé programas de TV y qué películas\xf000븀\x0000\xfffegustan más a los jugadores.\xf000븁\x0000\xfffeEs que me conviene estar al día en cine y\xfffeTV, por si un día de estos necesito sacar\xf000븀\x0000\xfffeun tema de conversación.\xf000븁\x0000
+Este sondeo nos lo ha encargado\xfffeun estudiante de primaria.\xf000븁\x0000\xfffeTienes que recabar información de\xfffeal menos 40 personas para saber\xf000븀\x0000\xfffequé horas de la escuela prefieren\xf000븀\x0000\xfffelos jugadores.\xf000븁\x0000\xfffeCree que saber eso le servirá para hacer\xfffemás amigos en la escuela.\xf000븁\x0000
+Este sondeo nos lo ha encargado\xfffeuna profesora de secundaria.\xf000븁\x0000\xfffeTienes que recabar información de\xfffeal menos 40 personas para saber\xf000븀\x0000\xfffequé asignaturas se les dan mejor y peor\xf000븀\x0000\xfffea los jugadores.\xf000븁\x0000\xfffeConfía en que podrá aplicar esos datos\xfffeal nuevo plan de estudios\xf000븀\x0000\xfffedel próximo curso.\xf000븁\x0000
+Este sondeo nos lo ha encargado\xfffeun deportista.\xf000븁\x0000\xfffeTienes que recabar información de\xfffeal menos 50 personas para saber\xf000븀\x0000\xfffequé deporte es el más popular\xf000븀\x0000\xfffeentre los jugadores.\xf000븁\x0000\xfffeQuiere saberlo porque se está planteando\xfffedar un giro a su carrera.\xf000븁\x0000\xfffeY, habiendo visto cómo jugó en la última\xfffetemporada, creo que es una decisión\xf000븀\x0000\xfffemuy sensata.\xf000븁\x0000
+Pues mira, resulta que este sondeo es\xfffeun encargo mío.\xf000븁\x0000\xfffeTienes que recabar información de\xfffeal menos 50 personas para saber\xf000븀\x0000\xfffequé les gusta hacer y adónde les gusta ir\xf000븀\x0000\xfffea los jugadores en su tiempo libre.\xf000븁\x0000\xfffeEs que tengo una cita este fin de semana\xfffey quiero saber los lugares de moda.\xf000븁\x0000
+Este sondeo nos lo ha encargado un\xfffeadmirador de los juegos de Pokémon.\xf000븁\x0000\xfffeTienes que recabar información de\xfffeal menos 50 personas para saber\xf000븀\x0000\xfffeen qué aspiran a convertirse\xf000븀\x0000\xfffelos jugadores de Pokémon.\xf000븁\x0000\xfffeLe interesan esos datos porque, como\xfffefiel admirador, quiere hacerle propaganda\xf000븀\x0000\xfffeal juego.\xf000븁\x0000
+Este sondeo nos lo ha encargado\xfffeun Líder de Gimnasio.\xf000븁\x0000\xfffeTienes que recabar información de\xfffeal menos 100 personas para saber\xf000븀\x0000\xfffequé Líder de Gimnasio es más popular.\xf000븁\x0000\xfffeNecesita esos datos para reestructurar\xfffela administración de su Gimnasio.\xf000븁\x0000
+Lo cierto es que este sondeo\xfffees un encargo mío.\xf000븁\x0000\xfffeTienes que recabar información de\xfffeal menos 100 personas para saber\xf000븀\x0000\xfffequé es lo que más les gusta de Pokémon\xf000븀\x0000\xfffea los jugadores.\xf000븁\x0000\xfffe¿Sabes? Estoy en un momento de la vida\xfffeen el que me replanteo muchas cosas.\xf000븁\x0000\xfffeDebe de ser cosa de la edad...\xf000븁\x0000\xfffeEl caso es que me he dado cuenta de\xfffeque el mundo Pokémon es una fuente\xf000븀\x0000\xfffede entretenimiento inagotable\xf000븀\x0000\xfffepara mucha gente.\xf000븁\x0000\xfffePor eso he decidido que, de ahora en\xfffeadelante, ¡dedicaré mi vida a investigar\xf000븀\x0000\xfffesobre los aspectos más apasionantes\xf000븀\x0000\xfffede los Pokémon!\xf000븁\x0000
+¿Eh?\xf000븁\x0000\xfffe¡¿Ya has obtenido todos los datos\xfffeque necesitábamos?!\xf000븁\x0000\xfffeEstá claro que vales para esto,\xfffe\xf000Ā\x0001\x0001.\xf000븁\x0000\xfffe¡Venga, dame los resultados,\xfffeque me muero de curiosidad!\xf000븁\x0000
+¿Quieres encargarte de este sondeo?
+¡\xf000Ā\x0001\x0001 ha aceptado encargarse del\xfffesondeo “¿A qué versión se juega más?"!\xf000븁\x0000
+¡\xf000Ā\x0001\x0001 ha aceptado encargarse del\xfffesondeo “¿Qué Pokémon inicial\xf000븀\x0000\xfffees elegido más?"!\xf000븁\x0000
+¡\xf000Ā\x0001\x0001 ha aceptado encargarse del\xfffesondeo “¿Cuánto tiempo llevas jugando?"!\xf000븁\x0000
+¡\xf000Ā\x0001\x0001 ha aceptado encargarse del\xfffesondeo “¿Juegan más los chicos\xf000븀\x0000\xfffeo las chicas?"!\xf000븁\x0000
+¡\xf000Ā\x0001\x0001 ha aceptado encargarse del\xfffesondeo “¿Cuál es la profesión\xf000븀\x0000\xfffemás frecuente?"!\xf000븁\x0000
+¡\xf000Ā\x0001\x0001 ha aceptado encargarse del\xfffesondeo “¿Cuál es la afición\xf000븀\x0000\xfffemás frecuente?"!\xf000븁\x0000
+¡\xf000Ā\x0001\x0001 ha aceptado encargarse del\xfffesondeo “¿Gustan más combates\xf000븀\x0000\xfffeo intercambios?"!\xf000븁\x0000
+¡\xf000Ā\x0001\x0001 ha aceptado encargarse del\xfffesondeo “¿Qué Pokémon gustan más?"!\xf000븁\x0000
+¡\xf000Ā\x0001\x0001 ha aceptado encargarse del\xfffesondeo “¿Cuál es el tipo de\xf000븀\x0000\xfffePokémon preferido?"!\xf000븁\x0000
+¡\xf000Ā\x0001\x0001 ha aceptado encargarse del\xfffesondeo “¿Gusta más la ciudad\xf000븀\x0000\xfffeo el campo?"!\xf000븁\x0000
+¡\xf000Ā\x0001\x0001 ha aceptado encargarse del\xfffesondeo “¿Qué cosas valora más\xf000븀\x0000\xfffela gente?"!\xf000븁\x0000
+¡\xf000Ā\x0001\x0001 ha aceptado encargarse del\xfffesondeo “Sobre las cualidades\xf000븀\x0000\xfffede la gente"!\xf000븁\x0000
+¡\xf000Ā\x0001\x0001 ha aceptado encargarse del\xfffesondeo “Sobre las estaciones del año"!\xf000븁\x0000
+¡\xf000Ā\x0001\x0001 ha aceptado encargarse del\xfffesondeo “Sobre arte"!\xf000븁\x0000
+¡\xf000Ā\x0001\x0001 ha aceptado encargarse del\xfffesondeo “¿Qué tipo de música gusta más?"!\xf000븁\x0000
+¡\xf000Ā\x0001\x0001 ha aceptado encargarse del\xfffesondeo “Sobre cine y televisión"!\xf000븁\x0000
+¡\xf000Ā\x0001\x0001 ha aceptado encargarse del\xfffesondeo “¿Qué horas en la escuela\xf000븀\x0000\xfffegustan más?"!\xf000븁\x0000
+¡\xf000Ā\x0001\x0001 ha aceptado encargarse del\xfffesondeo “Sobre los estudios"!\xf000븁\x0000
+¡\xf000Ā\x0001\x0001 ha aceptado encargarse del\xfffesondeo “¿Cuál es el deporte\xf000븀\x0000\xfffemás popular?"!\xf000븁\x0000
+¡\xf000Ā\x0001\x0001 ha aceptado encargarse del\xfffesondeo “Sobre el tiempo libre"!\xf000븁\x0000
+¡\xf000Ā\x0001\x0001 ha aceptado encargarse del\xfffesondeo “¿En qué aspira a convertirse\xf000븀\x0000\xfffela gente?"!\xf000븁\x0000
+¡\xf000Ā\x0001\x0001 ha aceptado encargarse del\xfffesondeo “¿Qué Líder de Gimnasio es\xf000븀\x0000\xfffeel favorito?"!\xf000븁\x0000
+¡\xf000Ā\x0001\x0001 ha aceptado encargarse del\xfffesondeo “¿Qué gusta más de Pokémon?"!\xf000븁\x0000
+Cuando termines el sondeo,\xfffeven a informarme enseguida.
+Cuando termines el sondeo,\xfffeven a informarme enseguida.\xf000븁\x0000
+¿Quieres encargarte de otro sondeo?
+¿Ya has terminado el sondeo?\xfffeA ver, enséñame esos datos.\xf000븁\x0000
+Todavía no has completado el sondeo\xfffe“¿A qué versión se juega más?".\xf000븁\x0000\xfffeDebes continuar con el sondeo\xfffedurante \xf000ȁ\x0001\x0002 h más.\xf000븁\x0000\xfffePuedes seguir y completarlo.\xfffe¿O quieres dejarlo a medias?
+Todavía no has completado el sondeo\xfffe“¿Qué Pokémon inicial es elegido más?".\xf000븁\x0000\xfffeDebes continuar con el sondeo\xfffedurante \xf000ȁ\x0001\x0002 h más.\xf000븁\x0000\xfffePuedes seguir y completarlo.\xfffe¿O quieres dejarlo a medias?
+Todavía no has completado el sondeo\xfffe“¿Cuánto tiempo llevas jugando?".\xf000븁\x0000\xfffeDebes continuar con el sondeo\xfffedurante \xf000ȁ\x0001\x0002 h más.\xf000븁\x0000\xfffePuedes seguir y completarlo.\xfffe¿O quieres dejarlo a medias?
+Todavía no has completado el sondeo\xfffe“¿Juegan más los chicos o las chicas?".\xf000븁\x0000\xfffeDebes continuar con el sondeo\xfffedurante \xf000ȁ\x0001\x0002 h más.\xf000븁\x0000\xfffePuedes seguir y completarlo.\xfffe¿O quieres dejarlo a medias?
+Todavía no has completado el sondeo\xfffe“¿Cuál es la profesión más frecuente?".\xf000븁\x0000\xfffeDebes continuar con el sondeo\xfffedurante \xf000ȁ\x0001\x0002 h más.\xf000븁\x0000\xfffePuedes seguir y completarlo.\xfffe¿O quieres dejarlo a medias?
+Todavía no has completado el sondeo\xfffe“¿Cuál es la afición más frecuente?".\xf000븁\x0000\xfffeDebes continuar con el sondeo\xfffedurante \xf000ȁ\x0001\x0002 h más.\xf000븁\x0000\xfffePuedes seguir y completarlo.\xfffe¿O quieres dejarlo a medias?
+Todavía no has completado el sondeo\xfffe“¿Gustan más combates o intercambios?".\xf000븁\x0000\xfffeDebes continuar con el sondeo\xfffedurante \xf000ȁ\x0001\x0002 h más.\xf000븁\x0000\xfffePuedes seguir y completarlo.\xfffe¿O quieres dejarlo a medias?
+Todavía no has completado el sondeo\xfffe“¿Qué Pokémon gustan más?".\xf000븁\x0000\xfffeDebes continuar con el sondeo\xfffedurante \xf000ȁ\x0001\x0002 h más.\xf000븁\x0000\xfffePuedes seguir y completarlo.\xfffe¿O quieres dejarlo a medias?
+Todavía no has completado el sondeo\xfffe“¿Cuál es el tipo de Pokémon preferido?".\xf000븁\x0000\xfffeDebes continuar con el sondeo\xfffedurante \xf000ȁ\x0001\x0002 h más.\xf000븁\x0000\xfffePuedes seguir y completarlo.\xfffe¿O quieres dejarlo a medias?
+Todavía no has completado el sondeo\xfffe“¿Gusta más la ciudad o el campo?".\xf000븁\x0000\xfffeDebes continuar con el sondeo\xfffedurante \xf000ȁ\x0001\x0002 h más.\xf000븁\x0000\xfffePuedes seguir y completarlo.\xfffe¿O quieres dejarlo a medias?
+Todavía no has completado el sondeo\xfffe“¿Qué cosas valora más la gente?".\xf000븁\x0000\xfffeDebes continuar con el sondeo\xfffedurante \xf000ȁ\x0001\x0002 h más.\xf000븁\x0000\xfffePuedes seguir y completarlo.\xfffe¿O quieres dejarlo a medias?
+Todavía no has completado el sondeo\xfffe“Sobre las cualidades de la gente".\xf000븁\x0000\xfffeDebes continuar con el sondeo\xfffedurante \xf000ȁ\x0001\x0002 h más.\xf000븁\x0000\xfffePuedes seguir y completarlo.\xfffe¿O quieres dejarlo a medias?
+Todavía no has completado el sondeo\xfffe“Sobre las estaciones del año".\xf000븁\x0000\xfffeDebes continuar con el sondeo\xfffedurante \xf000ȁ\x0001\x0002 h más.\xf000븁\x0000\xfffePuedes seguir y completarlo.\xfffe¿O quieres dejarlo a medias?
+Todavía no has completado el sondeo\xfffe“Sobre arte".\xf000븁\x0000\xfffeDebes continuar con el sondeo\xfffedurante \xf000ȁ\x0001\x0002 h más.\xf000븁\x0000\xfffePuedes seguir y completarlo.\xfffe¿O quieres dejarlo a medias?
+Todavía no has completado el sondeo\xfffe“¿Qué tipo de música gusta más?".\xf000븁\x0000\xfffeDebes continuar con el sondeo\xfffedurante \xf000ȁ\x0001\x0002 h más.\xf000븁\x0000\xfffePuedes seguir y completarlo.\xfffe¿O quieres dejarlo a medias?
+Todavía no has completado el sondeo\xfffe“Sobre cine y televisión".\xf000븁\x0000\xfffeDebes continuar con el sondeo\xfffedurante \xf000ȁ\x0001\x0002 h más.\xf000븁\x0000\xfffePuedes seguir y completarlo.\xfffe¿O quieres dejarlo a medias?
+Todavía no has completado el sondeo\xfffe“¿Qué horas en la escuela gustan más?".\xf000븁\x0000\xfffeDebes continuar con el sondeo\xfffedurante \xf000ȁ\x0001\x0002 h más.\xf000븁\x0000\xfffePuedes seguir y completarlo.\xfffe¿O quieres dejarlo a medias?
+Todavía no has completado el sondeo\xfffe“Sobre los estudios".\xf000븁\x0000\xfffeDebes continuar con el sondeo\xfffedurante \xf000ȁ\x0001\x0002 h más.\xf000븁\x0000\xfffePuedes seguir y completarlo.\xfffe¿O quieres dejarlo a medias?
+Todavía no has completado el sondeo\xfffe“¿Cuál es el deporte más popular?".\xf000븁\x0000\xfffeDebes continuar con el sondeo\xfffedurante \xf000ȁ\x0001\x0002 h más.\xf000븁\x0000\xfffePuedes seguir y completarlo.\xfffe¿O quieres dejarlo a medias?
+Todavía no has completado el sondeo\xfffe“Sobre el tiempo libre".\xf000븁\x0000\xfffeDebes continuar con el sondeo\xfffedurante \xf000ȁ\x0001\x0002 h más.\xf000븁\x0000\xfffePuedes seguir y completarlo.\xfffe¿O quieres dejarlo a medias?
+Todavía no has completado el sondeo “¿En\xfffequé aspira a convertirse la gente?".\xf000븁\x0000\xfffeDebes continuar con el sondeo\xfffedurante \xf000ȁ\x0001\x0002 h más.\xf000븁\x0000\xfffePuedes seguir y completarlo.\xfffe¿O quieres dejarlo a medias?
+Todavía no has completado el sondeo\xfffe“¿Qué Líder de Gimnasio es el favorito?".\xf000븁\x0000\xfffeDebes continuar con el sondeo\xfffedurante \xf000ȁ\x0001\x0002 h más.\xf000븁\x0000\xfffePuedes seguir y completarlo.\xfffe¿O quieres dejarlo a medias?
+Todavía no has completado el sondeo\xfffe“¿Qué gusta más de Pokémon?".\xf000븁\x0000\xfffeDebes continuar con el sondeo\xfffedurante \xf000ȁ\x0001\x0002 h más.\xf000븁\x0000\xfffePuedes seguir y completarlo.\xfffe¿O quieres dejarlo a medias?
+Todavía no has completado el sondeo\xfffe“¿A qué versión se juega más?".\xf000븁\x0000\xfffeTienes que encuestar al menos\xfffea una persona.\xf000븁\x0000\xfffePuedes seguir y completarlo.\xfffe¿O quieres dejarlo a medias?
+Todavía no has completado el sondeo\xfffe“¿Qué Pokémon inicial es elegido más?".\xf000븁\x0000\xfffeTienes que encuestar al menos\xfffea una persona.\xf000븁\x0000\xfffePuedes seguir y completarlo.\xfffe¿O quieres dejarlo a medias?
+Todavía no has completado el sondeo\xfffe“¿Cuánto tiempo llevas jugando?".\xf000븁\x0000\xfffeTienes que encuestar al menos\xfffea una persona.\xf000븁\x0000\xfffePuedes seguir y completarlo.\xfffe¿O quieres dejarlo a medias?
+Todavía no has completado el sondeo\xfffe“¿Juegan más los chicos o las chicas?".\xf000븁\x0000\xfffeTienes que encuestar al menos\xfffea una persona.\xf000븁\x0000\xfffePuedes seguir y completarlo.\xfffe¿O quieres dejarlo a medias?
+Todavía no has completado el sondeo\xfffe“¿Cuál es la profesión más frecuente?".\xf000븁\x0000\xfffeTienes que encuestar al menos\xfffea una persona.\xf000븁\x0000\xfffePuedes seguir y completarlo.\xfffe¿O quieres dejarlo a medias?
+Todavía no has completado el sondeo\xfffe“¿Cuál es la afición más frecuente?".\xf000븁\x0000\xfffeTienes que encuestar al menos\xfffea una persona.\xf000븁\x0000\xfffePuedes seguir y completarlo.\xfffe¿O quieres dejarlo a medias?
+Todavía no has completado el sondeo\xfffe“¿Gustan más combates o intercambios?".\xf000븁\x0000\xfffeTienes que encuestar al menos\xfffea una persona.\xf000븁\x0000\xfffePuedes seguir y completarlo.\xfffe¿O quieres dejarlo a medias?
+Todavía no has completado el sondeo\xfffe“¿Qué Pokémon gustan más?".\xf000븁\x0000\xfffeTienes que encuestar al menos\xfffea una persona.\xf000븁\x0000\xfffePuedes seguir y completarlo.\xfffe¿O quieres dejarlo a medias?
+Todavía no has completado el sondeo\xfffe“¿Cuál es el tipo de Pokémon preferido?".\xf000븁\x0000\xfffeTienes que encuestar al menos\xfffea una persona.\xf000븁\x0000\xfffePuedes seguir y completarlo.\xfffe¿O quieres dejarlo a medias?
+Todavía no has completado el sondeo\xfffe“¿Gusta más la ciudad o el campo?".\xf000븁\x0000\xfffeTienes que encuestar al menos\xfffea una persona.\xf000븁\x0000\xfffePuedes seguir y completarlo.\xfffe¿O quieres dejarlo a medias?
+Todavía no has completado el sondeo\xfffe“¿Qué cosas valora más la gente?".\xf000븁\x0000\xfffeTienes que encuestar al menos\xfffea una persona.\xf000븁\x0000\xfffePuedes seguir y completarlo.\xfffe¿O quieres dejarlo a medias?
+Todavía no has completado el sondeo\xfffe“Sobre las cualidades de la gente".\xf000븁\x0000\xfffeTienes que encuestar al menos\xfffea una persona.\xf000븁\x0000\xfffePuedes seguir y completarlo.\xfffe¿O quieres dejarlo a medias?
+Todavía no has completado el sondeo\xfffe“Sobre las estaciones del año".\xf000븁\x0000\xfffeTienes que encuestar al menos\xfffea una persona.\xf000븁\x0000\xfffePuedes seguir y completarlo.\xfffe¿O quieres dejarlo a medias?
+Todavía no has completado el sondeo\xfffe“Sobre arte".\xf000븁\x0000\xfffeTienes que encuestar al menos\xfffea una persona.\xf000븁\x0000\xfffePuedes seguir y completarlo.\xfffe¿O quieres dejarlo a medias?
+Todavía no has completado el sondeo\xfffe“¿Qué tipo de música gusta más?".\xf000븁\x0000\xfffeTienes que encuestar al menos\xfffea una persona.\xf000븁\x0000\xfffePuedes seguir y completarlo.\xfffe¿O quieres dejarlo a medias?
+Todavía no has completado el sondeo\xfffe“Sobre cine y televisión".\xf000븁\x0000\xfffeTienes que encuestar al menos\xfffea una persona.\xf000븁\x0000\xfffePuedes seguir y completarlo.\xfffe¿O quieres dejarlo a medias?
+Todavía no has completado el sondeo\xfffe“¿Qué horas en la escuela gustan más?".\xf000븁\x0000\xfffeTienes que encuestar al menos\xfffea una persona.\xf000븁\x0000\xfffePuedes seguir y completarlo.\xfffe¿O quieres dejarlo a medias?
+Todavía no has completado el sondeo\xfffe“Sobre los estudios".\xf000븁\x0000\xfffeTienes que encuestar al menos\xfffea una persona.\xf000븁\x0000\xfffePuedes seguir y completarlo.\xfffe¿O quieres dejarlo a medias?
+Todavía no has completado el sondeo\xfffe“¿Cuál es el deporte más popular?".\xf000븁\x0000\xfffeTienes que encuestar al menos\xfffea una persona.\xf000븁\x0000\xfffePuedes seguir y completarlo.\xfffe¿O quieres dejarlo a medias?
+Todavía no has completado el sondeo\xfffe“Sobre el tiempo libre".\xf000븁\x0000\xfffeTienes que encuestar al menos\xfffea una persona.\xf000븁\x0000\xfffePuedes seguir y completarlo.\xfffe¿O quieres dejarlo a medias?
+Todavía no has completado el sondeo “¿En\xfffequé aspira a convertirse la gente?".\xf000븁\x0000\xfffeTienes que encuestar al menos\xfffea una persona.\xf000븁\x0000\xfffePuedes seguir y completarlo.\xfffe¿O quieres dejarlo a medias?
+Todavía no has completado el sondeo\xfffe“¿Qué Líder de Gimnasio es el favorito?".\xf000븁\x0000\xfffeTienes que encuestar al menos\xfffea una persona.\xf000븁\x0000\xfffePuedes seguir y completarlo.\xfffe¿O quieres dejarlo a medias?
+Todavía no has completado el sondeo\xfffe“¿Qué gusta más de Pokémon?".\xf000븁\x0000\xfffeTienes que encuestar al menos\xfffea una persona.\xf000븁\x0000\xfffePuedes seguir y completarlo.\xfffe¿O quieres dejarlo a medias?
+Todavía no has completado el sondeo\xfffe“¿A qué versión se juega más?".\xf000븁\x0000\xfffeTienes que encuestar a más gente,\xfffeal menos \xf000Ȃ\x0001\x0001 más.\xf000븁\x0000\xfffePuedes seguir y completarlo.\xfffe¿O quieres dejarlo a medias?
+Todavía no has completado el sondeo\xfffe“¿Qué Pokémon inicial es elegido más?".\xf000븁\x0000\xfffeTienes que encuestar a más gente,\xfffeal menos \xf000Ȃ\x0001\x0001 más.\xf000븁\x0000\xfffePuedes seguir y completarlo.\xfffe¿O quieres dejarlo a medias?
+Todavía no has completado el sondeo\xfffe“¿Cuánto tiempo llevas jugando?".\xf000븁\x0000\xfffeTienes que encuestar a más gente,\xfffeal menos \xf000Ȃ\x0001\x0001 más.\xf000븁\x0000\xfffePuedes seguir y completarlo.\xfffe¿O quieres dejarlo a medias?
+Todavía no has completado el sondeo\xfffe“¿Juegan más los chicos o las chicas?".\xf000븁\x0000\xfffeTienes que encuestar a más gente,\xfffeal menos \xf000Ȃ\x0001\x0001 más.\xf000븁\x0000\xfffePuedes seguir y completarlo.\xfffe¿O quieres dejarlo a medias?
+Todavía no has completado el sondeo\xfffe“¿Cuál es la profesión más frecuente?".\xf000븁\x0000\xfffeTienes que encuestar a más gente,\xfffeal menos \xf000Ȃ\x0001\x0001 más.\xf000븁\x0000\xfffePuedes seguir y completarlo.\xfffe¿O quieres dejarlo a medias?
+Todavía no has completado el sondeo\xfffe“¿Cuál es la afición más frecuente?".\xf000븁\x0000\xfffeTienes que encuestar a más gente,\xfffeal menos \xf000Ȃ\x0001\x0001 más.\xf000븁\x0000\xfffePuedes seguir y completarlo.\xfffe¿O quieres dejarlo a medias?
+Todavía no has completado el sondeo\xfffe“¿Gustan más combates o intercambios?".\xf000븁\x0000\xfffeTienes que encuestar a más gente,\xfffeal menos \xf000Ȃ\x0001\x0001 más.\xf000븁\x0000\xfffePuedes seguir y completarlo.\xfffe¿O quieres dejarlo a medias?
+Todavía no has completado el sondeo\xfffe“¿Qué Pokémon gustan más?".\xf000븁\x0000\xfffeTienes que encuestar a más gente,\xfffeal menos \xf000Ȃ\x0001\x0001 más.\xf000븁\x0000\xfffePuedes seguir y completarlo.\xfffe¿O quieres dejarlo a medias?
+Todavía no has completado el sondeo\xfffe“¿Cuál es el tipo de Pokémon preferido?".\xf000븁\x0000\xfffeTienes que encuestar a más gente,\xfffeal menos \xf000Ȃ\x0001\x0001 más.\xf000븁\x0000\xfffePuedes seguir y completarlo.\xfffe¿O quieres dejarlo a medias?
+Todavía no has completado el sondeo\xfffe“¿Gusta más la ciudad o el campo?".\xf000븁\x0000\xfffeTienes que encuestar a más gente,\xfffeal menos \xf000Ȃ\x0001\x0001 más.\xf000븁\x0000\xfffePuedes seguir y completarlo.\xfffe¿O quieres dejarlo a medias?
+Todavía no has completado el sondeo\xfffe“¿Qué cosas valora más la gente?".\xf000븁\x0000\xfffeTienes que encuestar a más gente,\xfffeal menos \xf000Ȃ\x0001\x0001 más.\xf000븁\x0000\xfffePuedes seguir y completarlo.\xfffe¿O quieres dejarlo a medias?
+Todavía no has completado el sondeo\xfffe“Sobre las cualidades de la gente".\xf000븁\x0000\xfffeTienes que encuestar a más gente,\xfffeal menos \xf000Ȃ\x0001\x0001 más.\xf000븁\x0000\xfffePuedes seguir y completarlo.\xfffe¿O quieres dejarlo a medias?
+Todavía no has completado el sondeo\xfffe“Sobre las estaciones del año".\xf000븁\x0000\xfffeTienes que encuestar a más gente,\xfffeal menos \xf000Ȃ\x0001\x0001 más.\xf000븁\x0000\xfffePuedes seguir y completarlo.\xfffe¿O quieres dejarlo a medias?
+Todavía no has completado el sondeo\xfffe“Sobre arte".\xf000븁\x0000\xfffeTienes que encuestar a más gente,\xfffeal menos \xf000Ȃ\x0001\x0001 más.\xf000븁\x0000\xfffePuedes seguir y completarlo.\xfffe¿O quieres dejarlo a medias?
+Todavía no has completado el sondeo\xfffe“¿Qué tipo de música gusta más?".\xf000븁\x0000\xfffeTienes que encuestar a más gente,\xfffeal menos \xf000Ȃ\x0001\x0001 más.\xf000븁\x0000\xfffePuedes seguir y completarlo.\xfffe¿O quieres dejarlo a medias?
+Todavía no has completado el sondeo\xfffe“Sobre cine y televisión".\xf000븁\x0000\xfffeTienes que encuestar a más gente,\xfffeal menos \xf000Ȃ\x0001\x0001 más.\xf000븁\x0000\xfffePuedes seguir y completarlo.\xfffe¿O quieres dejarlo a medias?
+Todavía no has completado el sondeo\xfffe“¿Qué horas en la escuela gustan más?".\xf000븁\x0000\xfffeTienes que encuestar a más gente,\xfffeal menos \xf000Ȃ\x0001\x0001 más.\xf000븁\x0000\xfffePuedes seguir y completarlo.\xfffe¿O quieres dejarlo a medias?
+Todavía no has completado el sondeo\xfffe“Sobre los estudios".\xf000븁\x0000\xfffeTienes que encuestar a más gente,\xfffeal menos \xf000Ȃ\x0001\x0001 más.\xf000븁\x0000\xfffePuedes seguir y completarlo.\xfffe¿O quieres dejarlo a medias?
+Todavía no has completado el sondeo\xfffe“¿Cuál es el deporte más popular?".\xf000븁\x0000\xfffeTienes que encuestar a más gente,\xfffeal menos \xf000Ȃ\x0001\x0001 más.\xf000븁\x0000\xfffePuedes seguir y completarlo.\xfffe¿O quieres dejarlo a medias?
+Todavía no has completado el sondeo\xfffe“Sobre el tiempo libre".\xf000븁\x0000\xfffeTienes que encuestar a más gente,\xfffeal menos \xf000Ȃ\x0001\x0001 más.\xf000븁\x0000\xfffePuedes seguir y completarlo.\xfffe¿O quieres dejarlo a medias?
+Todavía no has completado el sondeo “¿En\xfffequé aspira a convertirse la gente?".\xf000븁\x0000\xfffeTienes que encuestar a más gente,\xfffeal menos \xf000Ȃ\x0001\x0001 más.\xf000븁\x0000\xfffePuedes seguir y completarlo.\xfffe¿O quieres dejarlo a medias?
+Todavía no has completado el sondeo\xfffe“¿Qué Líder de Gimnasio es el favorito?".\xf000븁\x0000\xfffeTienes que encuestar a más gente,\xfffeal menos \xf000Ȃ\x0001\x0001 más.\xf000븁\x0000\xfffePuedes seguir y completarlo.\xfffe¿O quieres dejarlo a medias?
+Todavía no has completado el sondeo\xfffe“¿Qué gusta más de Pokémon?".\xf000븁\x0000\xfffeTienes que encuestar a más gente,\xfffeal menos \xf000Ȃ\x0001\x0001 más.\xf000븁\x0000\xfffePuedes seguir y completarlo.\xfffe¿O quieres dejarlo a medias?
+Ahora mismo no tienes ningún sondeo\xfffeentre manos.\xf000븁\x0000\xfffeSi quieres encargarte de alguno,\xfffeven a verme.
+Le has dado los resultados del sondeo\xfffe“¿A qué versión se juega más?"\xf000븀\x0000\xfffeal Director del Centro.\xf000븁\x0000
+Le has dado los resultados del sondeo\xfffe“¿Qué Pokémon inicial es elegido más?"\xf000븀\x0000\xfffeal Director del Centro.\xf000븁\x0000
+Le has dado los resultados del sondeo\xfffe“¿Cuánto tiempo llevas jugando?"\xf000븀\x0000\xfffeal Director del Centro.\xf000븁\x0000
+Le has dado los resultados del sondeo\xfffe“¿Juegan más los chicos o las chicas?"\xf000븀\x0000\xfffeal Director del Centro.\xf000븁\x0000
+Le has dado los resultados del sondeo\xfffe“¿Cuál es la profesión más frecuente?"\xf000븀\x0000\xfffeal Director del Centro.\xf000븁\x0000
+Le has dado los resultados del sondeo\xfffe“¿Cuál es la afición más frecuente?"\xf000븀\x0000\xfffeal Director del Centro.\xf000븁\x0000
+Le has dado los resultados del sondeo\xfffe“¿Gustan más combates o intercambios?"\xf000븀\x0000\xfffeal Director del Centro.\xf000븁\x0000
+Le has dado los resultados del sondeo\xfffe“¿Qué Pokémon gustan más?"\xf000븀\x0000\xfffeal Director del Centro.\xf000븁\x0000
+Le has dado los resultados del sondeo\xfffe“¿Cuál es el tipo de Pokémon preferido?"\xf000븀\x0000\xfffeal Director del Centro.\xf000븁\x0000
+Le has dado los resultados del sondeo\xfffe“¿Gusta más la ciudad o el campo?"\xf000븀\x0000\xfffeal Director del Centro.\xf000븁\x0000
+Le has dado los resultados del sondeo\xfffe“¿Qué cosas valora más la gente?"\xf000븀\x0000\xfffeal Director del Centro.\xf000븁\x0000
+Le has dado los resultados del sondeo\xfffe“Sobre las cualidades de la gente"\xf000븀\x0000\xfffeal Director del Centro.\xf000븁\x0000
+Le has dado los resultados del sondeo\xfffe“Sobre las estaciones del año"\xf000븀\x0000\xfffeal Director del Centro.\xf000븁\x0000
+Le has dado los resultados del sondeo\xfffe“Sobre arte"\xf000븀\x0000\xfffeal Director del Centro.\xf000븁\x0000
+Le has dado los resultados del sondeo\xfffe“¿Qué tipo de música gusta más?"\xf000븀\x0000\xfffeal Director del Centro.\xf000븁\x0000
+Le has dado los resultados del sondeo\xfffe“Sobre cine y televisión"\xf000븀\x0000\xfffeal Director del Centro.\xf000븁\x0000
+Le has dado los resultados del sondeo\xfffe“¿Qué horas en la escuela gustan más?"\xf000븀\x0000\xfffeal Director del Centro.\xf000븁\x0000
+Le has dado los resultados del sondeo\xfffe“Sobre los estudios"\xf000븀\x0000\xfffeal Director del Centro.\xf000븁\x0000
+Le has dado los resultados del sondeo\xfffe“¿Cuál es el deporte más popular?"\xf000븀\x0000\xfffeal Director del Centro.\xf000븁\x0000
+Le has dado los resultados del sondeo\xfffe“Sobre el tiempo libre"\xf000븀\x0000\xfffeal Director del Centro.\xf000븁\x0000
+Le has dado los resultados del sondeo\xfffe“¿En qué aspira a convertirse la gente?"\xf000븀\x0000\xfffeal Director del Centro.\xf000븁\x0000
+Le has dado los resultados del sondeo\xfffe“¿Qué Líder de Gimnasio es el favorito?"\xf000븀\x0000\xfffeal Director del Centro.\xf000븁\x0000
+Le has dado los resultados del sondeo\xfffe“¿Qué gusta más de Pokémon?"\xf000븀\x0000\xfffeal Director del Centro.\xf000븁\x0000
+Mmm... Ya veo...\xf000븁\x0000\xfffeEntre Pokémon Negro y Pokémon Blanco,\xfffela gente juega más a...\xf000븀\x0000\xfffePOKÉMON \xf000ē\x0001\x0000.\xf000븁\x0000\xfffeBueno es saberlo.\xf000븁\x0000\xfffePero la verdad es que los dos parecen\xfffeigual de entretenidos.\xf000븁\x0000\xfffe¡Me va a costar decidirme!\xf000븁\x0000
+Mmm... Qué curioso...\xf000븁\x0000\xfffeEl Pokémon inicial más elegido\xfffees \xf000ē\x0001\x0000.\xf000븁\x0000\xfffeNunca lo hubiera pensado.\xf000븁\x0000\xfffe¿Ves? ¡Esa clase de sorpresas es lo que\xfffeme gusta de los sondeos!\xf000븁\x0000
+Mmm... Ya veo...\xf000븁\x0000\xfffeEl promedio de tiempo de juego\xfffees de \xf000ē\x0001\x0000.\xf000븁\x0000\xfffeMe alegro de que la gente se divierta\xfffejugando durante tanto tiempo.\xf000븁\x0000
+Mmm... Qué interesante...\xf000븁\x0000\xfffeEntre chicos y chicas, la mayoría son\xfffe\xf000ē\x0001\x0000S.\xf000븁\x0000\xfffe¡Pero Pokémon es igual de entretenido\xfffepara chicos y chicas!\xf000븁\x0000\xfffe¡Todo el mundo se lo puede pasar bomba!\xf000븁\x0000
+Mmm... Ya veo...\xf000븁\x0000\xfffeLa profesión más frecuente entre\xfffelos jugadores es \xf000ē\x0001\x0000.\xf000븁\x0000\xfffeTodo tipo de personas juegan\xfffea Pokémon.\xf000븁\x0000\xfffe¡Es estupendo!\xf000븁\x0000
+Mmm... Qué interesante...\xf000븁\x0000\xfffeLa afición más común entre los jugadores\xfffees \xf000ē\x0001\x0000.\xf000븁\x0000\xfffeTener inquietudes diversas es una buena\xfffemanera de ampliar tus horizontes.\xf000븁\x0000
+Mmm... Qué interesante...\xf000븁\x0000\xfffeEntre los combates y los intercambios,\xfffela mayoría prefiere\xf000븀\x0000\xfffelos \xf000ē\x0001\x0000.\xf000븁\x0000\xfffeMe lo apunto.\xf000븁\x0000\xfffeEso es lo bueno que tiene Pokémon:\xfffepuedes divertirte de distintas formas.\xf000븁\x0000
+Mmm... Qué interesante...\xf000븁\x0000\xfffeLos Pokémon \xf000ē\x0001\x0000 son\xfffelos que más gustan a los jugadores.\xf000븁\x0000\xfffeHay tantos Pokémon distintos...\xf000븁\x0000\xfffe¡Quiero encontrarme con cuantos\xfffemás mejor!\xf000븁\x0000
+Mmm... Entiendo...\xf000븁\x0000\xfffeLos Pokémon preferidos son\xfffelos de tipo \xf000ē\x0001\x0000.\xf000븁\x0000\xfffeCon tantos Pokémon distintos, esta\xfffeinformación debe de ser muy útil\xf000븀\x0000\xfffepara los combates.\xf000븁\x0000
+Mmm... Ya veo...\xf000븁\x0000\xfffeEntre vivir en la ciudad o en el campo,\xfffela mayoría elige \xf000ē\x0001\x0000.\xf000븁\x0000\xfffePara mí ya es bastante difícil decidir\xfffeen qué ciudad me gustaría vivir...\xf000븁\x0000
+Mmm... Ya veo...\xf000븁\x0000\xfffeEntre tener tiempo y tener dinero,\xfffela mayoría prefiere\xf000븀\x0000\xfffetener \xf000ē\x0001\x0000.\xf000븁\x0000\xfffeY parece que “\xf000ē\x0001\x0001"\xfffees la respuesta más frecuente cuando\xf000븀\x0000\xfffepreguntas qué es lo que más valora\xf000븀\x0000\xfffela gente.\xf000븁\x0000\xfffeLo tendré en cuenta.\xf000븁\x0000\xfffeEs importante tener claro y siempre\xfffepresente qué es lo más importante\xf000븀\x0000\xfffepara nosotros.\xf000븁\x0000
+Mmm... Qué interesante...\xf000븁\x0000\xfffeEntre la inteligencia y la forma física,\xfffey entre el aspecto y la personalidad,\xf000븀\x0000\xfffeparece que la mayoría prefiere\xf000븀\x0000\xfffeoponentes que destaquen\xf000븀\x0000\xfffepor su \xf000ē\x0001\x0000\xf000븀\x0000\xfffey su \xf000ē\x0001\x0001.\xf000븁\x0000\xfffeY, en cuanto a otras cualidades,\xfffela mayoría prefiere\xf000븀\x0000\xfffelas personas \xf000ē\x0001\x0002.\xf000븁\x0000\xfffeTomo nota de todo esto.\xf000븁\x0000\xfffeCada uno tiene sus buenas cualidades.\xf000븁\x0000\xfffeEs una lástima que todavía\xfffeno se hayan fijado en las mías...\xf000븁\x0000
+Mmm... Qué interesante...\xf000븁\x0000\xfffeLa estación del año preferida\xfffees \xf000ē\x0001\x0000 y a la mayoría\xf000븀\x0000\xfffede jugadores les gusta la comida\xf000븀\x0000\xfffe\xf000ē\x0001\x0001.\xf000븁\x0000\xfffeEsto me lo apunto.\xf000븁\x0000\xfffeLos gustos varían según cada persona\xfffey también según la época del año.\xf000븁\x0000
+Mmm... Ya veo...\xf000븁\x0000\xfffeLa mayoría prefiere el color\xfffe\xf000ē\x0001\x0000 y el género musical\xf000븀\x0000\xfffeque más gusta es \xf000ē\x0001\x0001.\xf000븁\x0000\xfffePersonalmente, no creo que lo que está\xfffemás de moda sea siempre lo mejor.\xf000븁\x0000\xfffe¡Para gustos, los colores!\xf000븁\x0000
+Mmm... Ya veo...\xf000븁\x0000\xfffeEl género musical que prefiere la mayoría\xfffees \xf000ē\x0001\x0000.\xf000븁\x0000\xfffeA mí me encanta relajarme escuchando\xfffemúsica. Voy a tener muy presentes\xf000븀\x0000\xfffelos resultados de este sondeo.\xf000븁\x0000
+Mmm... Qué interesante...\xf000븁\x0000\xfffeEn cuanto a los programas de TV\xfffefavoritos, la mayoría ha respondido:\xf000븀\x0000\xfffe\xf000ē\x0001\x0000.\xf000븁\x0000\xfffeY, en cuanto al género de cine favorito,\xfffela mayoría ha respondido:\xf000븀\x0000\xfffe\xf000ē\x0001\x0001.\xf000븁\x0000\xfffeTomo nota.\xf000븁\x0000\xfffeCon esto tendré tema de conversación\xfffepara rato.\xf000븁\x0000\xfffeEn la próxima cita, ¡voy a triunfar!\xf000븁\x0000
+Mmm... Ya veo...\xf000븁\x0000\xfffeEn cuanto a qué hora es mejor en\xfffela escuela, la mayoría ha respondido:\xf000븀\x0000\xfffe\xf000ē\x0001\x0000.\xf000븁\x0000\xfffeAy, mis días de colegio...\xfffeCuántos recuerdos...\xf000븁\x0000\xfffeAunque había que estudiar,\xfffeyo me lo pasaba genial.\xf000븁\x0000
+Mmm... Qué interesante...\xf000븁\x0000\xfffeLa asignatura favorita de la mayoría\xfffees \xf000ē\x0001\x0000 y lo que se les\xf000븀\x0000\xfffeda peor es \xf000ē\x0001\x0001.\xf000븁\x0000\xfffeCuando te haces mayor, cuesta encontrar\xfffetiempo para estudiar y divertirse.\xf000븁\x0000
+Mmm... Ya veo...\xf000븁\x0000\xfffeEl deporte más popular entre\xfffelos jugadores es \xf000ē\x0001\x0000.\xf000븁\x0000\xfffeEs importante hacer ejercicio\xfffecon frecuencia.\xf000븁\x0000\xfffeEl cuerpo te lo agradece.\xf000븁\x0000
+Mmm... Qué información tan valiosa...\xf000븁\x0000\xfffeLa respuesta que ha dado la mayoría\xfffesobre lo que les gusta hacer en sus\xf000븀\x0000\xffferatos de ocio es: \xf000ē\x0001\x0000.\xf000븁\x0000\xfffeY, entre ir a la playa, al río o a la\xfffemontaña en su tiempo libre,\xf000븀\x0000\xfffela mayoría ha respondido: \xf000ē\x0001\x0001.\xf000븁\x0000\xfffeTomo nota.\xf000븁\x0000\xfffeCon esto ya puedo planear\xfffemi cita del fin de semana.\xf000븁\x0000\xfffe¿Que con quién tengo la cita?\xfffe¡No te lo pienso decir!\xf000븁\x0000
+Mmm... Ya veo...\xf000븁\x0000\xfffeA la mayoría de la gente le gustaría\xfffeser \xf000ē\x0001\x0000.\xf000븁\x0000\xfffeTener aspiraciones es algo bueno,\xfffepero lo más importante es tener\xf000븀\x0000\xfffeconfianza en uno mismo.\xf000븁\x0000
+Mmm... Qué interesante...\xf000븁\x0000\xfffeEl Líder de Gimnasio favorito de\xfffelos jugadores es \xf000ē\x0001\x0000.\xf000븁\x0000\xfffeMuchos niños admiran a los Líderes\xfffede Gimnasio.\xf000븁\x0000\xfffeYo creo que cada uno de ellos tiene\xfffesus buenas cualidades.\xf000븁\x0000
+Mmm... Ya veo...\xf000븁\x0000\xfffeLo que más le gusta a la mayoría sobre\xfffelos juegos de Pokémon\xf000븀\x0000\xfffees \xf000ē\x0001\x0000.\xf000븁\x0000\xfffeLo tendré en cuenta.\xf000븁\x0000\xfffeHay montones de maneras de divertirse\xfffejugando a Pokémon.\xf000븁\x0000\xfffe¡Uno nunca se aburre!\xf000븁\x0000
+¡Un estudio completísimo!\xf000븁\x0000\xfffeSabía que no me equivocaba al nombrarte\xfffemiembro especial, \xf000Ā\x0001\x0001.\xf000븁\x0000\xfffeAquí tienes tu recompensa.\xf000븁\x0000
+Siempre me dejas boquiabierto\xfffecon tu excelente trabajo.\xf000븁\x0000\xfffe¡Te mereces que te ascienda\xfffea miembro de Rango B!\xf000븁\x0000
+Siempre me dejas boquiabierto\xfffecon tu excelente trabajo.\xf000븁\x0000\xfffe¡Te mereces que te ascienda\xfffea miembro de Rango A!\xf000븁\x0000
+Siempre me dejas boquiabierto\xfffecon tu excelente trabajo.\xf000븁\x0000\xfffe¡Te mereces que te ascienda\xfffea miembro de Rango S!\xf000븁\x0000
+Siempre me dejas boquiabierto\xfffecon tu excelente trabajo.\xf000븁\x0000\xfffe¡Te mereces que te ascienda\xfffea miembro de Rango Súper S!\xf000븁\x0000
+¡\xf000Ā\x0001\x0001 ha pasado a ser\xfffemiembro de Rango B!\xf000븁\x0000
+¡\xf000Ā\x0001\x0001 ha pasado a ser\xfffemiembro de Rango A!\xf000븁\x0000
+¡\xf000Ā\x0001\x0001 ha pasado a ser\xfffemiembro de Rango S!\xf000븁\x0000
+¡\xf000Ā\x0001\x0001 ha pasado a ser\xfffemiembro de Rango Súper S!\xf000븁\x0000
+Sigue así con los sondeos.\xf000븁\x0000\xfffeTe ascenderé a miembro de Rango B\xfffesi te encargas de \xf000ȁ\x0001\x0001 más.\xf000븁\x0000
+Sigue así con los sondeos.\xf000븁\x0000\xfffeTe ascenderé a miembro de Rango A\xfffesi te encargas de \xf000ȁ\x0001\x0001 más.\xf000븁\x0000
+Sigue así con los sondeos.\xf000븁\x0000\xfffeTe ascenderé a miembro de Rango S\xfffesi te encargas de \xf000ȁ\x0001\x0001 más.\xf000븁\x0000
+Sigue así con los sondeos.\xf000븁\x0000\xfffeTe ascenderé a miembro de Rango Súper S\xfffesi te encargas de \xf000ȁ\x0001\x0001 más.\xf000븁\x0000
+¡\xf000Ā\x0001\x0001, cuento contigo\xfffepara el próximo sondeo!
+¡Excelente, \xf000Ā\x0001\x0001!\xfffe¡Ya has completado todos los sondeos!\xf000븁\x0000\xfffe¡Qué emoción! No tengo palabras\xfffepara describir lo que siento.\xf000븁\x0000\xfffePero puedo darte esto para demostrarte\xfffemi admiración.\xf000븁\x0000
+A partir de ahora, puedes dedicarte\xfffea encuestar sobre lo que te apetezca.\xf000븁\x0000\xfffe¡Sigo contando contigo!
+Ah, vale... Tengo que hacer tantas horas\xfffeextra en este trabajo que casi no tengo\xf000븀\x0000\xfffevida social.\xf000븁\x0000\xfffePásate por aquí de vez en cuando\xfffey hablamos un rato.
+Esto es el Centro de Estadística.\xf000븁\x0000\xfffeSi quieres ser miembro,\xfffehabla con el Director.
+Hola, \xf000Ā\x0001\x0001.\xfffe¿Cómo vas con los sondeos?\xf000븁\x0000
+Oye, te acaban de nombrar miembro, ¿no?\xfffe¿Tienes un momento?\xf000븁\x0000
+Le estoy pidiendo a todos los miembros\xfffedel Centro de Estadística que respondan\xf000븀\x0000\xfffea una encuesta.\xf000븁\x0000\xfffe¿Te importaría contestar tú también\xfffesi tienes tiempo?\xf000븁\x0000
+Me gustaría hacerte otra encuesta...\xfffe¿Tienes tiempo?
+Vale, no te preocupes.\xf000븁\x0000\xfffeSi tienes ganas de contestar a la\xfffeencuesta, ya sabes dónde estoy.
+¡Anda! ¡Pero si ya has contestado\xfffea todas las encuestas!\xf000븁\x0000\xfffe¿Quieres contestar de nuevo\xfffea alguna de las encuestas?
+Vale... Elige la encuesta que quieras.
+TIPOS DE PERSONAS
+POKÉMON PREFERIDOS
+IDEALES
+PERSONAS QUE TE GUSTAN
+GUSTOS
+AFICIONES
+VIDA ESCOLAR
+OCIO Y DIVERSIÓN
+MÁS COSAS SOBRE POKÉMON
+¿Quieres contestar a esta encuesta?
+Puedes repetir una encuesta tantas\xfffeveces como quieras.\xf000븁\x0000\xfffeSi quieres cambiar tus respuestas,\xfffeven a hablar conmigo.
+Vale, empecemos con la encuesta sobre\xfffe“Tipos de personas".\xf000븁\x0000
+Vale, empecemos con la encuesta sobre\xfffe“Pokémon preferidos".\xf000븁\x0000
+Vale, empecemos con la encuesta sobre\xfffe“Ideales".\xf000븁\x0000
+Vale, empecemos con la encuesta sobre\xfffe“Personas que te gustan".\xf000븁\x0000
+Vale, empecemos con la encuesta sobre\xfffe“Gustos".\xf000븁\x0000
+Vale, empecemos con la encuesta sobre\xfffe“Aficiones".\xf000븁\x0000
+Vale, empecemos con la encuesta sobre\xfffe“Vida escolar".\xf000븁\x0000
+Vale, empecemos con la encuesta sobre\xfffe“Ocio y diversión".\xf000븁\x0000
+Vale, empecemos con la encuesta sobre\xfffe“Pokémon".\xf000븁\x0000
+¿Cuál es tu afición?
+¿Prefieres combates o intercambios?
+¿Prefieres vivir en la ciudad\xfffeo en el campo?
+¿Qué cualidad buscas en un oponente?
+¿Qué estación del año prefieres?
+¿Qué género musical prefieres?
+¿Cuándo disfrutas más en la escuela?
+¿Adónde prefieres ir en tu tiempo libre?
+¿Qué es lo mejor de Pokémon?
+¿Cuál es tu profesión?
+¿Qué Pokémon te gustan?
+¿Qué te gustaría tener?
+¿Qué valoras más en una persona?
+¿Qué clase de comida te gusta?
+¿Qué programas de TV prefieres?
+¿Cuál es tu asignatura favorita?
+¿A qué dedicas tu tiempo libre?
+¿Qué te gustaría ser?
+
+¿Qué tipo de Pokémon prefieres?
+¿Qué es más importante para ti?
+¿Qué clase de personas prefieres?
+¿Cuál es tu color favorito?
+¿Qué clase de películas prefieres?
+¿Qué asignatura se te da peor?
+¿Qué deporte te gusta?
+¿Qué Líder de Gimnasio es tu favorito?
+Ya veo, ya veo...\xfffeSiguiente pregunta...\xf000븁\x0000
+Ya veo, ya veo...\xfffeBueno, pues ya hemos terminado.\xf000븁\x0000\xfffe¡Muchas gracias por tus respuestas!\xf000븁\x0000
+Toma, puedes quedarte una copia\xfffedel cuestionario.\xf000븁\x0000
+¡El sondeo “Tipos de personas"\xfffese ha añadido a tu Radar de Sondeos!\xf000븁\x0000
+¡El sondeo “Pokémon preferidos"\xfffese ha añadido a tu Radar de Sondeos!\xf000븁\x0000
+¡El sondeo “Ideales"\xfffese ha añadido a tu Radar de Sondeos!\xf000븁\x0000
+¡El sondeo “Personas que te gustan"\xfffese ha añadido a tu Radar de Sondeos!\xf000븁\x0000
+¡El sondeo “Gustos"\xfffese ha añadido a tu Radar de Sondeos!\xf000븁\x0000
+¡El sondeo “Aficiones"\xfffese ha añadido a tu Radar de Sondeos!\xf000븁\x0000
+¡El sondeo “Vida escolar"\xfffese ha añadido a tu Radar de Sondeos!\xf000븁\x0000
+¡El sondeo “Ocio y diversión"\xfffese ha añadido a tu Radar de Sondeos!\xf000븁\x0000
+¡El sondeo “Pokémon"\xfffese ha añadido a tu Radar de Sondeos!\xf000븁\x0000
+Toma esto en agradecimiento por el tiempo\xfffeque te has tomado en contestar.\xf000븁\x0000
+Ya has contestado a todas\xfffelas encuestas.\xf000븁\x0000\xfffeHa sido un placer descubrir\xfffetantas cosas sobre ti, ¿sabes?\xf000븁\x0000
+Puedes repetir una encuesta tantas\xfffeveces como quieras.\xf000븁\x0000\xfffeSi quieres cambiar tus respuestas,\xfffeven a hablar conmigo.
+A ver cuántas encuestas te quedan\xfffepor contestar... ¡Ah, \xf000Ȁ\x0001\x0001 más!\xf000븁\x0000
+Si quieres contestar a más encuestas,\xfffeavísame.
+Ya que estás aquí, ¿por qué no contestas\xfffea otra encuesta?
+¡Muy buenas!\xfffe¡Los saludos son importantísimos!\xf000븁\x0000
+¿Te gustaría decirme cuál es\xfffetu saludo favorito?
+¿Quieres enseñarme tu saludo favorito?
+¡Hola!
+Bueno, ¡pues espero que me enseñes\xfffeun saludo bien guay la próxima vez!
+¡Ese saludo mola un montón!\xfffe¡Dan ganas de decírselo a todo el mundo!\xf000븁\x0000\xfffeYa me dirás si se te ocurre otro\xfffeigual de bueno.
+Hola. Supongo que normalmente das las\xfffegracias a los demás cuando toca, ¿no?\xf000븁\x0000
+¡Anda! Aquí hay una Poké Ball.\xfffeToma, para ti.\xf000븁\x0000
+¡\xf000Ā\x0001\x0001 ha recibido\xfffeuna Poké Ball!\xf000븁\x0000
+...\xf000븁\x0000\xfffe¡Oye, espera un momento!\xf000븁\x0000\xfffeCuando los demás hacen algo por ti,\xfffedebes darles las gracias, ¿sabes?\xf000븁\x0000\xfffeAunque sea por cosas que parecen\xfffesin importancia, siempre hay que ser\xf000븀\x0000\xfffeagradecido.\xf000븁\x0000\xfffe¿Cómo das tú las gracias?\xfffeA ver, enséñamelo.
+¿Quieres enseñarme\xfffecómo das las gracias?
+Gracias
+Bueno, ya me lo enseñarás la próxima\xfffevez. ¡Pero que no se te olvide!
+¡Qué expresión tan hermosa!\xfffeLe llega a una al corazón.\xf000븁\x0000\xfffeCuando alguien haga algo por ti,\xfffeasegúrate de darle las gracias.\xf000븁\x0000\xfffeEs algo muy importante en la vida.
+¿Sabías que los miembros del Centro\xfffepueden tener distintos rangos?\xf000븁\x0000\xfffe¡A medida que te vayas encargando\xfffede más sondeos, te ascenderán\xf000븀\x0000\xfffede rango!\xf000븁\x0000\xfffeCon un rango superior, te ganarás\xfffeel respeto de más colegas del Centro\xf000븀\x0000\xfffey el Dire te confiará nuevos sondeos\xf000븀\x0000\xfffecon recompensas más chachis.
+¿Sabías que los miembros del Centro\xfffepueden tener distintos rangos?\xf000븁\x0000\xfffe¡Anda, \xf000Ā\x0001\x0001! ¡Pero si tú tienes\xfffeel Rango B! ¡Te han ascendido!\xf000븁\x0000\xfffeDebes de estar haciendo un trabajo\xfffeformidable con los sondeos.\xf000븁\x0000\xfffeCon cada rango nuevo, puedes\xfffeencargarte de más sondeos.\xf000븁\x0000\xfffeHabla con el Director.
+¿Sabías que los miembros del Centro\xfffepueden tener distintos rangos?\xf000븁\x0000\xfffe¡Anda, \xf000Ā\x0001\x0001! ¡Pero si tú tienes\xfffeel Rango A! ¡Enhorabuena!\xf000븁\x0000\xfffeAlucinante... Pero me parece\xfffeque los sondeos del Rango A\xf000븀\x0000\xfffellevan un montón de trabajo.\xf000븁\x0000\xfffeSuerte con ello.\xf000븁\x0000\xfffeYo también voy a currármelo\xfffepara ganarme un ascenso.
+¿Sabías que los miembros del Centro\xfffepueden tener distintos rangos?\xf000븁\x0000\xfffe¡Ah, \xf000Ā\x0001\x0001! ¡¿Eres miembro de\xfffeRango S?! ¡Mi más sincera enhorabuena!\xf000븁\x0000\xfffeEstás a un paso de obtener\xfffeel rango más alto, el Súper S.\xf000븁\x0000\xfffeSigue trabajando así.\xfffe¡Sé que lo conseguirás!
+¿Sabías que los miembros del Centro\xfffepueden tener distintos rangos?\xf000븁\x0000\xfffe¡Oh, \xf000Ā\x0001\x0001! ¡Eres miembro de\xfffeRango Súper S! Disculpa, no me había\xf000븀\x0000\xfffedado cuenta.\xf000븁\x0000\xfffe¡Voy a trabajar duro para ser digno\xfffede un ascenso como tú!
+Cuando quieras comprobar tu rango y tus\xfffeprogresos en el Centro de Estadística,\xf000븀\x0000\xfffeconsulta el gráfico circular que hay\xf000븀\x0000\xfffeen la pared del fondo.\xf000븁\x0000\xfffeMuestra información sobre los miembros\xfffedel Centro. ¡Sobre ti también, claro!
+¿Has contestado alguna encuesta?\xf000븁\x0000\xfffeConviene que contestes a algunas\xfffepara que tengamos una impresión\xf000븀\x0000\xfffegeneral sobre ti.
+¿No tienes sondeos nuevos\xfffeen el Radar de Sondeos?\xf000븁\x0000\xfffeSi quieres tener más, primero deberías\xfffecontestar las encuestas con tus propias\xf000븀\x0000\xffferespuestas aquí en el Centro.
+Tienes el Rango S, pero todavía no has\xfffecontestado a todas las encuestas, ¿no?\xf000븁\x0000\xfffePiensa que lo que tú quieres saber sobre\xfffelos demás, los demás también quieren\xf000븀\x0000\xfffesaberlo sobre ti.\xf000븁\x0000\xfffeYo que tú contestaría sin falta\xfffea todas las encuestas.
+¡Buen trabajo, \xf000Ā\x0001\x0001!\xf000븁\x0000\xfffe¿Has visto cuánto movimiento\xfffehay por el Centro últimamente?\xf000븁\x0000\xfffeHan llegado nuevos miembros.\xf000븁\x0000\xfffe¡No dejes de recabar información\xfffesobre la gente!
+Cuantos más sondeos hago,\xfffemejor me lo paso.\xf000븁\x0000\xfffe¡Voy a buscar a más gente\xfffea la que encuestar!\xf000븁\x0000\xfffe¡Y todavía es más divertido si haces\xfffelos sondeos con alguien más!
+¿Te está costando hacer los sondeos?\xf000븁\x0000\xfffeA veces es difícil encuestar a muchas\xfffepersonas y es más fácil realizar\xf000븀\x0000\xfffeel sondeo por un período de tiempo\xf000븀\x0000\xfffedeterminado.\xf000븁\x0000\xfffeSe tarda más, pero basta con que\xfffeencuestes a una sola persona\xf000븀\x0000\xfffepara completarlo.
+Permíteme que te dé un consejo.\xf000븁\x0000\xfffeSi vas a lugares abarrotados de gente,\xfffees mejor que elijas el método para\xf000븀\x0000\xffferealizar los sondeos a cierto\xf000븀\x0000\xfffenúmero de sujetos.\xf000븁\x0000\xfffeEl Radar de Sondeos recogerá\xfffelos datos enseguida y terminarás\xf000븀\x0000\xfffeel sondeo en muy poco tiempo.
+¡Enhorabuena, \xf000Ā\x0001\x0001!\xf000븁\x0000\xfffe¡Has conseguido el rango más alto\xfffeen un abrir y cerrar de ojos!\xf000븁\x0000\xfffe¡Voy a fijarme en ti para ganarme yo\xfffetambién el ascenso!
+He contestado a una encuesta y me\xfffehan dicho que podía quedarme\xf000븀\x0000\xfffecon el cuestionario.\xf000븁\x0000\xfffeIntentaré contestar a todas\xfffelas encuestas...
+Después de las encuestas se pasa\xfffea los sondeos.\xf000븁\x0000\xfffeElige el sondeo que quieras consultar\xfffeen el Radar de Sondeos y...\xf000븀\x0000\xfffe¡en marcha!
+Muchos de los nuevos miembros\xfffeno han contestado a las encuestas.\xf000븁\x0000\xfffeY eso que saben que cuantas más\xfffeencuestas contesten, más sondeos\xf000븀\x0000\xfffepodrán hacer con el radar...\xf000븁\x0000\xfffePeor para ellos...
+¡Hola, \xf000Ā\x0001\x0001!\xf000븁\x0000\xfffeLes estoy enseñando a los nuevos\xfffemiembros cómo realizar los sondeos.
+¿Qué clase de películas están de moda\xfffeúltimamente?\xf000븁\x0000\xfffe¿Lo sabes tú, \xf000Ā\x0001\x0001?
+¿Qué clase de comida es más popular\xfffeúltimamente?\xf000븁\x0000\xfffe¿Lo sabes tú, \xf000Ā\x0001\x0001?
+¿Qué clase de...?\xfffeAh, \xf000Ā\x0001\x0001.\xf000븁\x0000\xfffeAhora que lo pienso, es algo que tendría\xfffeque averiguar por mí mismo...\xf000븁\x0000\xfffePerdona que te haya molestado.
+Los sondeos que me encarga el Director\xfffeson bastante complicados.\xf000븁\x0000\xfffeCada vez me cuesta más y más\xfffeterminarlos.
+どうも！　おつかれさまです\xfffe\xf000Ā\x0001\x0001たいいん\xf000븁\x0000\xfffeたいちょうの　いらいは\xfffeぜんぶ　たっせい　しましたか？\xf000븁\x0000\xfffeいらいを　ぜんぶ　たっせいすると\xfffeいいものが　もらえるらしいですよ！
+あ　\xf000Ā\x0001\x0001たいいん！\xfffeおあいできて　こうえいです！\xf000븁\x0000\xfffeどうしよう～\xfffe\xf000Ā\x0001\x0001たいいんに\xf000븀\x0000\xfffeはなしかけられちゃった！
+きみは　うれしいとき\xfffeどんなカンジで　よろこぶ？\xf000븁\x0000\xfffeぼくは『ヤッター！』なんだけど\xfffeもっと　ステキな\xf000븀\x0000\xfffeよろこびかたを　おしえてよ
+うれしいときに　つい　いってしまう！\xfffeそんな　ことばを　おしえてよ！
+やったー！
+¡Felicidades, \xf000Ā\x0001\x0001!\xfffe¿Ya has realizado todos los sondeos?\xf000븁\x0000\xfffeDicen que, cuando los terminas todos,\xfffe¡te ganas un premio estupendo!
+¡Oh, \xf000Ā\x0001\x0001!\xfffe¡Es un honor conocerte!\xf000븁\x0000\xfffe¡Ay, qué nervios!\xfffe¡He hablado con \xf000Ā\x0001\x0001!\xf000븁\x0000\xfffe¡No me lo puedo creer!
+¡Estamos reclutando a nuevos miembros!\xfffe¡Para más detalles, pregunta al Director!
+\xf000Ā\x0001\x0000\xfffeMiembro de Rango C\xfffeSujetos encuestados: \xf000Ȅ\x0001\x0001\xfffeAgradecimientos recibidos: \xf000Ȅ\x0001\x0002
+\xf000Ā\x0001\x0000\xfffeMiembro de Rango B\xfffeSujetos encuestados: \xf000Ȅ\x0001\x0001\xfffeAgradecimientos recibidos: \xf000Ȅ\x0001\x0002
+\xf000Ā\x0001\x0000\xfffeMiembro de Rango A\xfffeSujetos encuestados: \xf000Ȅ\x0001\x0001\xfffeAgradecimientos recibidos: \xf000Ȅ\x0001\x0002
+\xf000Ā\x0001\x0000\xfffeMiembro de Rango S\xfffeSujetos encuestados: \xf000Ȅ\x0001\x0001\xfffeAgradecimientos recibidos: \xf000Ȅ\x0001\x0002
+\xf000Ā\x0001\x0000\xfffeMiembro de Rango Súper S\xfffeSujetos encuestados: \xf000Ȅ\x0001\x0001\xfffeAgradecimientos recibidos: \xf000Ȅ\x0001\x0002
+レッツ　トライ　ヒウンラリー！\xfffeすれちがいちょうさたい　オーケー！！
+すれちがいちょうさたいは　みんなの\xfffeはやりや　このみを　しらべてるー！

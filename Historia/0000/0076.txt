@@ -1,0 +1,29 @@
+¡Aquí en la Estación Radial puedes\xfffemontarte en el Metro Batalla!
+El Metro Batalla, como su nombre\xfffebien indica, es un metro donde\xf000븀\x0000\xfffelos Entrenadores pueden participar\xf000븀\x0000\xfffeen una serie de combates.
+El Metro Batalla consta de siete líneas\xfffeen total.\xf000븁\x0000\xfffeSin embargo, al principio solo podrás\xfffemontar en los siguientes trenes:\xf000븀\x0000\xfffeIndividual, Doble y Multi.
+¡El Metro Batalla consta de siete\xfffelíneas en total!\xf000븁\x0000\xfffeSi quieres montarte en los Trenes Súper,\xfffedeberás tener mucho aguante.
+¡Oye, oye!\xf000븁\x0000\xfffe¿Me enseñas lo que dices al presentarte\xfffeantes de entablar un combate?\xf000븁\x0000\xfffe¿Y lo que sientes al ganar\xfffeo al perder?
+Vale, ¿qué es lo que dices para\xfffepresentarte antes de un combate?\xf000븁\x0000
+Vale, ¿qué es lo que dices tras\xfffeuna derrota?\xf000븁\x0000
+Vale, ¿qué es lo que dices tras\xfffeuna victoria?\xf000븁\x0000
+Vale, ¿qué es lo que dices al saber\xfffeque eres el número uno?\xf000븁\x0000
+¡Vale! ¡Muchas gracias!\xfffeAsí que... \xf000Ĝ\x0001\x0000...
+¿Qué? ¿No me lo quieres decir?\xfffeVaya, es una lástima...
+¡Gracias!\xfffe¿Puedo hacerte otra pregunta?
+Entendido. ¡Muchas gracias!
+ANTES DEL COMBATE
+TRAS UNA VICTORIA
+TRAS UNA DERROTA
+AL SER EL NÚMERO UNO
+NO TE LO DIGO
+Andén Tren Individual
+Andén Tren Doble
+Andén Tren Multi
+Andén Tren Wi-Fi
+Andén Supertrén Individual
+Andén Supertrén Doble
+Andén Supertrén Multi
+Andén del tren con destino\xfffea Pueblo Biscuit
+En mantenimiento
+no data
+no data
