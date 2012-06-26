@@ -1,26 +1,26 @@
-ようこそ……\xfffeブラックシティへ！\xf000븁\x0000\xfffeここは　ゆめと　よくぼう　そして\xfffe……よくぼうの　まちさ\xf000븁\x0000\xfffeそして　おれは\xfffeそんな　よくぼう　うずまく\xf000븀\x0000\xfffeブラックシティの　ボスなのさ
-おまえの\xfffeよくぼうも　たいしたもんだ\xf000븁\x0000\xfffeしってるんだぜ\xf000븁\x0000\xfffeちょうしよく\xfffeくろのまてんろうを　のぼってるんだろ\xf000븁\x0000\xfffeいいんだぜ……\xf000븁\x0000\xfffeおれは　よくぼう　あふれる　ヤツは\xfffeしょうじきだから　すき　なんだよ
-くろのまてんろうの　バンジロウに\xfffeおまえ……\xf000븁\x0000\xfffeブラックシティで　おまえらのように\xfffeすごい　やつが　いると\xf000븀\x0000\xfffeおれの　そんざいが　かすんでしまう\xf000븁\x0000\xfffeいいや！\xf000븁\x0000\xfffeおれの　よくぼうは\xfffeとどまることを　しらねえ……\xf000븁\x0000\xfffeそうよ！　おれさまこそが\xfffeブラックシティの　ボスだぜ！
-ねだんが　たかいから\xfffeかちが　ある……\xf000븁\x0000\xfffeそんな　おもいこみだと　そんをする！\xfffeだまされないため　かしこくなる！！
-もっと　かせぐために\xfffeもっともっと　えらくなるぜ！
-おかねで　なんでも\xfffeてにはいるとは　かぎらない\xf000븁\x0000\xfffeだが　たいていの　ものは\xfffeおかねで　てにはいるんだよ
-みんなと　おなじなら\xfffeまんぞく！　って　ダメよ\xf000븁\x0000\xfffeそんなの　かんがえてないだけ！\xfffeわるい　おとなに　だまされちゃうよ
-うーん　もっと　かねになる\xfffeいい　しごとは　ないか！？\xf000븁\x0000\xfffeだって　そうだろ？\xf000븁\x0000\xfffeおなじ　しごとを　するなら\xfffeたくさん　おかねを　もらいたいよ！
-この　ポケモン\xfffeうったら　いくらに　なるのか？\xf000븁\x0000\xfffeん？　ねだん　だって\xfffeこいつの　かちを　あらわしてるぜ
-ほしいものが　すべてある\xfffeおかねさえ　あれば！　あれば！！\xf000븀\x0000\xfffeそうよ！　ほんきで　かせぐわよ！
-ひとは　のぞむものを　てにいれるため\xfffeぶんめいを　はったつ　させてきたのか
-しょうばいはんじょう！\xf000븁\x0000\xfffeブラックシティの　めいてんと\xfffeいえば　この　おみせ！\xf000븁\x0000\xfffeきょうは　とくべつに\xfffe\xf000ĉ\x0001\x0000を　\xf000Ȅ\x0001\x0001円で！\xf000븀\x0000\xfffeいかがですか？
-しょうばいはんじょう！\xf000븁\x0000\xfffeブラックシティの　めいてんと\xfffeいえば　このおみせ！\xf000븁\x0000\xfffeきょうは　とくべつに\xfffe\xf000ĉ\x0001\x0000を　\xf000Ȅ\x0001\x0001円で！\xf000븀\x0000\xfffeいかがですか？
-はい　どうぞ！\xfffeおきゃくさん　いい　かいものしたね！\xf000븁\x0000
-おっと！\xfffeバッグが　いっぱいだぞ！
-おいおい！\xfffeおかねが　たりないぞ！
-また　きてくれよ！\xfffeひんしつには　じしんが　あるからさ！
-おっと　すまない\xfffeきょうは　うりきれだ\xf000븀\x0000\xfffeまた　べつのひに　きてくれよ
-せんきゃくばんらい！\xf000븁\x0000\xfffeブラックシティの　ほんけと\xfffeいえば　この　おみせ！\xf000븁\x0000\xfffeきょうは　とくべつに\xfffe\xf000ĉ\x0001\x0000を　\xf000Ȅ\x0001\x0001円で！\xf000븀\x0000\xfffeいかがですか？
-せんきゃくばんらい！\xf000븁\x0000\xfffeブラックシティの　ほんけと\xfffeいえば　この　おみせ！\xf000븁\x0000\xfffeきょうは　とくべつに\xfffe\xf000ĉ\x0001\x0000を　\xf000Ȅ\x0001\x0001円で！\xf000븀\x0000\xfffeいかがですか？
-はい　どうぞ！\xfffeおきゃくさん　いい　かいものしたね！\xf000븁\x0000
-おっと！\xfffeバッグが　いっぱいだぞ！
-おいおい！\xfffeおかねが　たりないぞ！
+Te doy la bienvenida a Ciudad Negra...\xf000븁\x0000\xfffeCiudad de sueños, ambiciones y...\xfffey más ambiciones.\xf000븁\x0000\xfffeY yo soy el jefe de todo ese torbellino\xfffede ambiciones.\xf000븁\x0000
+En esta ciudad hay mucha gente que vive\xfffepara hacer realidad todas sus ambiciones.\xf000븁\x0000\xfffeYa sé...\xfffeIntenta derrotar a \xf000Ȅ\x0001\x0000 de ellos.\xf000븁\x0000\xfffeSi lo consigues, puede que tus deseos\xfffetambién se cumplan.\xf000븁\x0000
+Ya has conseguido derrotar a \xf000Ȅ\x0001\x0001.\xfffe¡Bueno! ¡Venga, ánimo!
+¡Guau!\xfffeYa has derrotado a \xf000Ȅ\x0001\x0000 personas.\xf000븁\x0000\xfffeTienes más ambición de lo que parece.\xfffe¡Tengo un cosquilleo en el estómago!\xf000븁\x0000\xfffe¡Me gustas!\xf000븁\x0000
+¡\xf000Ā\x0001\x0002 ha ganado \xf000Ȅ\x0001\x0003 $!
+Ahora intenta derrotar a\xfffe\xf000Ȅ\x0001\x0004 personas.\xf000븁\x0000\xfffeMuéstrame hasta dónde llega tu ambición.
+¡Bien! ¡Eres excepcional!\xf000븁\x0000\xfffe¡No hay nadie que te haga sombra\xfffeen esta ciudad!\xf000븁\x0000\xfffeAl contrario, ¡brillas con luz propia!
+¡Hala! ¡Es carísimo!\xf000븁\x0000\xfffeEso quiere decir que será el no va más.\xfffe¡Lo quiero! ¡Y eso! ¡Y eso otro!
+¡Quiero ganar más combates!\xfffe¡Y más dinero!
+¡Si tienes dinero, esta ciudad puede\xfffedarte lo que quieras!
+¡Esta ciudad tiene de todo!\xfffe¡De todo de todo! ¡Y aún más!
+Ah... ¿No habrá un trabajo mejor\xfffedonde ganar más?
+¿Por cuánto vendes este Pokémon?
+¡Ojalá tuviera dinero para comprármelo\xfffetodo! ¡Ojalá!
+El poder de la civilización es increíble.\xf000븁\x0000\xfffeLa gente termina creando todo\xfffelo que se imagina.
+¡Ji, ji! ¡Te reto a un Combate Rotatorio!
+¡Elige los tres Pokémon con los que\xfffevas a participar!\xf000븁\x0000\xfffe¡El Combate Rotatorio es una nueva\xfffeforma de lucha en equipos de tres!
+¡Je! Te doy miedo, ¿eh?
+¡¡El Combate Rotatorio es la salsa\xfffede la vida!!
+Hace poco he tenido la suerte de\xfffehacerme con un Pokémon.\xf000븁\x0000\xfffe¡Quiero ponerlo a prueba ya!\xfffe¡Te reto a un Combate Rotatorio!
+¡El Combate Rotatorio se libra en\xfffeequipos de tres!\xf000븁\x0000\xfffeTienes que elegir tres Pokémon.
+¡Tengo tanta suerte que hasta da miedo!
+Mmm... Hoy no he tenido suerte.\xfffeEso es todo.
 また　きてくれよ！\xfffeひんしつには　じしんが　あるからさ！
 おっと　すまない\xfffeきょうは　うりきれだ\xf000븀\x0000\xfffeまた　べつのひに　きてくれよ
 はくりたばい！\xf000븁\x0000\xfffeブラックシティの　がんそと\xfffeいえば　この　おみせ！\xf000븁\x0000\xfffeきょうは　とくべつに\xfffe\xf000ĉ\x0001\x0000を　\xf000Ȅ\x0001\x0001円で！\xf000븀\x0000\xfffeいかがですか？
@@ -37,5 +37,5 @@
 おいおい！\xfffeおかねが　たりないぞ！
 また　きてくれよ！\xfffeひんしつには　じしんが　あるからさ！
 おっと　すまない\xfffeきょうは　うりきれだ\xf000븀\x0000\xfffeまた　べつのひに　きてくれよ
-かう
-いらない
+SÍ
+NO
