@@ -200,6 +200,6 @@ NO
 ー
 ♂
 ♀
-せいべつなし
-持っている
-持っていない
+Naturaleza
+Capacidad
+Objeto

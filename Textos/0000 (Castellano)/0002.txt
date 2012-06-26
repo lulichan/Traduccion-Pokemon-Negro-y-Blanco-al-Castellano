@@ -96,11 +96,11 @@ No tendría ningún efecto.
 \xf000Ă\x0001\x0000 ya no tiene quemaduras.
 \xf000Ă\x0001\x0000 ya no está congelado.
 PP restaurados.
-¡\xf000Ă\x0001\x0000は\xfffeya no está debilitado!
-¡\xf000Ă\x0001\x0000は\xffferecuperó su estado!
-¡\xf000Ă\x0001\x0000の\xfffeya no está confuso!
-\xf000Ă\x0001\x0000の\xfffeya no está enamorado.
-¡\xf000Ă\x0001\x0000は\xfffese despertó!
+¡\xf000Ă\x0001\x0000\xfffeya no está debilitado!
+¡\xf000Ă\x0001\x0000\xffferecuperó su estado!
+¡\xf000Ă\x0001\x0000\xfffeya no está confuso!
+\xf000Ă\x0001\x0000\xfffeya no está enamorado.
+¡\xf000Ă\x0001\x0000\xfffese despertó!
 \xf000Ă\x0001\x0000 ya ha sido seleccionado.
 ¿Restaurar qué movimiento?
 ¡El efecto de \xf000ć\x0001\x0001 impide usar\xfffeel objeto con \xf000Ă\x0001\x0000!

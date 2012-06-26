@@ -143,19 +143,19 @@ Usaste una Piedra Día,\xfffepero no pasó nada...
 ¡ORGANIZAR POR ORDEN DES.!
 ¡ORGANIZAR POR ORDEN ASC.!
 TODO
-LIBERAR ESPACIO
+ESP. LIBRE
 もとのポケットへ
 Por favor, selecione\xfffeel objeto.
 \xf000Ē\x0001\x0000に　いれる　もちものが\xfffe\xf000Ȃ\x0001\x0001しゅるい　みつかりました！
 \xf000ĉ\x0001\x0001を\xfffe\xf000Ē\x0001\x0000に　いどう　しました！
 \xf000ĉ\x0001\x0001を\xfffe\xf000Ē\x0001\x0000に　もどしました！
-どの　ならびに　かえますか？
+¿Cómo quieres organizarlo?
 POR TIPO
 POR NOMBRE
 DESCENDENTE
 ASCENDENTE
 POR Nº
 もちものが\xfffe\xf000Ȃ\x0001\x0001しゅるい　みつかりました！
-ばんごうじゅんに\xfffeもちものを　せいり　しました！
+¡Organizar\xfffepor orden numerico!
 No se ha encontrado
 GUARDAR
